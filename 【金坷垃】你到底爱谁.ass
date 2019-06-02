@@ -1,0 +1,43 @@
+﻿[Script Info]
+Title: 【金坷垃】你到底爱谁_人力VOCALOID_鬼畜_bilibili_哔哩哔哩
+Original Script: 根据 https://www.bilibili.com/video/av13290998/?from=search&seid=6762317031959607891 的弹幕信息，由 https://github.com/tiansh/us-danmaku 生成
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 560
+PlayResY: 420
+Timer: 10.0000
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Fix,Microsoft YaHei UI,25,&H66FFFFFF,&H66FFFFFF,&H66000000,&H66000000,1,0,0,0,100,100,0,0,1,2,0,2,20,20,2,0
+Style: R2L,Microsoft YaHei UI,25,&H66FFFFFF,&H66FFFFFF,&H66000000,&H66000000,1,0,0,0,100,100,0,0,1,2,0,2,20,20,2,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:10.16,0:00:18.16,R2L,,20,20,2,,{\move(597.5,25,-37.5,25)}第一？
+Dialogue: 0,0:00:11.15,0:00:19.15,R2L,,20,20,2,,{\move(622.5,50,-62.5,50)}我来应援了
+Dialogue: 0,0:00:15.22,0:00:23.22,R2L,,20,20,2,,{\move(597.5,25,-37.5,25)}可以的
+Dialogue: 0,0:00:15.61,0:00:23.61,R2L,,20,20,2,,{\move(608,50,-48,50)}dan mu
+Dialogue: 0,0:00:16.43,0:00:24.43,R2L,,20,20,2,,{\move(685,75,-125,75)}前排。。。。。。。。
+Dialogue: 0,0:00:19.36,0:00:27.36,R2L,,20,20,2,,{\move(597.5,25,-37.5,25)}厉害了
+Dialogue: 0,0:00:19.56,0:00:27.56,R2L,,20,20,2,,{\move(655,50,-95,50)}????????????????
+Dialogue: 0,0:00:25.41,0:00:33.41,R2L,,20,20,2,,{\move(647.5,25,-87.5,25)}哈哈哈哈哈哈哈
+Dialogue: 0,0:00:39.32,0:00:47.32,R2L,,20,20,2,,{\move(610,25,-50,25)}妙，妙啊
+Dialogue: 0,0:00:40.83,0:00:48.83,R2L,,20,20,2,,{\move(650.5,50,-90.5,50)}关上前30的大门
+Dialogue: 0,0:00:51.18,0:00:59.18,R2L,,20,20,2,,{\move(588,25,-28,25)}第37
+Dialogue: 0,0:00:53.52,0:01:01.52,R2L,,20,20,2,,{\move(635,25,-75,25)}小学听的歌啊
+Dialogue: 0,0:00:58.67,0:01:06.67,R2L,,20,20,2,,{\move(596,25,-36,25)}第433
+Dialogue: 0,0:01:14.01,0:01:22.01,R2L,,20,20,2,,{\move(610,25,-50,25)}弹幕呢？
+Dialogue: 0,0:02:02.09,0:02:06.09,Fix,,20,20,2,,{\pos(280,25)\c&H1200E7}毫无违和感
+Dialogue: 0,0:02:47.72,0:02:55.72,R2L,,20,20,2,,{\move(597.5,25,-37.5,25)}厉害了
+Dialogue: 0,0:04:14.37,0:04:22.37,R2L,,20,20,2,,{\move(610,25,-50,25)}进度条？
+Dialogue: 0,0:04:18.11,0:04:26.11,R2L,,20,20,2,,{\move(610,25,-50,25)}正片开始
+Dialogue: 0,0:04:25.46,0:04:33.46,R2L,,20,20,2,,{\move(622.5,25,-62.5,25)}正片上线！
+Dialogue: 0,0:04:32.97,0:04:36.97,Fix,,20,20,2,,{\pos(280,25)\c&H1200E7}突然鬼畜
+Dialogue: 0,0:04:41.63,0:04:49.63,R2L,,20,20,2,,{\move(610,25,-50,25)}措不及防
+Dialogue: 0,0:04:50.17,0:04:54.17,Fix,,20,20,2,,{\pos(280,25)\c&H1200E7}圣，圣第压狗
+Dialogue: 0,0:05:05.12,0:05:13.12,R2L,,20,20,2,,{\move(622.5,25,-62.5,25)}上帝压狗～
+Dialogue: 0,0:05:58.92,0:06:06.92,R2L,,20,20,2,,{\move(647.5,25,-87.5,25)}漫长的上帝雅阁
+Dialogue: 0,0:06:32.85,0:06:36.85,Fix,,20,20,2,,{\pos(280,25)\c&H1200E7}上帝压狗，上帝压狗
+Dialogue: 0,0:06:36.97,0:06:40.97,Fix,,20,20,2,,{\pos(280,25)\c&H1200E7}上帝压狗
+Dialogue: 0,0:06:39.83,0:06:43.83,Fix,,20,20,2,,{\pos(280,370)\c&HCCFF00}.............\

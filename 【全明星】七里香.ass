@@ -1,0 +1,29 @@
+﻿[Script Info]
+Title: 【全明星】七里香_鬼畜调教_鬼畜_bilibili_哔哩哔哩
+Original Script: 根据 https://www.bilibili.com/video/av7938407/?from=search&seid=10088702645098069537 的弹幕信息，由 https://github.com/tiansh/us-danmaku 生成
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 560
+PlayResY: 420
+Timer: 10.0000
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Fix,Microsoft YaHei UI,25,&H66FFFFFF,&H66FFFFFF,&H66000000,&H66000000,1,0,0,0,100,100,0,0,1,2,0,2,20,20,2,0
+Style: R2L,Microsoft YaHei UI,25,&H66FFFFFF,&H66FFFFFF,&H66000000,&H66000000,1,0,0,0,100,100,0,0,1,2,0,2,20,20,2,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.22,0:00:08.22,R2L,,20,20,2,,{\move(660,25,-100,25)}弹幕这么少。。。
+Dialogue: 0,0:00:06.27,0:00:14.27,R2L,,20,20,2,,{\move(572.5,25,-12.5,25)}。
+Dialogue: 0,0:00:13.93,0:00:21.93,R2L,,20,20,2,,{\move(585,25,-25,25)\c&H000000\3c&HFFFFFF}第一
+Dialogue: 0,0:00:21.09,0:00:29.09,R2L,,20,20,2,,{\move(585,25,-25,25)}无人
+Dialogue: 0,0:00:40.61,0:00:48.61,R2L,,20,20,2,,{\move(597.5,25,-37.5,25)}没人吗
+Dialogue: 0,0:00:44.32,0:00:52.32,R2L,,20,20,2,,{\move(572.5,25,-12.5,25)}有
+Dialogue: 0,0:00:44.45,0:00:52.45,R2L,,20,20,2,,{\move(697.5,50,-137.5,50)}看到我你已经不是第三了
+Dialogue: 0,0:00:54.57,0:01:02.57,R2L,,20,20,2,,{\move(585,25,-25,25)\c&H000000\3c&HFFFFFF}路过
+Dialogue: 0,0:01:04.59,0:01:12.59,R2L,,20,20,2,,{\move(585,25,-25,25)}加油
+Dialogue: 0,0:01:10.89,0:01:18.89,R2L,,20,20,2,,{\move(610,25,-50,25)}火钳刘明
+Dialogue: 0,0:01:11.36,0:01:19.36,R2L,,20,20,2,,{\move(610,50,-50,50)}火钳刘明
+Dialogue: 0,0:01:27.50,0:01:35.50,R2L,,20,20,2,,{\move(597.5,25,-37.5,25)}厉害了
+Dialogue: 0,0:01:33.17,0:01:41.17,R2L,,20,20,2,,{\move(585,25,-25,25)}可以

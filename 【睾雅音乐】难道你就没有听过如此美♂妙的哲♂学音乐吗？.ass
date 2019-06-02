@@ -1,0 +1,18 @@
+﻿[Script Info]
+Title: 【睾雅音乐】难道你就没有听过如此美♂妙的哲♂学音乐吗？_鬼畜调教_鬼畜_bilibili_哔哩哔哩
+Original Script: 根据 https://www.bilibili.com/video/av16737636/?from=search&seid=9411495267595811143 的弹幕信息，由 https://github.com/tiansh/us-danmaku 生成
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 560
+PlayResY: 420
+Timer: 10.0000
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Fix,SimHei,25,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,1,0,0,0,100,100,0,0,1,2,0,2,20,20,2,0
+Style: R2L,SimHei,25,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,1,0,0,0,100,100,0,0,1,2,0,2,20,20,2,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:05.30,0:00:13.30,R2L,,20,20,2,,{\move(636.5,25,-76.5,25)}原版是真好听
+Dialogue: 0,0:00:11.41,0:00:19.41,R2L,,20,20,2,,{\move(592.5,25,-32.5,25)}first

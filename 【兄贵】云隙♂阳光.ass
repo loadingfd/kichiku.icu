@@ -1,0 +1,25 @@
+﻿[Script Info]
+Title: 【兄贵】云隙♂阳光_bilibili_哔哩哔哩
+Original Script: 根据 https://www.bilibili.com/watchlater/#/av20400866/p1 的弹幕信息，由 https://github.com/tiansh/us-danmaku 生成
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 560
+PlayResY: 420
+Timer: 10.0000
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Fix,SimHei,25,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,1,0,0,0,100,100,0,0,1,2,0,2,20,20,2,0
+Style: R2L,SimHei,25,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,1,0,0,0,100,100,0,0,1,2,0,2,20,20,2,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.64,0:00:08.64,R2L,,20,20,2,,{\move(700.5,25,-140.5,25)}永远的王（re小鬼并感）
+Dialogue: 0,0:00:00.64,0:00:08.64,R2L,,20,20,2,,{\move(700.5,50,-140.5,50)}永远的王（re小鬼并感）
+Dialogue: 0,0:00:12.02,0:00:20.02,R2L,,20,20,2,,{\move(637,25,-77,25)}王の离去 T_T
+Dialogue: 0,0:00:12.51,0:00:20.51,R2L,,20,20,2,,{\move(611,50,-51,50)}人体唢呐
+Dialogue: 0,0:00:14.25,0:00:22.25,R2L,,20,20,2,,{\move(636.5,25,-76.5,25)}王，一路走好
+Dialogue: 0,0:00:19.80,0:00:27.80,R2L,,20,20,2,,{\move(611,25,-51,25)}妙不可言
+Dialogue: 0,0:00:27.01,0:00:35.01,R2L,,20,20,2,,{\move(643,25,-83,25)}B站没有比利了
+Dialogue: 0,0:00:30.95,0:00:38.95,R2L,,20,20,2,,{\move(611,25,-51,25)}火钳刘明
+Dialogue: 0,0:01:05.82,0:01:13.82,R2L,,20,20,2,,{\move(592.5,25,-32.5,25)}R.I.P

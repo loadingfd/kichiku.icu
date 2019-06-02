@@ -1,0 +1,201 @@
+﻿[Script Info]
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 1920
+PlayResY: 1080
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: AcplayDefault, Microsoft YaHei, 64, &H00FFFFFF, &H00FFFFFF, &H00000000, &H00000000, 0, 0, 0, 0, 100, 100, 0.00, 0.00, 1, 1, 0, 2, 20, 20, 20, 0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 3,0:00:00.38,0:00:10.04,AcplayDefault,,0000,0000,0000,,{\move(2048, 64, -128, 64)}炫酷开头
+Dialogue: 3,0:00:00.66,0:00:10.66,AcplayDefault,,0000,0000,0000,,{\move(2112, 128, -192, 128)}数码宝贝音？
+Dialogue: 3,0:00:01.41,0:00:12.41,AcplayDefault,,0000,0000,0000,,{\move(2176, 192, -256, 192)}哲♂学fa♂动机
+Dialogue: 3,0:00:01.87,0:00:09.54,AcplayDefault,,0000,0000,0000,,{\move(1952, 256, -32, 256)}1
+Dialogue: 3,0:00:03.65,0:00:13.31,AcplayDefault,,0000,0000,0000,,{\move(2048, 320, -128, 320)}2049
+Dialogue: 3,0:00:03.70,0:00:13.20,AcplayDefault,,0000,0000,0000,,{\move(2080, 384, -160, 384)}大制作开头
+Dialogue: 3,0:00:04.82,0:00:14.48,AcplayDefault,,0000,0000,0000,,{\move(2048, 448, -128, 448)}火钳刘明
+Dialogue: 3,0:00:05.67,0:00:09.67,AcplayDefault,,0000,0000,0000,,{\a6\pos(960, 1)\c&H02F1FE\3c&HFFFFFF}炫酷♂开头
+Dialogue: 3,0:00:05.93,0:00:15.60,AcplayDefault,,0000,0000,0000,,{\move(2048, 576, -128, 576)}特效开头
+Dialogue: 3,0:00:06.39,0:00:15.89,AcplayDefault,,0000,0000,0000,,{\move(2080, 640, -160, 640)}睾级♂开头
+Dialogue: 3,0:00:06.90,0:00:15.90,AcplayDefault,,0000,0000,0000,,{\move(2016, 704, -96, 704)}233
+Dialogue: 3,0:00:07.29,0:00:16.80,AcplayDefault,,0000,0000,0000,,{\move(2080, 768, -160, 768)}非标准开头
+Dialogue: 3,0:00:09.92,0:00:20.42,AcplayDefault,,0000,0000,0000,,{\move(2144, 832, -224, 832)}该来的迟早要来
+Dialogue: 3,0:00:10.34,0:00:18.67,AcplayDefault,,0000,0000,0000,,{\move(1984, 896, -64, 896)}66
+Dialogue: 3,0:00:11.09,0:00:20.75,AcplayDefault,,0000,0000,0000,,{\move(2048, 64, -128, 64)}火钳留名
+Dialogue: 3,0:00:11.26,0:00:15.26,AcplayDefault,,0000,0000,0000,,{\a6\pos(960, 1)\c&H02F1FE\3c&HFFFFFF}that ♂good 
+Dialogue: 3,0:00:13.14,0:00:22.81,AcplayDefault,,0000,0000,0000,,{\move(2048, 192, -128, 192)}火钳刘明
+Dialogue: 3,0:00:13.77,0:00:23.44,AcplayDefault,,0000,0000,0000,,{\move(2048, 256, -128, 256)}顶针修辞
+Dialogue: 3,0:00:14.58,0:00:22.25,AcplayDefault,,0000,0000,0000,,{\move(1952, 320, -32, 320)}6
+Dialogue: 3,0:00:14.77,0:00:24.44,AcplayDefault,,0000,0000,0000,,{\move(2048, 384, -128, 384)}火钳刘明
+Dialogue: 3,0:00:16.50,0:00:27.50,AcplayDefault,,0000,0000,0000,,{\move(2176, 448, -256, 448)}that♂boy
+Dialogue: 3,0:00:17.57,0:00:30.07,AcplayDefault,,0000,0000,0000,,{\move(2272, 512, -352, 512)}这首歌快被VAN♂坏啦
+Dialogue: 3,0:00:17.61,0:00:21.61,AcplayDefault,,0000,0000,0000,,{\a6\pos(960, 1)\c&H02F1FE\3c&HFFFFFF}van♂能英语
+Dialogue: 3,0:00:17.79,0:00:27.46,AcplayDefault,,0000,0000,0000,,{\move(2048, 640, -128, 640)}火钳刘明
+Dialogue: 3,0:00:18.10,0:00:28.10,AcplayDefault,,0000,0000,0000,,{\move(2112, 704, -192, 704)}666666
+Dialogue: 3,0:00:18.54,0:00:28.20,AcplayDefault,,0000,0000,0000,,{\move(2048, 768, -128, 768)}火前留名
+Dialogue: 3,0:00:19.71,0:00:31.21,AcplayDefault,,0000,0000,0000,,{\move(2208, 832, -288, 832)\c&HEAA000\3c&HFFFFFF}妈，你听我解释……
+Dialogue: 3,0:00:20.05,0:00:29.72,AcplayDefault,,0000,0000,0000,,{\move(2048, 896, -128, 896)}火钳刘明
+Dialogue: 3,0:00:20.61,0:00:33.11,AcplayDefault,,0000,0000,0000,,{\move(2272, 64, -352, 64)}interesting
+Dialogue: 3,0:00:21.29,0:00:29.62,AcplayDefault,,0000,0000,0000,,{\move(1984, 128, -64, 128)}泪目
+Dialogue: 3,0:00:22.08,0:00:33.08,AcplayDefault,,0000,0000,0000,,{\move(2176, 192, -256, 192)}that boy
+Dialogue: 3,0:00:24.27,0:00:33.94,AcplayDefault,,0000,0000,0000,,{\move(2048, 256, -128, 256)}赞美の心
+Dialogue: 3,0:00:28.11,0:00:37.11,AcplayDefault,,0000,0000,0000,,{\move(2016, 320, -96, 320)}有点骚
+Dialogue: 3,0:00:28.35,0:00:37.35,AcplayDefault,,0000,0000,0000,,{\move(2016, 384, -96, 384)}在现场
+Dialogue: 3,0:00:28.39,0:00:37.39,AcplayDefault,,0000,0000,0000,,{\move(2016, 448, -96, 448)}有点骚
+Dialogue: 3,0:00:29.01,0:00:40.51,AcplayDefault,,0000,0000,0000,,{\move(2208, 512, -288, 512)}拥有自♂由的男人们
+Dialogue: 3,0:00:34.34,0:00:43.34,AcplayDefault,,0000,0000,0000,,{\move(2016, 576, -96, 576)}好听！
+Dialogue: 3,0:00:34.60,0:00:44.10,AcplayDefault,,0000,0000,0000,,{\move(2080, 640, -160, 640)}跟着一起念
+Dialogue: 3,0:00:36.05,0:00:46.55,AcplayDefault,,0000,0000,0000,,{\move(2144, 704, -224, 704)}出现了，现场怪
+Dialogue: 3,0:00:36.49,0:00:44.82,AcplayDefault,,0000,0000,0000,,{\move(1984, 768, -64, 768)}妙啊
+Dialogue: 3,0:00:37.21,0:00:41.21,AcplayDefault,,0000,0000,0000,,{\a6\pos(960, 1)\c&H1200E7\3c&HFFFFFF}硬币已投
+Dialogue: 3,0:00:37.58,0:00:41.58,AcplayDefault,,0000,0000,0000,,{\a6\pos(960, 65)\c&H1200E7\3c&HFFFFFF}龙雷～龙雷～龙雷～
+Dialogue: 3,0:00:38.02,0:00:42.02,AcplayDefault,,0000,0000,0000,,{\a6\pos(960, 129)\c&H1200E7\3c&HFFFFFF}亿万级调♂硬湿
+Dialogue: 3,0:00:39.23,0:00:43.23,AcplayDefault,,0000,0000,0000,,{\a6\pos(960, 193)}ASS WE CAN
+Dialogue: 3,0:00:39.23,0:00:43.23,AcplayDefault,,0000,0000,0000,,{\a6\pos(960, 257)\c&H1200E7\3c&HFFFFFF}ASS WE CAN
+Dialogue: 3,0:00:39.23,0:00:43.23,AcplayDefault,,0000,0000,0000,,{\a6\pos(960, 321)\c&H02F1FE\3c&HFFFFFF}ASS WE CAN
+Dialogue: 3,0:00:39.23,0:00:43.23,AcplayDefault,,0000,0000,0000,,{\a6\pos(960, 385)\c&H439800\3c&HFFFFFF}ASS WE CAN
+Dialogue: 3,0:00:39.23,0:00:43.23,AcplayDefault,,0000,0000,0000,,{\a6\pos(960, 449)\c&H7B3A68\3c&HFFFFFF}ASS WE CAN
+Dialogue: 3,0:00:39.23,0:00:43.23,AcplayDefault,,0000,0000,0000,,{\a6\pos(960, 513)\c&HCBC084\3c&HFFFFFF}ASS WE CAN
+Dialogue: 3,0:00:39.23,0:00:43.23,AcplayDefault,,0000,0000,0000,,{\a6\pos(960, 577)\c&H397992\3c&HFFFFFF}ASS WE CAN
+Dialogue: 3,0:00:39.23,0:00:43.23,AcplayDefault,,0000,0000,0000,,{\a6\pos(960, 641)\c&HEAA000\3c&HFFFFFF}ASS WE CAN
+Dialogue: 3,0:00:39.23,0:00:43.23,AcplayDefault,,0000,0000,0000,,{\a6\pos(960, 705)\c&H7F02E2\3c&HFFFFFF}ASS WE CAN
+Dialogue: 3,0:00:39.23,0:00:43.23,AcplayDefault,,0000,0000,0000,,{\a6\pos(960, 769)\c&H20C390\3c&HFFFFFF}ASS WE CAN
+Dialogue: 3,0:00:39.46,0:00:49.12,AcplayDefault,,0000,0000,0000,,{\move(2048, 768, -128, 768)}稀有素材
+Dialogue: 3,0:00:40.25,0:00:53.25,AcplayDefault,,0000,0000,0000,,{\move(2752, 832, -832, 832)}I am lonely lonely lonely~
+Dialogue: 3,0:00:41.70,0:00:52.70,AcplayDefault,,0000,0000,0000,,{\move(2176, 896, -256, 896)}好听！赞美之心♂
+Dialogue: 3,0:00:41.90,0:00:50.23,AcplayDefault,,0000,0000,0000,,{\move(1984, 64, -64, 64)}高雅
+Dialogue: 3,0:00:43.63,0:00:56.63,AcplayDefault,,0000,0000,0000,,{\move(2400, 128, -480, 128)}你这是that is♂good
+Dialogue: 3,0:00:45.09,0:00:54.75,AcplayDefault,,0000,0000,0000,,{\move(2048, 192, -128, 192)\c&H0203FE\3c&HFFFFFF}乖乖站好
+Dialogue: 3,0:00:47.89,0:00:51.89,AcplayDefault,,0000,0000,0000,,{\a6\pos(960, 1)\c&H1200E7\3c&HFFFFFF}龙雷～龙雷～龙雷～
+Dialogue: 3,0:00:48.77,0:00:58.43,AcplayDefault,,0000,0000,0000,,{\move(2048, 320, -128, 320)}。。。。
+Dialogue: 3,0:00:49.06,0:01:00.56,AcplayDefault,,0000,0000,0000,,{\move(2208, 384, -288, 384)}好像混入了什么东西
+Dialogue: 3,0:00:51.79,0:01:01.29,AcplayDefault,,0000,0000,0000,,{\move(2080, 448, -160, 448)}赞美之心♂
+Dialogue: 3,0:00:52.53,0:01:02.20,AcplayDefault,,0000,0000,0000,,{\move(2048, 512, -128, 512)}稀有素材
+Dialogue: 3,0:00:53.03,0:01:04.03,AcplayDefault,,0000,0000,0000,,{\move(2176, 576, -256, 576)}哲学让我如此快乐
+Dialogue: 3,0:00:53.40,0:01:03.40,AcplayDefault,,0000,0000,0000,,{\move(2112, 640, -192, 640)}串烧搞起来了
+Dialogue: 3,0:00:53.96,0:01:03.62,AcplayDefault,,0000,0000,0000,,{\move(2048, 704, -128, 704)}节奏熟悉
+Dialogue: 3,0:00:53.96,0:01:03.62,AcplayDefault,,0000,0000,0000,,{\move(2048, 768, -128, 768)}耳朵怀孕
+Dialogue: 3,0:00:54.35,0:01:04.02,AcplayDefault,,0000,0000,0000,,{\move(2048, 832, -128, 832)}赞美的心
+Dialogue: 3,0:00:54.39,0:01:03.39,AcplayDefault,,0000,0000,0000,,{\move(2016, 896, -96, 896)}神转折
+Dialogue: 3,0:00:57.77,0:01:07.43,AcplayDefault,,0000,0000,0000,,{\move(2048, 64, -128, 64)}稀有素材
+Dialogue: 3,0:01:01.16,0:01:14.16,AcplayDefault,,0000,0000,0000,,{\move(2304, 128, -384, 128)}lonelylonely
+Dialogue: 3,0:01:02.37,0:01:12.87,AcplayDefault,,0000,0000,0000,,{\move(2144, 192, -224, 192)}Lonely 
+Dialogue: 3,0:01:02.61,0:01:12.27,AcplayDefault,,0000,0000,0000,,{\move(2048, 256, -128, 256)}稀有素材
+Dialogue: 3,0:01:02.65,0:01:06.65,AcplayDefault,,0000,0000,0000,,{\a6\pos(960, 1)}我先来 稀有素材
+Dialogue: 3,0:01:02.69,0:01:13.69,AcplayDefault,,0000,0000,0000,,{\move(2176, 384, -256, 384)\c&HFFFF00}突如其来的二小姐
+Dialogue: 3,0:01:02.94,0:01:12.44,AcplayDefault,,0000,0000,0000,,{\move(2080, 448, -160, 448)}终极稀有级
+Dialogue: 3,0:01:03.01,0:01:12.51,AcplayDefault,,0000,0000,0000,,{\move(2080, 512, -160, 512)}稀有素材！
+Dialogue: 3,0:01:03.23,0:01:07.23,AcplayDefault,,0000,0000,0000,,{\a6\pos(960, 65)\c&H7B3A68\3c&HFFFFFF}史诗素材
+Dialogue: 3,0:01:03.73,0:01:16.73,AcplayDefault,,0000,0000,0000,,{\move(2304, 640, -384, 640)}U.N.二大爷就是他吗？
+Dialogue: 3,0:01:04.62,0:01:14.28,AcplayDefault,,0000,0000,0000,,{\move(2048, 704, -128, 704)}稀有素材
+Dialogue: 3,0:01:06.51,0:01:17.01,AcplayDefault,,0000,0000,0000,,{\move(2144, 768, -224, 768)}终极稀有素材！
+Dialogue: 3,0:01:06.69,0:01:16.36,AcplayDefault,,0000,0000,0000,,{\move(2048, 832, -128, 832)}无缝衔接
+Dialogue: 3,0:01:06.82,0:01:10.82,AcplayDefault,,0000,0000,0000,,{\a6\pos(960, 65)}猝不及防
+Dialogue: 3,0:01:06.98,0:01:16.65,AcplayDefault,,0000,0000,0000,,{\move(2048, 64, -128, 64)}二泄♂姐
+Dialogue: 3,0:01:08.16,0:01:17.83,AcplayDefault,,0000,0000,0000,,{\move(2048, 128, -128, 128)}无缝衔接
+Dialogue: 3,0:01:09.10,0:01:18.10,AcplayDefault,,0000,0000,0000,,{\move(2016, 192, -96, 192)}二大爷
+Dialogue: 3,0:01:09.84,0:01:19.34,AcplayDefault,,0000,0000,0000,,{\move(2080, 256, -160, 256)}厉害了。。
+Dialogue: 3,0:01:10.31,0:01:19.98,AcplayDefault,,0000,0000,0000,,{\move(2048, 320, -128, 320)}良作不火
+Dialogue: 3,0:01:10.68,0:01:22.18,AcplayDefault,,0000,0000,0000,,{\move(2208, 384, -288, 384)}芙兰(´▽｀)ノ♪
+Dialogue: 3,0:01:11.00,0:01:15.00,AcplayDefault,,0000,0000,0000,,{\a6\pos(960, 1)\c&H02F1FE\3c&HFFFFFF}无缝衔接牛奔了
+Dialogue: 3,0:01:11.17,0:01:20.17,AcplayDefault,,0000,0000,0000,,{\move(2016, 512, -96, 512)}二人转
+Dialogue: 3,0:01:11.81,0:01:21.47,AcplayDefault,,0000,0000,0000,,{\move(2048, 576, -128, 576)}稀有素材
+Dialogue: 3,0:01:11.98,0:01:21.64,AcplayDefault,,0000,0000,0000,,{\move(2048, 640, -128, 640)}传说素材
+Dialogue: 3,0:01:12.03,0:01:22.53,AcplayDefault,,0000,0000,0000,,{\move(2144, 704, -224, 704)}U.N....
+Dialogue: 3,0:01:12.03,0:01:16.03,AcplayDefault,,0000,0000,0000,,{\a6\pos(960, 65)\c&H00FFFF}跑♂调
+Dialogue: 3,0:01:12.47,0:01:21.47,AcplayDefault,,0000,0000,0000,,{\move(2016, 832, -96, 832)}二小姐
+Dialogue: 3,0:01:12.54,0:01:25.04,AcplayDefault,,0000,0000,0000,,{\move(2272, 896, -352, 896)}不是跑调我故意这样调的
+Dialogue: 3,0:01:14.56,0:01:26.06,AcplayDefault,,0000,0000,0000,,{\move(2208, 64, -288, 64)}前面是UP主本人？
+Dialogue: 3,0:01:15.64,0:01:26.64,AcplayDefault,,0000,0000,0000,,{\move(2176, 128, -256, 128)}芙兰door♂露
+Dialogue: 3,0:01:19.14,0:01:28.14,AcplayDefault,,0000,0000,0000,,{\move(2016, 192, -96, 192)}东方！
+Dialogue: 3,0:01:21.22,0:01:34.22,AcplayDefault,,0000,0000,0000,,{\move(2304, 256, -384, 256)}fafafafafafa
+Dialogue: 3,0:01:21.43,0:01:25.43,AcplayDefault,,0000,0000,0000,,{\a6\pos(960, 1)}木吉也驾驭了好几首歌！
+Dialogue: 3,0:01:22.08,0:01:31.08,AcplayDefault,,0000,0000,0000,,{\move(2016, 384, -96, 384)}国庆套
+Dialogue: 3,0:01:23.26,0:01:32.93,AcplayDefault,,0000,0000,0000,,{\move(2048, 448, -128, 448)\c&H0203FE\3c&HFFFFFF}木吉提督
+Dialogue: 3,0:01:26.17,0:01:36.17,AcplayDefault,,0000,0000,0000,,{\move(2112, 512, -192, 512)}国庆套的别走
+Dialogue: 3,0:01:26.20,0:01:39.20,AcplayDefault,,0000,0000,0000,,{\move(2720, 576, -800, 576)}刚刚那段是弄你的士高的调吧，我说莫名熟悉，还挺合拍
+Dialogue: 3,0:01:28.83,0:01:38.50,AcplayDefault,,0000,0000,0000,,{\move(2048, 640, -128, 640)}木吉帅爆
+Dialogue: 3,0:01:30.37,0:01:40.03,AcplayDefault,,0000,0000,0000,,{\move(2048, 704, -128, 704)}木吉总督
+Dialogue: 3,0:01:31.71,0:01:42.71,AcplayDefault,,0000,0000,0000,,{\move(2176, 768, -256, 768)}突如其来的二小姐
+Dialogue: 3,0:01:33.97,0:01:43.47,AcplayDefault,,0000,0000,0000,,{\move(2080, 832, -160, 832)}摩的大飚客
+Dialogue: 3,0:01:36.21,0:01:45.71,AcplayDefault,,0000,0000,0000,,{\move(2080, 896, -160, 896)}百万调音师
+Dialogue: 3,0:01:36.77,0:01:46.27,AcplayDefault,,0000,0000,0000,,{\move(2080, 64, -160, 64)}无缝♂衔接
+Dialogue: 3,0:01:40.02,0:01:50.02,AcplayDefault,,0000,0000,0000,,{\move(2112, 128, -192, 128)}欧耶欧耶欧耶
+Dialogue: 3,0:01:41.22,0:01:49.56,AcplayDefault,,0000,0000,0000,,{\move(1984, 192, -64, 192)}妙啊
+Dialogue: 3,0:01:43.36,0:01:51.69,AcplayDefault,,0000,0000,0000,,{\move(1984, 256, -64, 256)}泪目
+Dialogue: 3,0:01:44.61,0:01:57.61,AcplayDefault,,0000,0000,0000,,{\move(2752, 320, -832, 320)}I'm lonely lonely lonely～～
+Dialogue: 3,0:01:45.79,0:01:56.29,AcplayDefault,,0000,0000,0000,,{\move(2144, 384, -224, 384)}那位男人会来吗
+Dialogue: 3,0:01:47.96,0:01:56.96,AcplayDefault,,0000,0000,0000,,{\move(2016, 448, -96, 448)}妙啊！
+Dialogue: 3,0:01:48.54,0:01:58.54,AcplayDefault,,0000,0000,0000,,{\move(2112, 512, -192, 512)}lonely
+Dialogue: 3,0:01:48.65,0:02:01.65,AcplayDefault,,0000,0000,0000,,{\move(2400, 576, -480, 576)}木吉鬼步今又响♂一生功名全给党
+Dialogue: 3,0:01:50.46,0:02:00.12,AcplayDefault,,0000,0000,0000,,{\move(2048, 640, -128, 640)}火钳刘明
+Dialogue: 3,0:01:50.91,0:02:02.91,AcplayDefault,,0000,0000,0000,,{\move(2240, 704, -320, 704)}BGM lonely
+Dialogue: 3,0:01:52.98,0:02:01.98,AcplayDefault,,0000,0000,0000,,{\move(2016, 768, -96, 768)}妙♂啊
+Dialogue: 3,0:01:55.89,0:02:05.56,AcplayDefault,,0000,0000,0000,,{\move(2048, 832, -128, 832)\c&H00FFFF}虽迟但到
+Dialogue: 3,0:01:56.30,0:02:08.30,AcplayDefault,,0000,0000,0000,,{\move(2240, 896, -320, 896)}bgm lonely
+Dialogue: 3,0:01:57.93,0:02:01.93,AcplayDefault,,0000,0000,0000,,{\a6\pos(960, 1)}蕉迟但到
+Dialogue: 3,0:01:58.35,0:02:08.02,AcplayDefault,,0000,0000,0000,,{\move(2048, 128, -128, 128)\c&H02F1FE\3c&HFFFFFF}那个男人
+Dialogue: 3,0:01:59.35,0:02:07.68,AcplayDefault,,0000,0000,0000,,{\move(1984, 192, -64, 192)}自由
+Dialogue: 3,0:01:59.89,0:02:10.89,AcplayDefault,,0000,0000,0000,,{\move(2176, 256, -256, 256)}FXXK，you
+Dialogue: 3,0:02:00.72,0:02:04.72,AcplayDefault,,0000,0000,0000,,{\a6\pos(960, 900)\c&H02F1FE\3c&HFFFFFF}是那位大人
+Dialogue: 3,0:02:00.98,0:02:04.98,AcplayDefault,,0000,0000,0000,,{\a6\pos(960, 65)\c&H02F1FE\3c&HFFFFFF}就算你变白了我也认得你
+Dialogue: 3,0:02:01.54,0:02:05.54,AcplayDefault,,0000,0000,0000,,{\a6\pos(960, 129)\c&H02F1FE\3c&HFFFFFF}心中无码，自然高清
+Dialogue: 3,0:02:01.54,0:02:11.21,AcplayDefault,,0000,0000,0000,,{\move(2048, 512, -128, 512)}蕉迟但到
+Dialogue: 3,0:02:02.57,0:02:11.57,AcplayDefault,,0000,0000,0000,,{\move(2016, 576, -96, 576)}串♂骚
+Dialogue: 3,0:02:04.50,0:02:08.50,AcplayDefault,,0000,0000,0000,,{\a6\pos(960, 65)\c&H02F1FE\3c&HFFFFFF}这个颜色
+Dialogue: 3,0:02:05.92,0:02:09.92,AcplayDefault,,0000,0000,0000,,{\a6\pos(960, 65)\c&H02F1FE\3c&HFFFFFF}难道是那位大人？？!
+Dialogue: 3,0:02:05.94,0:02:15.44,AcplayDefault,,0000,0000,0000,,{\move(2080, 768, -160, 768)}自由的气息
+Dialogue: 3,0:02:08.09,0:02:16.42,AcplayDefault,,0000,0000,0000,,{\move(1984, 832, -64, 832)}泪目
+Dialogue: 3,0:02:09.64,0:02:22.64,AcplayDefault,,0000,0000,0000,,{\move(2400, 896, -480, 896)}U.N.banana就是他吗?
+Dialogue: 3,0:02:10.54,0:02:20.20,AcplayDefault,,0000,0000,0000,,{\move(2048, 64, -128, 64)\c&H02F1FE\3c&HFFFFFF}蕉迟但到
+Dialogue: 3,0:02:10.54,0:02:20.21,AcplayDefault,,0000,0000,0000,,{\move(2048, 128, -128, 128)}封印解除
+Dialogue: 3,0:02:10.80,0:02:20.30,AcplayDefault,,0000,0000,0000,,{\move(2080, 192, -160, 192)}雄伟的背影
+Dialogue: 3,0:02:11.25,0:02:19.58,AcplayDefault,,0000,0000,0000,,{\move(1984, 256, -64, 256)}泪目
+Dialogue: 3,0:02:12.26,0:02:21.93,AcplayDefault,,0000,0000,0000,,{\move(2048, 320, -128, 320)}蕉迟但到
+Dialogue: 3,0:02:13.55,0:02:22.55,AcplayDefault,,0000,0000,0000,,{\move(2016, 384, -96, 384)}二小蕉
+Dialogue: 3,0:02:14.15,0:02:22.48,AcplayDefault,,0000,0000,0000,,{\move(1984, 448, -64, 448)}自由
+Dialogue: 3,0:02:14.67,0:02:24.34,AcplayDefault,,0000,0000,0000,,{\move(2048, 512, -128, 512)}那位大人
+Dialogue: 3,0:02:16.31,0:02:26.81,AcplayDefault,,0000,0000,0000,,{\move(2144, 576, -224, 576)}这一点都不自由
+Dialogue: 3,0:02:19.04,0:02:32.04,AcplayDefault,,0000,0000,0000,,{\move(2848, 640, -928, 640)}追着番呢居然不务正业来看哲学 但是这调音shit♂在太强了
+Dialogue: 3,0:02:19.48,0:02:23.48,AcplayDefault,,0000,0000,0000,,{\a6\pos(960, 1)\c&H00FFFF}坏♂香蕉
+Dialogue: 3,0:02:20.28,0:02:29.78,AcplayDefault,,0000,0000,0000,,{\move(2080, 768, -160, 768)\c&H02F1FE\3c&HFFFFFF}东方的味道
+Dialogue: 3,0:02:21.42,0:02:30.92,AcplayDefault,,0000,0000,0000,,{\move(2080, 832, -160, 832)}焦躁♂难忍
+Dialogue: 3,0:02:21.73,0:02:31.23,AcplayDefault,,0000,0000,0000,,{\move(2080, 896, -160, 896)}好大的鼻孔
+Dialogue: 3,0:02:22.98,0:02:31.98,AcplayDefault,,0000,0000,0000,,{\move(2016, 64, -96, 64)}出现了
+Dialogue: 3,0:02:23.48,0:02:32.98,AcplayDefault,,0000,0000,0000,,{\move(2080, 128, -160, 128)}自由♂光翼
+Dialogue: 3,0:02:24.58,0:02:28.58,AcplayDefault,,0000,0000,0000,,{\a6\pos(960, 1)\c&H02F1FE\3c&HFFFFFF}自由的气息
+Dialogue: 3,0:02:25.77,0:02:35.27,AcplayDefault,,0000,0000,0000,,{\move(2080, 256, -160, 256)}自由的气息
+Dialogue: 3,0:02:29.38,0:02:38.88,AcplayDefault,,0000,0000,0000,,{\move(2080, 320, -160, 320)}有翅膀的！
+Dialogue: 3,0:02:29.84,0:02:39.50,AcplayDefault,,0000,0000,0000,,{\move(2048, 384, -128, 384)}自由之翼
+Dialogue: 3,0:02:29.86,0:02:42.86,AcplayDefault,,0000,0000,0000,,{\move(2304, 448, -384, 448)}一代天蕉    天之蕉子
+Dialogue: 3,0:02:29.90,0:02:39.57,AcplayDefault,,0000,0000,0000,,{\move(2048, 512, -128, 512)}天之蕉子
+Dialogue: 3,0:02:32.31,0:02:36.31,AcplayDefault,,0000,0000,0000,,{\a6\pos(960, 1)\c&H1200E7\3c&HFFFFFF}这个版本的香蕉君貌似在up的另一个视频里也有
+Dialogue: 3,0:02:32.51,0:02:42.51,AcplayDefault,,0000,0000,0000,,{\move(2112, 640, -192, 640)}二小姐的翅膀
+Dialogue: 3,0:02:32.88,0:02:42.88,AcplayDefault,,0000,0000,0000,,{\move(2112, 704, -192, 704)}尻比经典转身
+Dialogue: 3,0:02:33.06,0:02:42.56,AcplayDefault,,0000,0000,0000,,{\move(2080, 768, -160, 768)\c&H02F1FE\3c&HFFFFFF}自由♂之翼
+Dialogue: 3,0:02:33.79,0:02:37.79,AcplayDefault,,0000,0000,0000,,{\a6\pos(960, 65)\c&H02F1FE\3c&HFFFFFF}坏香蕉里的自由
+Dialogue: 3,0:02:33.88,0:02:43.54,AcplayDefault,,0000,0000,0000,,{\move(2048, 896, -128, 896)}白色自由
+Dialogue: 3,0:02:34.23,0:02:45.23,AcplayDefault,,0000,0000,0000,,{\move(2176, 64, -256, 64)}扶男♂door撸
+Dialogue: 3,0:02:35.50,0:02:39.50,AcplayDefault,,0000,0000,0000,,{\a6\pos(960, 129)}自由之翼
+Dialogue: 3,0:02:36.07,0:02:46.57,AcplayDefault,,0000,0000,0000,,{\move(2144, 192, -224, 192)}van 全一致
+Dialogue: 3,0:02:37.09,0:02:47.09,AcplayDefault,,0000,0000,0000,,{\move(2112, 256, -192, 256)}蕉天使的庇护
+Dialogue: 3,0:02:43.66,0:02:53.66,AcplayDefault,,0000,0000,0000,,{\move(2112, 320, -192, 320)}二小姐。。。
+Dialogue: 3,0:02:45.96,0:02:56.46,AcplayDefault,,0000,0000,0000,,{\move(2144, 384, -224, 384)}满屏自由的气息
+Dialogue: 3,0:02:48.61,0:03:01.61,AcplayDefault,,0000,0000,0000,,{\move(2304, 448, -384, 448)}E-HERO光辉苔藓人？
+Dialogue: 3,0:02:48.78,0:02:52.78,AcplayDefault,,0000,0000,0000,,{\a6\pos(960, 1)\c&H02F1FE\3c&HFFFFFF}二小姐自由了
+Dialogue: 3,0:02:50.80,0:03:01.80,AcplayDefault,,0000,0000,0000,,{\move(2176, 576, -256, 576)}自由的男人变白了
+Dialogue: 3,0:02:52.48,0:03:02.14,AcplayDefault,,0000,0000,0000,,{\move(2048, 640, -128, 640)\c&H02F1FE\3c&HFFFFFF}完美驾驭
+Dialogue: 3,0:02:52.97,0:03:02.97,AcplayDefault,,0000,0000,0000,,{\move(2112, 704, -192, 704)}我的二小姐啊
+Dialogue: 3,0:02:53.47,0:03:05.97,AcplayDefault,,0000,0000,0000,,{\move(2272, 768, -352, 768)}bad bananna
+Dialogue: 3,0:02:57.41,0:03:08.41,AcplayDefault,,0000,0000,0000,,{\move(2176, 832, -256, 832)}这一段是哪首曲子
+Dialogue: 3,0:02:58.69,0:03:02.69,AcplayDefault,,0000,0000,0000,,{\a6\pos(960, 1)\c&H20C390\3c&HFFFFFF}这位大人又驾驭了一首歌
+Dialogue: 3,0:02:58.86,0:03:02.86,AcplayDefault,,0000,0000,0000,,{\a6\pos(960, 65)}自信回头
+Dialogue: 3,0:02:59.22,0:03:08.89,AcplayDefault,,0000,0000,0000,,{\move(2048, 128, -128, 128)}自由之翼
+Dialogue: 3,0:03:01.19,0:03:09.53,AcplayDefault,,0000,0000,0000,,{\move(1984, 192, -64, 192)}泪目
+Dialogue: 3,0:03:02.49,0:03:15.49,AcplayDefault,,0000,0000,0000,,{\move(2304, 256, -384, 256)}pump it。。二小姐
+Dialogue: 3,0:03:05.14,0:03:14.81,AcplayDefault,,0000,0000,0000,,{\move(2048, 320, -128, 320)}自由自由
+Dialogue: 3,0:03:05.80,0:03:17.30,AcplayDefault,,0000,0000,0000,,{\move(2208, 384, -288, 384)}我是第一 截屏为证
+Dialogue: 3,0:03:07.52,0:03:17.19,AcplayDefault,,0000,0000,0000,,{\move(2048, 448, -128, 448)}特效结尾

@@ -1,0 +1,42 @@
+﻿[Script Info]
+Title: 【金坷垃】猜_人力VOCALOID_鬼畜_bilibili_哔哩哔哩
+Original Script: 根据 https://www.bilibili.com/video/av2620903/?from=search&seid=11652285088366135282 的弹幕信息，由 https://github.com/tiansh/us-danmaku 生成
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 560
+PlayResY: 420
+Timer: 10.0000
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Fix,Microsoft YaHei UI,25,&H66FFFFFF,&H66FFFFFF,&H66000000,&H66000000,1,0,0,0,100,100,0,0,1,2,0,2,20,20,2,0
+Style: R2L,Microsoft YaHei UI,25,&H66FFFFFF,&H66FFFFFF,&H66000000,&H66000000,1,0,0,0,100,100,0,0,1,2,0,2,20,20,2,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:03.07,0:00:11.07,R2L,,20,20,2,,{\move(622.5,25,-62.5,25)}第一是我的
+Dialogue: 0,0:00:06.17,0:00:14.17,R2L,,20,20,2,,{\move(610,25,-50,25)}斯琴克拉
+Dialogue: 0,0:00:09.73,0:00:17.73,R2L,,20,20,2,,{\move(684.5,25,-124.5,25)}冒泡~\(≧▽≦)/~啦啦啦
+Dialogue: 0,0:00:25.09,0:00:33.09,R2L,,20,20,2,,{\move(597.5,25,-37.5,25)}开口跪
+Dialogue: 0,0:00:25.35,0:00:33.35,R2L,,20,20,2,,{\move(622.5,50,-62.5,50)}开口大悲咒
+Dialogue: 0,0:00:27.19,0:00:35.19,R2L,,20,20,2,,{\move(619.5,25,-59.5,25)}...........曲  
+Dialogue: 0,0:00:31.83,0:00:39.83,R2L,,20,20,2,,{\move(572.5,25,-12.5,25)\c&H000000\3c&HFFFFFF}毒
+Dialogue: 0,0:00:36.39,0:00:44.39,R2L,,20,20,2,,{\move(635,25,-75,25)}怎么就这点人
+Dialogue: 0,0:00:37.38,0:00:45.38,R2L,,20,20,2,,{\move(610,50,-50,50)}做的不错
+Dialogue: 0,0:00:39.07,0:00:47.07,R2L,,20,20,2,,{\move(597.5,25,-37.5,25)}好好好
+Dialogue: 0,0:00:39.07,0:00:47.07,R2L,,20,20,2,,{\move(597.5,50,-37.5,50)}好好好
+Dialogue: 0,0:00:40.77,0:00:48.77,R2L,,20,20,2,,{\move(610,43,-50,43)}迷之混响
+Dialogue: 0,0:00:41.01,0:00:49.01,R2L,,20,20,2,,{\move(650,18,-90,18)\c&H1200E7\fs18}做的很不错。偷偷承包
+Dialogue: 0,0:00:58.74,0:01:06.74,R2L,,20,20,2,,{\move(610,25,-50,25)}火钳刘明
+Dialogue: 0,0:00:58.85,0:01:06.85,R2L,,20,20,2,,{\move(610,50,-50,50)}迷之美声
+Dialogue: 0,0:01:01.55,0:01:09.55,R2L,,20,20,2,,{\move(622.5,25,-62.5,25)\c&H00FF00}哎哟不错哦
+Dialogue: 0,0:01:09.67,0:01:17.67,R2L,,20,20,2,,{\move(597.5,25,-37.5,25)}美哭了
+Dialogue: 0,0:01:23.31,0:01:31.31,R2L,,20,20,2,,{\move(610,25,-50,25)}和声美哭
+Dialogue: 0,0:01:38.77,0:01:46.77,R2L,,20,20,2,,{\move(622.5,25,-62.5,25)}做挺好的嘛
+Dialogue: 0,0:01:44.36,0:01:52.36,R2L,,20,20,2,,{\move(572.5,25,-12.5,25)}咧
+Dialogue: 0,0:01:55.18,0:02:03.18,R2L,,20,20,2,,{\move(622.5,25,-62.5,25)}怎么没人咧
+Dialogue: 0,0:02:13.57,0:02:21.57,R2L,,20,20,2,,{\move(664,25,-104,25)}调教得不错 人好少
+Dialogue: 0,0:02:38.79,0:02:46.79,R2L,,20,20,2,,{\move(610,25,-50,25)}怎么没人
+Dialogue: 0,0:02:46.13,0:02:54.13,R2L,,20,20,2,,{\move(755,25,-195,25)\c&H7F02E2}听音乐中  都不敢打扰这个音乐境界
+Dialogue: 0,0:02:48.09,0:02:56.09,R2L,,20,20,2,,{\move(622.5,50,-62.5,50)\c&H00FF00}在、捧捧场
+Dialogue: 0,0:02:58.71,0:03:06.71,R2L,,20,20,2,,{\move(641,25,-81,25)}hhhhhhhhhh

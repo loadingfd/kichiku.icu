@@ -1,0 +1,34 @@
+[Script Info]
+Title: [P1] 【地牢♂跤响乐团】屎湿音乐:breath and life
+Original Script: 根据 23710926.xml 的弹幕信息，由 https://github.com/tiansh/us-danmaku 生成
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 560
+PlayResY: 420
+Timer: 10.0000
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Fix,黑体,25,&H66FFFFFF,&H66FFFFFF,&H66000000,&H66000000,1,0,0,0,100,100,0,0,1,2,0,2,20,20,2,0
+Style: R2L,黑体,25,&H66FFFFFF,&H66FFFFFF,&H66000000,&H66000000,1,0,0,0,100,100,0,0,1,2,0,2,20,20,2,0
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:00.05,0:00:04.05,Fix,,20,20,2,,{\pos(280,370)}第一！！！！！！！！
+Dialogue: 0,0:00:01.97,0:00:09.97,R2L,,20,20,2,,{\move(573,25,-13,25)}20
+Dialogue: 0,0:00:03.80,0:00:11.80,R2L,,20,20,2,,{\move(598.5,25,-38.5,25)}标准♂
+Dialogue: 0,0:00:04.01,0:00:12.02,R2L,,20,20,2,,{\move(566.5,50,-6.5,50)}6
+Dialogue: 0,0:00:11.94,0:00:19.94,R2L,,20,20,2,,{\move(598.5,25,-38.5,25)}史♂湿
+Dialogue: 0,0:00:13.91,0:00:21.91,R2L,,20,20,2,,{\move(624,25,-64,25)}没理由不火
+Dialogue: 0,0:00:14.78,0:00:22.78,R2L,,20,20,2,,{\move(700.5,50,-140.5,50)}怀旧的白小黑剧情向画风
+Dialogue: 0,0:00:31.69,0:00:39.69,R2L,,20,20,2,,{\move(636.5,25,-76.5,25)}史♂湿阴♂乐
+Dialogue: 0,0:00:43.34,0:00:51.34,R2L,,20,20,2,,{\move(636.5,25,-76.5,25)}失踪人口回归
+Dialogue: 0,0:00:45.05,0:00:53.05,R2L,,20,20,2,,{\move(611,25,-51,25)}净化心灵
+Dialogue: 0,0:00:57.11,0:01:05.11,R2L,,20,20,2,,{\move(611,25,-51,25)}赞美♂心
+Dialogue: 0,0:01:00.90,0:01:08.90,R2L,,20,20,2,,{\move(624,25,-64,25)}人体唢♂呐
+Dialogue: 0,0:01:09.54,0:01:17.54,R2L,,20,20,2,,{\move(598.5,25,-38.5,25)}男睾音
+Dialogue: 0,0:01:14.34,0:01:22.34,R2L,,20,20,2,,{\move(611,25,-51,25)}哲学史诗
+Dialogue: 0,0:01:17.33,0:01:25.33,R2L,,20,20,2,,{\move(611,25,-51,25)}太好听了
+Dialogue: 0,0:01:17.92,0:01:25.92,R2L,,20,20,2,,{\move(585.5,50,-25.5,50)}不错
+Dialogue: 0,0:01:23.49,0:01:31.49,R2L,,20,20,2,,{\move(636.5,25,-76.5,25)}听的我高潮了
+Dialogue: 0,0:01:40.67,0:01:48.67,R2L,,20,20,2,,{\move(636.5,25,-76.5,25)}我觉得还可以
+Dialogue: 0,0:01:43.02,0:01:51.02,R2L,,20,20,2,,{\move(611,25,-51,25)}便秘之歌

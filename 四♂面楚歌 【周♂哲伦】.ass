@@ -1,0 +1,30 @@
+﻿[Script Info]
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 1920
+PlayResY: 1080
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: AcplayDefault, Microsoft YaHei, 64, &H00FFFFFF, &H00FFFFFF, &H00000000, &H00000000, 0, 0, 0, 0, 100, 100, 0.00, 0.00, 1, 1, 0, 2, 20, 20, 20, 0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 3,0:00:00.00,0:00:11.50,AcplayDefault,,0000,0000,0000,,{\move(2208, 64, -288, 64)}良心作品快活起来啊
+Dialogue: 3,0:00:00.09,0:00:09.76,AcplayDefault,,0000,0000,0000,,{\move(2048, 128, -128, 128)}火起来啊
+Dialogue: 3,0:00:00.09,0:00:08.43,AcplayDefault,,0000,0000,0000,,{\move(1984, 192, -64, 192)}..
+Dialogue: 3,0:00:00.12,0:00:09.62,AcplayDefault,,0000,0000,0000,,{\move(2080, 256, -160, 256)}火起来把！
+Dialogue: 3,0:00:07.37,0:00:16.37,AcplayDefault,,0000,0000,0000,,{\move(2016, 320, -96, 320)}没人吗
+Dialogue: 3,0:00:10.57,0:00:20.24,AcplayDefault,,0000,0000,0000,,{\move(2048, 384, -128, 384)}火钳刘明
+Dialogue: 3,0:00:11.08,0:00:20.75,AcplayDefault,,0000,0000,0000,,{\move(2048, 448, -128, 448)}那个男人
+Dialogue: 3,0:00:15.64,0:00:25.14,AcplayDefault,,0000,0000,0000,,{\move(2080, 512, -160, 512)}fa♂乐器
+Dialogue: 3,0:00:17.37,0:00:30.37,AcplayDefault,,0000,0000,0000,,{\move(2368, 576, -448, 576)}看到我，你们就是第五名以后了
+Dialogue: 3,0:00:29.76,0:00:38.09,AcplayDefault,,0000,0000,0000,,{\move(1984, 640, -64, 640)}可以
+Dialogue: 3,0:00:35.11,0:00:44.11,AcplayDefault,,0000,0000,0000,,{\move(2016, 704, -96, 704)}没人？
+Dialogue: 3,0:00:42.53,0:00:50.86,AcplayDefault,,0000,0000,0000,,{\move(1984, 768, -64, 768)}17
+Dialogue: 3,0:00:44.42,0:00:54.08,AcplayDefault,,0000,0000,0000,,{\move(2048, 832, -128, 832)}人体唢呐
+Dialogue: 3,0:00:45.73,0:00:57.73,AcplayDefault,,0000,0000,0000,,{\move(2240, 896, -320, 896)}关上前100的大门！
+Dialogue: 3,0:00:56.40,0:01:07.90,AcplayDefault,,0000,0000,0000,,{\move(2208, 64, -288, 64)}最美不过fa♂乐器
+Dialogue: 3,0:00:59.99,0:01:10.49,AcplayDefault,,0000,0000,0000,,{\move(2144, 128, -224, 128)}请收下我的膝盖
+Dialogue: 3,0:01:13.58,0:01:21.91,AcplayDefault,,0000,0000,0000,,{\move(1984, 192, -64, 192)}好听
+Dialogue: 3,0:01:16.34,0:01:20.34,AcplayDefault,,0000,0000,0000,,{\a6\pos(960, 1)}开头见
