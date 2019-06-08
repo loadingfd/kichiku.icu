@@ -1,0 +1,392 @@
+﻿[Script Info]
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 1920
+PlayResY: 1080
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: AcplayDefault, Microsoft YaHei, 64, &H00FFFFFF, &H00FFFFFF, &H00000000, &H00000000, 0, 0, 0, 0, 100, 100, 0.00, 0.00, 1, 1, 0, 2, 20, 20, 20, 0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 3,0:00:00.15,0:00:04.15,AcplayDefault,,0000,0000,0000,,{\a6\pos(960, 1)\c&H00FFFF}那个男人会来吗？
+Dialogue: 3,0:00:01.89,0:00:12.39,AcplayDefault,,0000,0000,0000,,{\move(2144, 128, -224, 128)}那位大人会来吗
+Dialogue: 3,0:00:02.76,0:00:12.43,AcplayDefault,,0000,0000,0000,,{\move(2048, 192, -128, 192)}顶风作案
+Dialogue: 3,0:00:02.94,0:00:12.60,AcplayDefault,,0000,0000,0000,,{\move(2048, 256, -128, 256)\c&H7B3A68\3c&HFFFFFF}火钳刘明
+Dialogue: 3,0:00:03.44,0:00:12.44,AcplayDefault,,0000,0000,0000,,{\move(2016, 320, -96, 320)\c&H1200E7\3c&HFFFFFF}见封进
+Dialogue: 3,0:00:03.77,0:00:07.77,AcplayDefault,,0000,0000,0000,,{\a6\pos(960, 65)\c&H02F1FE\3c&HFFFFFF}那个男人回来吗？
+Dialogue: 3,0:00:03.80,0:00:07.80,AcplayDefault,,0000,0000,0000,,{\a6\pos(960, 129)\c&H02F1FE\3c&HFFFFFF}不会
+Dialogue: 3,0:00:03.81,0:00:16.82,AcplayDefault,,0000,0000,0000,,{\move(2304, 512, -384, 512)}我刘洋今天就要撸死在这里
+Dialogue: 3,0:00:04.77,0:00:14.44,AcplayDefault,,0000,0000,0000,,{\move(2048, 576, -128, 576)}标准开头
+Dialogue: 3,0:00:05.21,0:00:14.88,AcplayDefault,,0000,0000,0000,,{\move(2048, 640, -128, 640)}迷你开头
+Dialogue: 3,0:00:05.30,0:00:09.30,AcplayDefault,,0000,0000,0000,,{\a6\pos(960, 65)\c&H1200E7\3c&HFFFFFF}高分辨率开头
+Dialogue: 3,0:00:05.73,0:00:09.73,AcplayDefault,,0000,0000,0000,,{\a6\pos(960, 129)}标准开头
+Dialogue: 3,0:00:05.75,0:00:15.41,AcplayDefault,,0000,0000,0000,,{\move(2048, 832, -128, 832)}标准开头
+Dialogue: 3,0:00:06.57,0:00:10.57,AcplayDefault,,0000,0000,0000,,{\a6\pos(960, 65)}延迟开头
+Dialogue: 3,0:00:07.21,0:00:20.21,AcplayDefault,,0000,0000,0000,,{\move(2336, 64, -416, 64)\c&H439800\3c&HFFFFFF}标准开头，唉，我怎么绿了？
+Dialogue: 3,0:00:07.29,0:00:16.96,AcplayDefault,,0000,0000,0000,,{\move(2048, 128, -128, 128)}标准开头
+Dialogue: 3,0:00:07.31,0:00:11.31,AcplayDefault,,0000,0000,0000,,{\a6\pos(960, 129)\c&H02F1FE\3c&HFFFFFF}变小的开头意味着哲学得没落，但永远不会倒下
+Dialogue: 3,0:00:07.36,0:00:11.36,AcplayDefault,,0000,0000,0000,,{\a6\pos(960, 65)\c&H1200E7\3c&HFFFFFF}标准开头
+Dialogue: 3,0:00:07.86,0:00:17.52,AcplayDefault,,0000,0000,0000,,{\move(2048, 320, -128, 320)}火前留名
+Dialogue: 3,0:00:08.20,0:00:12.20,AcplayDefault,,0000,0000,0000,,{\a6\pos(960, 129)\c&H1200E7\3c&HFFFFFF}黄字说的对
+Dialogue: 3,0:00:08.31,0:00:19.31,AcplayDefault,,0000,0000,0000,,{\move(2176, 448, -256, 448)}顶风作乱，我喜欢
+Dialogue: 3,0:00:08.57,0:00:19.07,AcplayDefault,,0000,0000,0000,,{\move(2144, 512, -224, 512)\c&H02F1FE\3c&HFFFFFF}那位大人会来吗
+Dialogue: 3,0:00:08.69,0:00:18.36,AcplayDefault,,0000,0000,0000,,{\move(2048, 576, -128, 576)\c&H02D3FF\3c&HFFFFFF}祖传开头
+Dialogue: 3,0:00:08.80,0:00:18.47,AcplayDefault,,0000,0000,0000,,{\move(2048, 640, -128, 640)}顶风作案
+Dialogue: 3,0:00:08.89,0:00:18.56,AcplayDefault,,0000,0000,0000,,{\move(2048, 704, -128, 704)}火钳刘明
+Dialogue: 3,0:00:08.95,0:00:19.45,AcplayDefault,,0000,0000,0000,,{\move(2144, 768, -224, 768)}自古好歌没人听
+Dialogue: 3,0:00:09.29,0:00:18.96,AcplayDefault,,0000,0000,0000,,{\move(2048, 832, -128, 832)}顶风作案
+Dialogue: 3,0:00:09.73,0:00:22.73,AcplayDefault,,0000,0000,0000,,{\move(2880, 896, -960, 896)\c&H02F1FE\3c&HFFFFFF}迟来的感动，还以为再也见不到哲♂学新作了，up主我爱你，么。
+Dialogue: 3,0:00:09.74,0:00:19.41,AcplayDefault,,0000,0000,0000,,{\move(2048, 64, -128, 64)\c&HCBC084\3c&HFFFFFF}日常开头
+Dialogue: 3,0:00:09.84,0:00:20.34,AcplayDefault,,0000,0000,0000,,{\move(2144, 128, -224, 128)}回来吗  自由
+Dialogue: 3,0:00:09.88,0:00:21.38,AcplayDefault,,0000,0000,0000,,{\move(2208, 192, -288, 192)}000000000
+Dialogue: 3,0:00:09.97,0:00:19.97,AcplayDefault,,0000,0000,0000,,{\move(2112, 256, -192, 256)}那个会来吗？
+Dialogue: 3,0:00:10.77,0:00:18.44,AcplayDefault,,0000,0000,0000,,{\move(1952, 320, -32, 320)}5
+Dialogue: 3,0:00:11.10,0:00:20.76,AcplayDefault,,0000,0000,0000,,{\move(2048, 384, -128, 384)}火钳刘明
+Dialogue: 3,0:00:11.20,0:00:24.20,AcplayDefault,,0000,0000,0000,,{\move(4096, 448, -2176, 448)\c&H02F1FE\3c&HFFFFFF}哲学可能会迟到，但他永远不会坐下。哲学可能会迟到，但他永远不会坐下。哲学可能会迟到，但他永远不会坐下。哲学可能会迟到，但他永远不会坐下。
+Dialogue: 3,0:00:11.58,0:00:22.08,AcplayDefault,,0000,0000,0000,,{\move(2144, 512, -224, 512)}那个男人回来吗
+Dialogue: 3,0:00:12.01,0:00:21.01,AcplayDefault,,0000,0000,0000,,{\move(2016, 576, -96, 576)}1.5
+Dialogue: 3,0:00:12.11,0:00:22.61,AcplayDefault,,0000,0000,0000,,{\move(2144, 640, -224, 640)}顶风作案，讲究
+Dialogue: 3,0:00:12.94,0:00:22.94,AcplayDefault,,0000,0000,0000,,{\move(2112, 704, -192, 704)}一点五倍好评
+Dialogue: 3,0:00:13.40,0:00:24.89,AcplayDefault,,0000,0000,0000,,{\move(2208, 768, -288, 768)}那个男人会？回来吗
+Dialogue: 3,0:00:13.45,0:00:24.45,AcplayDefault,,0000,0000,0000,,{\move(2176, 832, -256, 832)}那个男人会来吗？
+Dialogue: 3,0:00:14.58,0:00:24.07,AcplayDefault,,0000,0000,0000,,{\move(2080, 896, -160, 896)}还不回来？
+Dialogue: 3,0:00:14.78,0:00:24.44,AcplayDefault,,0000,0000,0000,,{\move(2048, 64, -128, 64)}火钳刘明
+Dialogue: 3,0:00:15.32,0:00:24.82,AcplayDefault,,0000,0000,0000,,{\move(2080, 128, -160, 128)}犯罪的感觉
+Dialogue: 3,0:00:15.40,0:00:25.07,AcplayDefault,,0000,0000,0000,,{\move(2048, 192, -128, 192)}火钳刘明
+Dialogue: 3,0:00:15.57,0:00:25.23,AcplayDefault,,0000,0000,0000,,{\move(2048, 256, -128, 256)}顶峰作案
+Dialogue: 3,0:00:15.84,0:00:25.84,AcplayDefault,,0000,0000,0000,,{\move(2112, 320, -192, 320)}期待那个男人
+Dialogue: 3,0:00:16.94,0:00:27.94,AcplayDefault,,0000,0000,0000,,{\move(2176, 384, -256, 384)}那个男人会来吗？
+Dialogue: 3,0:00:18.27,0:00:31.27,AcplayDefault,,0000,0000,0000,,{\move(2496, 448, -576, 448)}要知道这些光头可是一些专业的研究人员
+Dialogue: 3,0:00:18.43,0:00:22.43,AcplayDefault,,0000,0000,0000,,{\a6\pos(960, 1)}原曲和原视频在网易云搜索cymatic即可
+Dialogue: 3,0:00:18.86,0:00:28.53,AcplayDefault,,0000,0000,0000,,{\move(2048, 576, -128, 576)}顶风作案
+Dialogue: 3,0:00:19.73,0:00:28.06,AcplayDefault,,0000,0000,0000,,{\move(1984, 640, -64, 640)\c&HCBC084\3c&HFFFFFF}自由
+Dialogue: 3,0:00:19.99,0:00:29.65,AcplayDefault,,0000,0000,0000,,{\move(2048, 704, -128, 704)}火钳刘明
+Dialogue: 3,0:00:21.32,0:00:30.82,AcplayDefault,,0000,0000,0000,,{\move(2080, 768, -160, 768)}这是自由吗
+Dialogue: 3,0:00:22.16,0:00:31.66,AcplayDefault,,0000,0000,0000,,{\move(2080, 832, -160, 832)}过审小王子
+Dialogue: 3,0:00:22.69,0:00:32.35,AcplayDefault,,0000,0000,0000,,{\move(2048, 896, -128, 896)}火钳刘明
+Dialogue: 3,0:00:24.00,0:00:33.50,AcplayDefault,,0000,0000,0000,,{\move(2080, 64, -160, 64)}原曲火了么
+Dialogue: 3,0:00:24.33,0:00:37.33,AcplayDefault,,0000,0000,0000,,{\move(5120, 128, -3200, 128)}John Stanford是新日暮里空间音乐家，他受过正规的哲♂学教育，最初学习Fa♂乐器和电♂音，而后进入新日暮里暗♂黑地下室大学学习音乐。尽管他将新哲♂学音乐作为自己的目标，但仍坦诚地相信哲♂学流
+Dialogue: 3,0:00:24.72,0:00:34.72,AcplayDefault,,0000,0000,0000,,{\move(2112, 192, -192, 192)}我們需要自由
+Dialogue: 3,0:00:25.31,0:00:35.81,AcplayDefault,,0000,0000,0000,,{\move(2144, 256, -224, 256)}向着自由的男人
+Dialogue: 3,0:00:25.48,0:00:35.14,AcplayDefault,,0000,0000,0000,,{\move(2048, 320, -128, 320)\c&H33FF66}火钳刘明
+Dialogue: 3,0:00:25.57,0:00:35.24,AcplayDefault,,0000,0000,0000,,{\move(2048, 384, -128, 384)}顶风作案
+Dialogue: 3,0:00:26.46,0:00:37.96,AcplayDefault,,0000,0000,0000,,{\move(2208, 448, -288, 448)\c&H00FFFF}那个男人会？回来吗
+Dialogue: 3,0:00:26.61,0:00:36.28,AcplayDefault,,0000,0000,0000,,{\move(2048, 512, -128, 512)}顶风作案
+Dialogue: 3,0:00:27.02,0:00:36.69,AcplayDefault,,0000,0000,0000,,{\move(2048, 576, -128, 576)}火钳刘明
+Dialogue: 3,0:00:27.29,0:00:38.29,AcplayDefault,,0000,0000,0000,,{\move(2176, 640, -256, 640)}那个男人回来吗？
+Dialogue: 3,0:00:30.60,0:00:40.60,AcplayDefault,,0000,0000,0000,,{\move(2112, 704, -192, 704)}顶风作案好评
+Dialogue: 3,0:00:31.58,0:00:39.92,AcplayDefault,,0000,0000,0000,,{\move(1984, 768, -64, 768)}自由
+Dialogue: 3,0:00:32.38,0:00:45.38,AcplayDefault,,0000,0000,0000,,{\move(2400, 832, -480, 832)}那个男人可能会迟到，但绝不缺席
+Dialogue: 3,0:00:34.17,0:00:44.17,AcplayDefault,,0000,0000,0000,,{\move(2112, 896, -192, 896)}少拿原曲骗我
+Dialogue: 3,0:00:34.25,0:00:45.25,AcplayDefault,,0000,0000,0000,,{\move(2176, 64, -256, 64)}我想你了   王
+Dialogue: 3,0:00:34.64,0:00:45.14,AcplayDefault,,0000,0000,0000,,{\move(2144, 128, -224, 128)}这个熟悉的站姿
+Dialogue: 3,0:00:34.65,0:00:46.65,AcplayDefault,,0000,0000,0000,,{\move(2240, 192, -320, 192)}看到我你就不是第一了
+Dialogue: 3,0:00:34.77,0:00:47.77,AcplayDefault,,0000,0000,0000,,{\move(2528, 256, -608, 256)}这个MV物理课声音的传递老师给我们看过
+Dialogue: 3,0:00:35.00,0:00:44.67,AcplayDefault,,0000,0000,0000,,{\move(2048, 320, -128, 320)}火钳留名
+Dialogue: 3,0:00:35.04,0:00:44.71,AcplayDefault,,0000,0000,0000,,{\move(2048, 384, -128, 384)}顶风作案
+Dialogue: 3,0:00:35.49,0:00:45.16,AcplayDefault,,0000,0000,0000,,{\move(2048, 448, -128, 448)}火钳刘明
+Dialogue: 3,0:00:36.41,0:00:44.75,AcplayDefault,,0000,0000,0000,,{\move(1984, 512, -64, 512)}泪目
+Dialogue: 3,0:00:38.42,0:00:48.42,AcplayDefault,,0000,0000,0000,,{\move(2112, 576, -192, 576)}刁静怡别撸了
+Dialogue: 3,0:00:38.42,0:00:48.08,AcplayDefault,,0000,0000,0000,,{\move(2048, 640, -128, 640)}前方高能
+Dialogue: 3,0:00:39.46,0:00:48.96,AcplayDefault,,0000,0000,0000,,{\move(2080, 704, -160, 704)}顶风作案♂
+Dialogue: 3,0:00:41.32,0:00:45.32,AcplayDefault,,0000,0000,0000,,{\a6\pos(960, 1)}顶♂风作案
+Dialogue: 3,0:00:41.55,0:00:45.55,AcplayDefault,,0000,0000,0000,,{\a6\pos(960, 65)\c&H02F1FE\3c&HFFFFFF}赞美の心
+Dialogue: 3,0:00:41.75,0:00:49.42,AcplayDefault,,0000,0000,0000,,{\move(1952, 896, -32, 896)}♂
+Dialogue: 3,0:00:42.11,0:00:51.78,AcplayDefault,,0000,0000,0000,,{\move(2048, 64, -128, 64)}火钳刘明
+Dialogue: 3,0:00:42.42,0:00:46.42,AcplayDefault,,0000,0000,0000,,{\a6\pos(960, 900)\c&H222222\3c&HFFFFFF\fs57}看不见我
+Dialogue: 3,0:00:45.40,0:00:53.73,AcplayDefault,,0000,0000,0000,,{\move(1984, 192, -64, 192)}噢耶
+Dialogue: 3,0:00:47.68,0:00:57.34,AcplayDefault,,0000,0000,0000,,{\move(2048, 256, -128, 256)}火钳刘明
+Dialogue: 3,0:00:48.08,0:00:57.74,AcplayDefault,,0000,0000,0000,,{\move(2048, 320, -128, 320)}火钳刘明
+Dialogue: 3,0:00:48.35,0:00:52.35,AcplayDefault,,0000,0000,0000,,{\a6\pos(960, 1)\c&H02F1FE\3c&HFFFFFF}自动变色
+Dialogue: 3,0:00:48.41,0:00:58.07,AcplayDefault,,0000,0000,0000,,{\move(2048, 448, -128, 448)}竟然听过
+Dialogue: 3,0:00:48.46,0:01:01.46,AcplayDefault,,0000,0000,0000,,{\move(2368, 512, -448, 512)}作为喜欢原曲的人表示这很强！
+Dialogue: 3,0:00:50.60,0:00:58.94,AcplayDefault,,0000,0000,0000,,{\move(1984, 576, -64, 576)}FA
+Dialogue: 3,0:00:52.26,0:01:00.59,AcplayDefault,,0000,0000,0000,,{\move(1984, 640, -64, 640)}人才
+Dialogue: 3,0:00:52.34,0:01:05.34,AcplayDefault,,0000,0000,0000,,{\move(3040, 704, -1120, 704)\c&H02F1FE\3c&HFFFFFF}自由自由自由自由自由自由自由自由！！！！！乌拉乌拉乌拉乌拉乌拉！！！！
+Dialogue: 3,0:00:52.64,0:01:02.31,AcplayDefault,,0000,0000,0000,,{\move(2048, 768, -128, 768)}Fa ♂
+Dialogue: 3,0:00:53.92,0:01:03.92,AcplayDefault,,0000,0000,0000,,{\move(2112, 832, -192, 832)}我的弹幕呢？
+Dialogue: 3,0:00:54.18,0:00:58.18,AcplayDefault,,0000,0000,0000,,{\a6\pos(960, 1)}哈哈 为什么莫名其妙想笑
+Dialogue: 3,0:00:54.85,0:01:07.35,AcplayDefault,,0000,0000,0000,,{\move(2272, 64, -352, 64)}实验证明声音由振动产生
+Dialogue: 3,0:00:54.89,0:01:03.89,AcplayDefault,,0000,0000,0000,,{\move(2016, 128, -96, 128)}开口跪
+Dialogue: 3,0:00:57.90,0:01:06.90,AcplayDefault,,0000,0000,0000,,{\move(2016, 192, -96, 192)}大制作
+Dialogue: 3,0:00:58.00,0:01:07.66,AcplayDefault,,0000,0000,0000,,{\move(2048, 256, -128, 256)}火钳刘明
+Dialogue: 3,0:00:58.13,0:01:07.80,AcplayDefault,,0000,0000,0000,,{\move(2048, 320, -128, 320)\c&H02F1FE\3c&HFFFFFF}颜表立♂
+Dialogue: 3,0:00:59.70,0:01:09.20,AcplayDefault,,0000,0000,0000,,{\move(2080, 384, -160, 384)}哲♂学之力
+Dialogue: 3,0:01:00.18,0:01:09.68,AcplayDefault,,0000,0000,0000,,{\move(2080, 448, -160, 448)}亿万调音师
+Dialogue: 3,0:01:01.69,0:01:11.19,AcplayDefault,,0000,0000,0000,,{\move(2080, 512, -160, 512)}过万调音师
+Dialogue: 3,0:01:02.32,0:01:11.32,AcplayDefault,,0000,0000,0000,,{\move(2016, 576, -96, 576)}不自由
+Dialogue: 3,0:01:03.86,0:01:12.19,AcplayDefault,,0000,0000,0000,,{\move(1984, 640, -64, 640)}还行
+Dialogue: 3,0:01:04.50,0:01:12.83,AcplayDefault,,0000,0000,0000,,{\move(1984, 704, -64, 704)}头屑
+Dialogue: 3,0:01:05.15,0:01:14.65,AcplayDefault,,0000,0000,0000,,{\move(2080, 768, -160, 768)}自由的形状
+Dialogue: 3,0:01:07.64,0:01:11.64,AcplayDefault,,0000,0000,0000,,{\a6\pos(960, 1)}跪了跪了
+Dialogue: 3,0:01:10.20,0:01:20.20,AcplayDefault,,0000,0000,0000,,{\move(2112, 896, -192, 896)\c&H02F1FE\3c&HFFFFFF}自由的形♂状
+Dialogue: 3,0:01:12.76,0:01:22.43,AcplayDefault,,0000,0000,0000,,{\move(2048, 64, -128, 64)}火钳刘明
+Dialogue: 3,0:01:13.20,0:01:22.70,AcplayDefault,,0000,0000,0000,,{\move(2080, 128, -160, 128)}这不是自由
+Dialogue: 3,0:01:13.32,0:01:25.32,AcplayDefault,,0000,0000,0000,,{\move(2240, 192, -320, 192)}此视频为此电音的mv
+Dialogue: 3,0:01:13.79,0:01:23.46,AcplayDefault,,0000,0000,0000,,{\move(2048, 256, -128, 256)}男幕结界
+Dialogue: 3,0:01:14.53,0:01:18.53,AcplayDefault,,0000,0000,0000,,{\a6\pos(960, 1)\c&H02F1FE\3c&HFFFFFF}少拿原曲mv骗我了（滑稽）
+Dialogue: 3,0:01:15.03,0:01:24.69,AcplayDefault,,0000,0000,0000,,{\move(2048, 384, -128, 384)}2605
+Dialogue: 3,0:01:15.56,0:01:25.22,AcplayDefault,,0000,0000,0000,,{\move(2048, 448, -128, 448)}西米粥？
+Dialogue: 3,0:01:17.69,0:01:26.69,AcplayDefault,,0000,0000,0000,,{\move(2016, 512, -96, 512)}不自由
+Dialogue: 3,0:01:17.88,0:01:26.88,AcplayDefault,,0000,0000,0000,,{\move(2016, 576, -96, 576)}密恐了
+Dialogue: 3,0:01:17.96,0:01:26.29,AcplayDefault,,0000,0000,0000,,{\move(1984, 640, -64, 640)}很酷
+Dialogue: 3,0:01:18.46,0:01:27.46,AcplayDefault,,0000,0000,0000,,{\move(2016, 704, -96, 704)}磁流体
+Dialogue: 3,0:01:19.09,0:01:28.76,AcplayDefault,,0000,0000,0000,,{\move(2048, 768, -128, 768)\c&H02F1FE\3c&HFFFFFF}自由呢？
+Dialogue: 3,0:01:19.82,0:01:28.82,AcplayDefault,,0000,0000,0000,,{\move(2016, 832, -96, 832)}高科技
+Dialogue: 3,0:01:21.08,0:01:30.74,AcplayDefault,,0000,0000,0000,,{\move(2048, 896, -128, 896)}火钳刘明
+Dialogue: 3,0:01:22.04,0:01:31.70,AcplayDefault,,0000,0000,0000,,{\move(2048, 64, -128, 64)}这是真的
+Dialogue: 3,0:01:25.24,0:01:37.74,AcplayDefault,,0000,0000,0000,,{\move(2272, 128, -352, 128)}现在要做案都不容易了～
+Dialogue: 3,0:01:25.27,0:01:34.93,AcplayDefault,,0000,0000,0000,,{\move(2048, 192, -128, 192)}5464
+Dialogue: 3,0:01:26.03,0:01:34.36,AcplayDefault,,0000,0000,0000,,{\move(1984, 256, -64, 256)}强啊
+Dialogue: 3,0:01:26.55,0:01:34.88,AcplayDefault,,0000,0000,0000,,{\move(1984, 320, -64, 320)}妙啊
+Dialogue: 3,0:01:27.29,0:01:35.62,AcplayDefault,,0000,0000,0000,,{\move(1984, 384, -64, 384)}尿啊
+Dialogue: 3,0:01:28.32,0:01:37.99,AcplayDefault,,0000,0000,0000,,{\move(2048, 448, -128, 448)}火钳刘明
+Dialogue: 3,0:01:29.16,0:01:39.66,AcplayDefault,,0000,0000,0000,,{\move(2144, 512, -224, 512)}啊，自由的气息
+Dialogue: 3,0:01:31.17,0:01:40.83,AcplayDefault,,0000,0000,0000,,{\move(2048, 576, -128, 576)}火钳刘明
+Dialogue: 3,0:01:31.97,0:01:41.47,AcplayDefault,,0000,0000,0000,,{\move(2080, 640, -160, 640)}这是特效？
+Dialogue: 3,0:01:32.03,0:01:45.03,AcplayDefault,,0000,0000,0000,,{\move(2432, 704, -512, 704)}注意这个视频里面所有东西都是真的
+Dialogue: 3,0:01:33.84,0:01:46.84,AcplayDefault,,0000,0000,0000,,{\move(2336, 768, -416, 768)}快来人，牛顿棺材板按不住了
+Dialogue: 3,0:01:33.89,0:01:44.89,AcplayDefault,,0000,0000,0000,,{\move(2176, 832, -256, 832)}这不是我要的自由
+Dialogue: 3,0:01:34.11,0:01:38.11,AcplayDefault,,0000,0000,0000,,{\a6\pos(960, 1)}不是，是真的
+Dialogue: 3,0:01:37.34,0:01:46.34,AcplayDefault,,0000,0000,0000,,{\move(2016, 64, -96, 64)}真实的
+Dialogue: 3,0:01:39.57,0:01:47.91,AcplayDefault,,0000,0000,0000,,{\move(1984, 128, -64, 128)}尿啊
+Dialogue: 3,0:01:40.03,0:01:49.53,AcplayDefault,,0000,0000,0000,,{\move(2080, 192, -160, 192)}实在是妙啊
+Dialogue: 3,0:01:40.31,0:01:50.81,AcplayDefault,,0000,0000,0000,,{\move(2144, 256, -224, 256)}有点好好van
+Dialogue: 3,0:01:42.53,0:01:55.03,AcplayDefault,,0000,0000,0000,,{\move(2272, 320, -352, 320)}自动打耳光机器2000
+Dialogue: 3,0:01:43.29,0:01:54.79,AcplayDefault,,0000,0000,0000,,{\move(2208, 384, -288, 384)}这条歌我听过，快乐
+Dialogue: 3,0:01:43.77,0:01:56.77,AcplayDefault,,0000,0000,0000,,{\move(2592, 448, -672, 448)}这不是我物理课上看的，声音的特性，的视频吗
+Dialogue: 3,0:01:43.97,0:01:47.97,AcplayDefault,,0000,0000,0000,,{\a6\pos(960, 1)\c&H1200E7\3c&HFFFFFF}网易云音乐上有
+Dialogue: 3,0:01:44.82,0:01:55.32,AcplayDefault,,0000,0000,0000,,{\move(2144, 576, -224, 576)}大片的感jio
+Dialogue: 3,0:01:45.71,0:01:58.71,AcplayDefault,,0000,0000,0000,,{\move(2336, 640, -416, 640)}啊，That's good
+Dialogue: 3,0:01:47.26,0:01:55.60,AcplayDefault,,0000,0000,0000,,{\move(1984, 704, -64, 704)}妙啊
+Dialogue: 3,0:01:47.42,0:01:59.42,AcplayDefault,,0000,0000,0000,,{\move(2240, 768, -320, 768)}大家好我是科幻迷，，
+Dialogue: 3,0:01:48.40,0:01:52.40,AcplayDefault,,0000,0000,0000,,{\a6\pos(960, 1)\c&H00FFFF}大家好 我是布马 今天给大家讲一个哲学鬼畜的故事
+Dialogue: 3,0:01:49.22,0:01:56.89,AcplayDefault,,0000,0000,0000,,{\move(1952, 896, -32, 896)}妙
+Dialogue: 3,0:01:50.46,0:01:54.46,AcplayDefault,,0000,0000,0000,,{\a6\pos(960, 65)\c&H1200E7\3c&HFFFFFF}水的一手好视频
+Dialogue: 3,0:01:51.78,0:02:02.28,AcplayDefault,,0000,0000,0000,,{\move(2144, 128, -224, 128)}哦哟 还不错哟
+Dialogue: 3,0:01:51.93,0:02:01.60,AcplayDefault,,0000,0000,0000,,{\move(2048, 192, -128, 192)}微微一笑
+Dialogue: 3,0:01:52.39,0:02:01.89,AcplayDefault,,0000,0000,0000,,{\move(2080, 256, -160, 256)}duang
+Dialogue: 3,0:01:54.71,0:02:05.21,AcplayDefault,,0000,0000,0000,,{\move(2144, 320, -224, 320)}啊，good 
+Dialogue: 3,0:01:57.77,0:02:10.77,AcplayDefault,,0000,0000,0000,,{\move(2496, 384, -576, 384)\c&H02F1FE\3c&HFFFFFF}door  door  door ♂
+Dialogue: 3,0:01:58.80,0:02:07.80,AcplayDefault,,0000,0000,0000,,{\move(2016, 448, -96, 448)}磁流体
+Dialogue: 3,0:02:00.34,0:02:08.67,AcplayDefault,,0000,0000,0000,,{\move(1984, 512, -64, 512)}真好
+Dialogue: 3,0:02:00.35,0:02:04.35,AcplayDefault,,0000,0000,0000,,{\a6\pos(960, 1)}doordoordoor
+Dialogue: 3,0:02:00.85,0:02:13.85,AcplayDefault,,0000,0000,0000,,{\move(2304, 640, -384, 640)}doordoordoor
+Dialogue: 3,0:02:01.48,0:02:09.14,AcplayDefault,,0000,0000,0000,,{\move(1952, 704, -32, 704)}妙
+Dialogue: 3,0:02:01.88,0:02:14.88,AcplayDefault,,0000,0000,0000,,{\move(2560, 768, -640, 768)}前排提示，这个原视频是真的，不是后期制作
+Dialogue: 3,0:02:02.40,0:02:11.90,AcplayDefault,,0000,0000,0000,,{\move(2080, 832, -160, 832)}布玛BGM
+Dialogue: 3,0:02:03.02,0:02:11.36,AcplayDefault,,0000,0000,0000,,{\move(1984, 896, -64, 896)}人才
+Dialogue: 3,0:02:03.63,0:02:15.13,AcplayDefault,,0000,0000,0000,,{\move(2208, 64, -288, 64)}世间万物，皆为音乐
+Dialogue: 3,0:02:04.06,0:02:14.06,AcplayDefault,,0000,0000,0000,,{\move(2112, 128, -192, 128)}这是磁流铁吧
+Dialogue: 3,0:02:06.26,0:02:19.26,AcplayDefault,,0000,0000,0000,,{\move(2368, 192, -448, 192)}door door door
+Dialogue: 3,0:02:06.46,0:02:19.46,AcplayDefault,,0000,0000,0000,,{\move(2560, 256, -640, 256)\c&H397992\3c&HFFFFFF}Doordoordoordoordoor
+Dialogue: 3,0:02:06.77,0:02:18.27,AcplayDefault,,0000,0000,0000,,{\move(2208, 320, -288, 320)}真的，只是视觉问题
+Dialogue: 3,0:02:08.78,0:02:20.78,AcplayDefault,,0000,0000,0000,,{\move(2240, 384, -320, 384)}搞基≠哲♂学 哲♂学
+Dialogue: 3,0:02:09.34,0:02:17.68,AcplayDefault,,0000,0000,0000,,{\move(1984, 448, -64, 448)}人才
+Dialogue: 3,0:02:09.35,0:02:19.02,AcplayDefault,,0000,0000,0000,,{\move(2048, 512, -128, 512)}door
+Dialogue: 3,0:02:10.34,0:02:18.67,AcplayDefault,,0000,0000,0000,,{\move(1984, 576, -64, 576)}泪目
+Dialogue: 3,0:02:12.21,0:02:25.21,AcplayDefault,,0000,0000,0000,,{\move(2336, 640, -416, 640)}很抱歉这是水(′゜ω。‵)
+Dialogue: 3,0:02:12.50,0:02:16.50,AcplayDefault,,0000,0000,0000,,{\a6\pos(960, 1)}磁流体
+Dialogue: 3,0:02:13.06,0:02:26.06,AcplayDefault,,0000,0000,0000,,{\move(2400, 768, -480, 768)}duangduangduang
+Dialogue: 3,0:02:13.42,0:02:26.42,AcplayDefault,,0000,0000,0000,,{\move(2368, 832, -448, 832)\c&H1200E7\3c&HFFFFFF}door♂door♂door
+Dialogue: 3,0:02:13.48,0:02:25.48,AcplayDefault,,0000,0000,0000,,{\move(2240, 896, -320, 896)}密集恐惧症表示很难受
+Dialogue: 3,0:02:14.82,0:02:27.32,AcplayDefault,,0000,0000,0000,,{\move(2272, 64, -352, 64)\c&H1200E7\3c&HFFFFFF}李Gay我在这儿等着你
+Dialogue: 3,0:02:15.76,0:02:24.09,AcplayDefault,,0000,0000,0000,,{\move(1984, 128, -64, 128)}妙啊
+Dialogue: 3,0:02:17.59,0:02:27.59,AcplayDefault,,0000,0000,0000,,{\move(2112, 192, -192, 192)}fa乐器呢？
+Dialogue: 3,0:02:19.35,0:02:32.35,AcplayDefault,,0000,0000,0000,,{\move(2304, 256, -384, 256)}doordoordoor
+Dialogue: 3,0:02:21.51,0:02:31.01,AcplayDefault,,0000,0000,0000,,{\move(2080, 320, -160, 320)\c&H02F1FE\3c&HFFFFFF}哦~液♂射
+Dialogue: 3,0:02:22.42,0:02:31.42,AcplayDefault,,0000,0000,0000,,{\move(2016, 384, -96, 384)}示波器
+Dialogue: 3,0:02:22.81,0:02:32.48,AcplayDefault,,0000,0000,0000,,{\move(2048, 448, -128, 448)}火钳刘明
+Dialogue: 3,0:02:24.75,0:02:34.25,AcplayDefault,,0000,0000,0000,,{\move(2080, 512, -160, 512)}音乐的力量
+Dialogue: 3,0:02:26.31,0:02:36.81,AcplayDefault,,0000,0000,0000,,{\move(2144, 576, -224, 576)}那个男人会来吗
+Dialogue: 3,0:02:26.84,0:02:37.34,AcplayDefault,,0000,0000,0000,,{\move(2144, 640, -224, 640)}布玛的音乐背景
+Dialogue: 3,0:02:28.39,0:02:38.89,AcplayDefault,,0000,0000,0000,,{\move(2144, 704, -224, 704)}示door♂器
+Dialogue: 3,0:02:28.72,0:02:38.72,AcplayDefault,,0000,0000,0000,,{\move(2112, 768, -192, 768)}前方白丝福利
+Dialogue: 3,0:02:33.58,0:02:43.58,AcplayDefault,,0000,0000,0000,,{\move(2112, 832, -192, 832)}足控の福♂利
+Dialogue: 3,0:02:33.76,0:02:43.76,AcplayDefault,,0000,0000,0000,,{\move(2112, 896, -192, 896)}人均物理学家
+Dialogue: 3,0:02:38.50,0:02:46.83,AcplayDefault,,0000,0000,0000,,{\move(1984, 64, -64, 64)\c&H02F1FE\3c&HFFFFFF}福利
+Dialogue: 3,0:02:40.50,0:02:48.83,AcplayDefault,,0000,0000,0000,,{\move(1984, 128, -64, 128)}魔鬼
+Dialogue: 3,0:02:40.85,0:02:50.35,AcplayDefault,,0000,0000,0000,,{\move(2080, 192, -160, 192)}van游戏
+Dialogue: 3,0:02:41.00,0:02:51.00,AcplayDefault,,0000,0000,0000,,{\move(2112, 256, -192, 256)\c&H2AABF0\3c&HFFFFFF}前方注入灵魂
+Dialogue: 3,0:02:41.63,0:02:52.63,AcplayDefault,,0000,0000,0000,,{\move(2176, 320, -256, 320)}说足控的你过来~
+Dialogue: 3,0:02:42.37,0:02:51.87,AcplayDefault,,0000,0000,0000,,{\move(2080, 384, -160, 384)}白丝¿福利
+Dialogue: 3,0:02:42.46,0:02:52.13,AcplayDefault,,0000,0000,0000,,{\move(2048, 448, -128, 448)}火钳刘明
+Dialogue: 3,0:02:42.57,0:02:52.07,AcplayDefault,,0000,0000,0000,,{\move(2080, 512, -160, 512)}踩点狂魔。
+Dialogue: 3,0:02:42.84,0:02:51.84,AcplayDefault,,0000,0000,0000,,{\move(2016, 576, -96, 576)}见福打
+Dialogue: 3,0:02:45.97,0:02:54.30,AcplayDefault,,0000,0000,0000,,{\move(1984, 640, -64, 640)}啊♂
+Dialogue: 3,0:02:46.47,0:02:55.97,AcplayDefault,,0000,0000,0000,,{\move(2080, 704, -160, 704)}赞美♂之心
+Dialogue: 3,0:02:48.71,0:02:58.37,AcplayDefault,,0000,0000,0000,,{\move(2048, 768, -128, 768)}触不及防
+Dialogue: 3,0:02:49.02,0:02:53.02,AcplayDefault,,0000,0000,0000,,{\a6\pos(960, 1)\c&H02F1FE\3c&HFFFFFF}妙啊妙啊
+Dialogue: 3,0:02:51.60,0:03:02.10,AcplayDefault,,0000,0000,0000,,{\move(2144, 896, -224, 896)}什么鬼啦那个头
+Dialogue: 3,0:02:52.72,0:03:01.72,AcplayDefault,,0000,0000,0000,,{\move(2016, 64, -96, 64)}赤酱！
+Dialogue: 3,0:02:53.65,0:03:04.65,AcplayDefault,,0000,0000,0000,,{\move(2176, 128, -256, 128)\c&H1200E7\3c&HFFFFFF}推荐1点五倍食用
+Dialogue: 3,0:02:54.22,0:03:07.22,AcplayDefault,,0000,0000,0000,,{\move(2336, 192, -416, 192)\c&H02F1FE\3c&HFFFFFF}啊啊啊啊啊啊啊啊啊啊啊啊啊
+Dialogue: 3,0:02:55.34,0:03:03.67,AcplayDefault,,0000,0000,0000,,{\move(1984, 256, -64, 256)}嗯~
+Dialogue: 3,0:02:56.12,0:03:06.62,AcplayDefault,,0000,0000,0000,,{\move(2144, 320, -224, 320)}说什么鬼的弱子
+Dialogue: 3,0:02:56.13,0:03:05.13,AcplayDefault,,0000,0000,0000,,{\move(2016, 384, -96, 384)\c&H1200E7\3c&HFFFFFF}吴克！
+Dialogue: 3,0:02:57.64,0:03:07.31,AcplayDefault,,0000,0000,0000,,{\move(2048, 448, -128, 448)}弹幕好少
+Dialogue: 3,0:02:58.11,0:03:06.45,AcplayDefault,,0000,0000,0000,,{\move(1984, 512, -64, 512)}息子
+Dialogue: 3,0:02:58.66,0:03:02.66,AcplayDefault,,0000,0000,0000,,{\a6\pos(960, 1)\c&H02F1FE\3c&HFFFFFF}光头！
+Dialogue: 3,0:02:59.09,0:03:03.09,AcplayDefault,,0000,0000,0000,,{\a6\pos(960, 65)}头皮发麻
+Dialogue: 3,0:02:59.42,0:03:08.42,AcplayDefault,,0000,0000,0000,,{\move(2016, 704, -96, 704)\c&H1200E7\3c&HFFFFFF}光头！
+Dialogue: 3,0:03:00.70,0:03:09.03,AcplayDefault,,0000,0000,0000,,{\move(1984, 768, -64, 768)}赤酱
+Dialogue: 3,0:03:01.20,0:03:09.53,AcplayDefault,,0000,0000,0000,,{\move(1984, 832, -64, 832)\c&H02F1FE\3c&HFFFFFF}啊♂
+Dialogue: 3,0:03:01.93,0:03:05.93,AcplayDefault,,0000,0000,0000,,{\a6\pos(960, 900)\c&H1200E7\3c&HFFFFFF}赤酱！
+Dialogue: 3,0:03:02.00,0:03:11.50,AcplayDefault,,0000,0000,0000,,{\move(2080, 64, -160, 64)}这个是赤酱
+Dialogue: 3,0:03:03.05,0:03:12.55,AcplayDefault,,0000,0000,0000,,{\move(2080, 128, -160, 128)}赞美♂之心
+Dialogue: 3,0:03:03.34,0:03:13.00,AcplayDefault,,0000,0000,0000,,{\move(2048, 192, -128, 192)}火钳刘明
+Dialogue: 3,0:03:03.86,0:03:15.36,AcplayDefault,,0000,0000,0000,,{\move(2208, 256, -288, 256)}这不是铠甲勇士里的
+Dialogue: 3,0:03:04.83,0:03:13.16,AcplayDefault,,0000,0000,0000,,{\move(1984, 320, -64, 320)}嗯♂
+Dialogue: 3,0:03:06.01,0:03:15.68,AcplayDefault,,0000,0000,0000,,{\move(2048, 384, -128, 384)}up秀啊
+Dialogue: 3,0:03:07.30,0:03:16.97,AcplayDefault,,0000,0000,0000,,{\move(2048, 448, -128, 448)}比利……
+Dialogue: 3,0:03:07.33,0:03:20.33,AcplayDefault,,0000,0000,0000,,{\move(2368, 512, -448, 512)\c&H02F1FE\3c&HFFFFFF}FAFAFAFAFAFAFA
+Dialogue: 3,0:03:08.25,0:03:17.92,AcplayDefault,,0000,0000,0000,,{\move(2048, 576, -128, 576)}火钳刘明
+Dialogue: 3,0:03:09.34,0:03:17.68,AcplayDefault,,0000,0000,0000,,{\move(1984, 640, -64, 640)}啊♂
+Dialogue: 3,0:03:09.48,0:03:20.48,AcplayDefault,,0000,0000,0000,,{\move(2176, 704, -256, 704)}YES，SIR！
+Dialogue: 3,0:03:09.52,0:03:22.52,AcplayDefault,,0000,0000,0000,,{\move(3072, 768, -1152, 768)\c&H02F1FE\3c&HFFFFFF}fafafafafafafafafafafafafafafafafafa
+Dialogue: 3,0:03:10.05,0:03:21.55,AcplayDefault,,0000,0000,0000,,{\move(2208, 832, -288, 832)}出现了，fa乐器！
+Dialogue: 3,0:03:10.88,0:03:19.22,AcplayDefault,,0000,0000,0000,,{\move(1984, 896, -64, 896)}妙啊
+Dialogue: 3,0:03:11.25,0:03:19.58,AcplayDefault,,0000,0000,0000,,{\move(1984, 64, -64, 64)}FA
+Dialogue: 3,0:03:11.54,0:03:21.04,AcplayDefault,,0000,0000,0000,,{\move(2080, 128, -160, 128)\c&H02F1FE\3c&HFFFFFF}赞美哲♂学
+Dialogue: 3,0:03:13.32,0:03:21.65,AcplayDefault,,0000,0000,0000,,{\move(1984, 192, -64, 192)}妙啊
+Dialogue: 3,0:03:15.91,0:03:25.91,AcplayDefault,,0000,0000,0000,,{\move(2112, 256, -192, 256)}fafafa
+Dialogue: 3,0:03:16.71,0:03:26.71,AcplayDefault,,0000,0000,0000,,{\move(2112, 320, -192, 320)}好歌不火系列
+Dialogue: 3,0:03:18.51,0:03:26.85,AcplayDefault,,0000,0000,0000,,{\move(1984, 384, -64, 384)}自由
+Dialogue: 3,0:03:18.62,0:03:31.62,AcplayDefault,,0000,0000,0000,,{\move(3968, 448, -2048, 448)\c&H02F1FE\3c&HFFFFFF}fafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafa
+Dialogue: 3,0:03:18.97,0:03:29.97,AcplayDefault,,0000,0000,0000,,{\move(2176, 512, -256, 512)}这才是真正的哲学
+Dialogue: 3,0:03:21.56,0:03:29.89,AcplayDefault,,0000,0000,0000,,{\move(1984, 576, -64, 576)}人才
+Dialogue: 3,0:03:22.81,0:03:32.48,AcplayDefault,,0000,0000,0000,,{\move(2048, 640, -128, 640)}妙不可言
+Dialogue: 3,0:03:22.93,0:03:35.93,AcplayDefault,,0000,0000,0000,,{\move(5120, 704, -3200, 704)\c&H02F1FE\3c&HFFFFFF}Fafafafafafafa Fafafafafafafa Fafafafafafafa Fafafafafafafa Fafafafafa Fafafafafafafa Fafafafafafafa
+Dialogue: 3,0:03:23.37,0:03:36.37,AcplayDefault,,0000,0000,0000,,{\move(3904, 768, -1984, 768)}fafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafa
+Dialogue: 3,0:03:23.46,0:03:33.12,AcplayDefault,,0000,0000,0000,,{\move(2048, 832, -128, 832)}头屑好评
+Dialogue: 3,0:03:23.78,0:03:36.78,AcplayDefault,,0000,0000,0000,,{\move(5120, 896, -3200, 896)\c&H439800\3c&HFFFFFF}Fafafafafafafa Fafafafafafafa Fafafafafafafa Fafafafafafafa Fafafafafa Fafafafafafafa Fafafafafafafa
+Dialogue: 3,0:03:23.78,0:03:32.11,AcplayDefault,,0000,0000,0000,,{\move(1984, 64, -64, 64)}6批
+Dialogue: 3,0:03:24.09,0:03:35.09,AcplayDefault,,0000,0000,0000,,{\move(2176, 128, -256, 128)}阴♂乐即为哲♂学
+Dialogue: 3,0:03:24.32,0:03:37.32,AcplayDefault,,0000,0000,0000,,{\move(2944, 192, -1024, 192)}fafafafafafafafafafafafafafafafa
+Dialogue: 3,0:03:24.84,0:03:37.84,AcplayDefault,,0000,0000,0000,,{\move(5120, 256, -3200, 256)\c&HEAA000\3c&HFFFFFF}Fafafafafafafa Fafafafafafafa Fafafafafafafa Fafafafafafafa Fafafafafa Fafafafafafafa Fafafafafafafa
+Dialogue: 3,0:03:25.46,0:03:38.46,AcplayDefault,,0000,0000,0000,,{\move(5120, 320, -3200, 320)\c&H7F02E2\3c&HFFFFFF}Fafafafafafafa Fafafafafafafa Fafafafafafafa Fafafafafafafa Fafafafafa Fafafafafafafa Fafafafafafafa
+Dialogue: 3,0:03:26.15,0:03:39.15,AcplayDefault,,0000,0000,0000,,{\move(5120, 384, -3200, 384)\c&H7F02E2\3c&HFFFFFF}Fafafafafafafa Fafafafafafafa Fafafafafafafa Fafafafafafafa Fafafafafa Fafafafafafafa Fafafafafafafa
+Dialogue: 3,0:03:26.58,0:03:39.58,AcplayDefault,,0000,0000,0000,,{\move(3392, 448, -1472, 448)}fafafafafafafafafafafafafafafafafafafafafafafa
+Dialogue: 3,0:03:26.90,0:03:39.90,AcplayDefault,,0000,0000,0000,,{\move(5120, 512, -3200, 512)\c&H20C390\3c&HFFFFFF}Fafafafafafafa Fafafafafafafa Fafafafafafafa Fafafafafafafa Fafafafafa Fafafafafafafa Fafafafafafafa
+Dialogue: 3,0:03:27.50,0:03:40.50,AcplayDefault,,0000,0000,0000,,{\move(5120, 576, -3200, 576)\c&H722E00\3c&HFFFFFF}Fafafafafafafa Fafafafafafafa Fafafafafafafa Fafafafafafafa Fafafafafa Fafafafafafafa Fafafafafafafa
+Dialogue: 3,0:03:28.02,0:03:41.02,AcplayDefault,,0000,0000,0000,,{\move(5120, 640, -3200, 640)\c&H2AABF0\3c&HFFFFFF}Fafafafafafafa Fafafafafafafa Fafafafafafafa Fafafafafafafa Fafafafafa Fafafafafafafa Fafafafafafafa
+Dialogue: 3,0:03:28.12,0:03:35.79,AcplayDefault,,0000,0000,0000,,{\move(1952, 704, -32, 704)\c&H1200E7\3c&HFFFFFF}♬
+Dialogue: 3,0:03:28.22,0:03:38.22,AcplayDefault,,0000,0000,0000,,{\move(2112, 768, -192, 768)}顶顶顶顶！！
+Dialogue: 3,0:03:28.63,0:03:41.63,AcplayDefault,,0000,0000,0000,,{\move(5120, 832, -3200, 832)\c&H7B3A68\3c&HFFFFFF}Fafafafafafafa Fafafafafafafa Fafafafafafafa Fafafafafafafa Fafafafafa Fafafafafafafa Fafafafafafafa
+Dialogue: 3,0:03:28.73,0:03:41.73,AcplayDefault,,0000,0000,0000,,{\move(2528, 896, -608, 896)}fafafafafafafafaFa发
+Dialogue: 3,0:03:29.20,0:03:42.20,AcplayDefault,,0000,0000,0000,,{\move(2752, 64, -832, 64)\c&H1200E7\3c&HFFFFFF}fafafafafafafafafafafafafa
+Dialogue: 3,0:03:30.17,0:03:43.17,AcplayDefault,,0000,0000,0000,,{\move(3904, 128, -1984, 128)}fafafafafafafafafafafafafafafafafafaffafafafafafafafafaffafafa
+Dialogue: 3,0:03:30.75,0:03:43.75,AcplayDefault,,0000,0000,0000,,{\move(3968, 192, -2048, 192)}fafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafa
+Dialogue: 3,0:03:30.91,0:03:43.91,AcplayDefault,,0000,0000,0000,,{\move(2432, 256, -512, 256)}请注意亲爱的旅客，你接近高潮阶段
+Dialogue: 3,0:03:31.42,0:03:41.09,AcplayDefault,,0000,0000,0000,,{\move(2048, 320, -128, 320)}投币点赞
+Dialogue: 3,0:03:32.49,0:03:42.49,AcplayDefault,,0000,0000,0000,,{\move(2112, 384, -192, 384)}1.5新世界
+Dialogue: 3,0:03:33.08,0:03:41.41,AcplayDefault,,0000,0000,0000,,{\move(1984, 448, -64, 448)}Q♂
+Dialogue: 3,0:03:35.14,0:03:48.14,AcplayDefault,,0000,0000,0000,,{\move(2656, 512, -736, 512)}fafafafaafafafafafafafa
+Dialogue: 3,0:03:35.14,0:03:48.14,AcplayDefault,,0000,0000,0000,,{\move(2304, 576, -384, 576)}李Gay我仍在这儿等着你
+Dialogue: 3,0:03:37.09,0:03:50.09,AcplayDefault,,0000,0000,0000,,{\move(2304, 640, -384, 640)}FAFAFAFAFAFA
+Dialogue: 3,0:03:38.24,0:03:47.24,AcplayDefault,,0000,0000,0000,,{\move(2016, 704, -96, 704)}自♂由
+Dialogue: 3,0:03:38.62,0:03:51.62,AcplayDefault,,0000,0000,0000,,{\move(2368, 768, -448, 768)}qqqqqqqqqqqqqq
+Dialogue: 3,0:03:39.63,0:03:52.63,AcplayDefault,,0000,0000,0000,,{\move(2592, 832, -672, 832)}faafaafaafaafafaffafa
+Dialogue: 3,0:03:39.80,0:03:52.80,AcplayDefault,,0000,0000,0000,,{\move(3424, 896, -1504, 896)\c&H02F1FE\3c&HFFFFFF}fafafafafafafafafafafafafafafafafafafafafafa送给你
+Dialogue: 3,0:03:40.03,0:03:53.03,AcplayDefault,,0000,0000,0000,,{\move(3008, 64, -1088, 64)}fafafafafafafafafafafafafafafafafa
+Dialogue: 3,0:03:40.43,0:03:44.43,AcplayDefault,,0000,0000,0000,,{\a6\pos(960, 900)}FAFAFAFAFAFAFAFAFAF
+Dialogue: 3,0:03:40.47,0:03:49.47,AcplayDefault,,0000,0000,0000,,{\move(2016, 192, -96, 192)}妙♂啊
+Dialogue: 3,0:03:43.00,0:03:55.00,AcplayDefault,,0000,0000,0000,,{\move(2240, 256, -320, 256)}fafafafafa
+Dialogue: 3,0:03:43.18,0:03:56.18,AcplayDefault,,0000,0000,0000,,{\move(3616, 320, -1696, 320)\c&H02F1FE\3c&HFFFFFF}fafafafafafafaffafafafafaffafafafafafafafafafafafafaf
+Dialogue: 3,0:03:43.80,0:03:56.80,AcplayDefault,,0000,0000,0000,,{\move(4064, 384, -2144, 384)\c&H1200E7\3c&HFFFFFF}fafafafafafafafafafafafafaffafafafafafafafafafafafafafafafafafafafa
+Dialogue: 3,0:03:43.87,0:03:56.87,AcplayDefault,,0000,0000,0000,,{\move(2944, 448, -1024, 448)\c&HEAA000\3c&HFFFFFF}fafafafafafafafafafafafafafafafa
+Dialogue: 3,0:03:43.87,0:03:56.87,AcplayDefault,,0000,0000,0000,,{\move(3008, 512, -1088, 512)}fafafafafafafafafafafafafafafafafa
+Dialogue: 3,0:03:44.53,0:03:48.53,AcplayDefault,,0000,0000,0000,,{\a6\pos(960, 1)}前方高能预警
+Dialogue: 3,0:03:44.83,0:03:57.83,AcplayDefault,,0000,0000,0000,,{\move(2688, 640, -768, 640)\c&H02F1FE\3c&HFFFFFF}Fafafafafafafafafafafafa
+Dialogue: 3,0:03:45.57,0:03:58.57,AcplayDefault,,0000,0000,0000,,{\move(2976, 704, -1056, 704)\c&H02F1FE\3c&HFFFFFF}fafafaffafafafafafafaffafafafafaf
+Dialogue: 3,0:03:45.80,0:03:54.80,AcplayDefault,,0000,0000,0000,,{\move(2016, 768, -96, 768)}三连了
+Dialogue: 3,0:03:46.49,0:03:56.16,AcplayDefault,,0000,0000,0000,,{\move(2048, 832, -128, 832)}自由之光
+Dialogue: 3,0:03:46.69,0:03:59.69,AcplayDefault,,0000,0000,0000,,{\move(3968, 896, -2048, 896)}fafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafa
+Dialogue: 3,0:03:47.24,0:03:51.24,AcplayDefault,,0000,0000,0000,,{\a6\pos(960, 65)}fa♂乐器天下第一！
+Dialogue: 3,0:03:47.32,0:03:56.99,AcplayDefault,,0000,0000,0000,,{\move(2048, 128, -128, 128)}火钳留名
+Dialogue: 3,0:03:47.68,0:03:57.18,AcplayDefault,,0000,0000,0000,,{\move(2080, 192, -160, 192)}fa♂舞曲
+Dialogue: 3,0:03:49.03,0:04:02.03,AcplayDefault,,0000,0000,0000,,{\move(2464, 256, -544, 256)\c&H7B3A68\3c&HFFFFFF}fa♂fa♂fa♂fa♂fa♂fa
+Dialogue: 3,0:03:49.62,0:04:01.12,AcplayDefault,,0000,0000,0000,,{\move(2208, 320, -288, 320)}噼里啪啦，噼里啪啦
+Dialogue: 3,0:03:49.85,0:04:02.85,AcplayDefault,,0000,0000,0000,,{\move(3520, 384, -1600, 384)}fafafafafafafafafafafafafafafafafafafafafafafafafa
+Dialogue: 3,0:03:49.99,0:03:59.99,AcplayDefault,,0000,0000,0000,,{\move(2112, 448, -192, 448)}准备真是不错
+Dialogue: 3,0:03:53.12,0:03:57.12,AcplayDefault,,0000,0000,0000,,{\a6\pos(960, 1)\c&H1200E7\3c&HFFFFFF}火钳刘明
+Dialogue: 3,0:03:53.71,0:04:06.71,AcplayDefault,,0000,0000,0000,,{\move(3520, 576, -1600, 576)\c&H00EEA0\3c&HFFFFFF}FAFAFAFAFAFAFAFAFAFAFAFAFAFAFAFAFAFAFAFAFAFAFAFAFA
+Dialogue: 3,0:03:54.28,0:04:04.28,AcplayDefault,,0000,0000,0000,,{\move(2112, 640, -192, 640)}自♂由的火焰
+Dialogue: 3,0:03:57.41,0:04:09.41,AcplayDefault,,0000,0000,0000,,{\move(2240, 704, -320, 704)}哲学之火  生生不息
+Dialogue: 3,0:03:57.50,0:04:07.17,AcplayDefault,,0000,0000,0000,,{\move(2048, 768, -128, 768)}哲学之火
+Dialogue: 3,0:03:58.43,0:04:08.10,AcplayDefault,,0000,0000,0000,,{\move(2048, 832, -128, 832)}deep
+Dialogue: 3,0:03:59.23,0:04:12.23,AcplayDefault,,0000,0000,0000,,{\move(2688, 896, -768, 896)}fafafafafafafafafafafafa
+Dialogue: 3,0:03:59.38,0:04:12.38,AcplayDefault,,0000,0000,0000,,{\move(3072, 64, -1152, 64)\c&H00EEA0\3c&HFFFFFF}FAFAFAFAFAFAFAFAFAFAFAFAFAFAFAFAFAFA
+Dialogue: 3,0:04:00.47,0:04:04.47,AcplayDefault,,0000,0000,0000,,{\a6\pos(960, 1)}前方高能
+Dialogue: 3,0:04:00.61,0:04:13.61,AcplayDefault,,0000,0000,0000,,{\move(3104, 192, -1184, 192)}fafafaffaffaffafafaffafafaffafafafaf 
+Dialogue: 3,0:04:00.65,0:04:13.65,AcplayDefault,,0000,0000,0000,,{\move(3456, 256, -1536, 256)\c&H1200E7\3c&HFFFFFF}FAFAFAFAFAFFAFAFAFFAFAFAFAFAFFAFAFAFAFAAFFAFAFAG
+Dialogue: 3,0:04:02.26,0:04:12.76,AcplayDefault,,0000,0000,0000,,{\move(2144, 320, -224, 320)\c&H02F1FE\3c&HFFFFFF}光头吴克！！！
+Dialogue: 3,0:04:02.97,0:04:12.97,AcplayDefault,,0000,0000,0000,,{\move(2112, 384, -192, 384)}特斯拉线圈！
+Dialogue: 3,0:04:03.08,0:04:12.74,AcplayDefault,,0000,0000,0000,,{\move(2048, 448, -128, 448)}一群吴克
+Dialogue: 3,0:04:03.24,0:04:12.74,AcplayDefault,,0000,0000,0000,,{\move(2080, 512, -160, 512)}deep 
+Dialogue: 3,0:04:03.24,0:04:12.24,AcplayDefault,,0000,0000,0000,,{\move(2016, 576, -96, 576)}吴克！
+Dialogue: 3,0:04:03.28,0:04:12.28,AcplayDefault,,0000,0000,0000,,{\move(2016, 640, -96, 640)}光头！
+Dialogue: 3,0:04:03.76,0:04:12.09,AcplayDefault,,0000,0000,0000,,{\move(1984, 704, -64, 704)\c&H1200E7\3c&HFFFFFF}光头
+Dialogue: 3,0:04:04.05,0:04:13.55,AcplayDefault,,0000,0000,0000,,{\move(2080, 768, -160, 768)\c&H02F1FE\3c&HFFFFFF}deep♂
+Dialogue: 3,0:04:04.37,0:04:14.87,AcplayDefault,,0000,0000,0000,,{\move(2144, 832, -224, 832)}钻出来两个光头
+Dialogue: 3,0:04:04.73,0:04:08.73,AcplayDefault,,0000,0000,0000,,{\a6\pos(960, 1)\c&H1200E7\3c&HFFFFFF}光头！！！
+Dialogue: 3,0:04:04.82,0:04:08.82,AcplayDefault,,0000,0000,0000,,{\a6\pos(960, 65)}从人群中冒出来一群光头
+Dialogue: 3,0:04:04.85,0:04:17.85,AcplayDefault,,0000,0000,0000,,{\move(2432, 128, -512, 128)\c&H00EEA0\3c&HFFFFFF}FAFAFAFAFAFAFAFA
+Dialogue: 3,0:04:05.03,0:04:14.03,AcplayDefault,,0000,0000,0000,,{\move(2016, 192, -96, 192)}吴克群
+Dialogue: 3,0:04:07.31,0:04:16.81,AcplayDefault,,0000,0000,0000,,{\move(2080, 256, -160, 256)}不p图差评
+Dialogue: 3,0:04:09.68,0:04:19.18,AcplayDefault,,0000,0000,0000,,{\move(2080, 320, -160, 320)}Deep 
+Dialogue: 3,0:04:10.09,0:04:19.10,AcplayDefault,,0000,0000,0000,,{\move(2016, 384, -96, 384)}克隆人
+Dialogue: 3,0:04:10.20,0:04:20.70,AcplayDefault,,0000,0000,0000,,{\move(2144, 448, -224, 448)}吴克群的真优秀
+Dialogue: 3,0:04:13.08,0:04:26.08,AcplayDefault,,0000,0000,0000,,{\move(2336, 512, -416, 512)}电影院里杜比音效的宣传视频
+Dialogue: 3,0:04:14.95,0:04:26.45,AcplayDefault,,0000,0000,0000,,{\move(2208, 576, -288, 576)}星星之火，可以燎原
+Dialogue: 3,0:04:16.00,0:04:26.00,AcplayDefault,,0000,0000,0000,,{\move(2112, 640, -192, 640)}1.5倍好评
+Dialogue: 3,0:04:16.28,0:04:25.28,AcplayDefault,,0000,0000,0000,,{\move(2016, 704, -96, 704)}滴滴答
+Dialogue: 3,0:04:18.56,0:04:29.06,AcplayDefault,,0000,0000,0000,,{\move(2144, 768, -224, 768)}特斯拉电圈？！
+Dialogue: 3,0:04:19.86,0:04:32.36,AcplayDefault,,0000,0000,0000,,{\move(2272, 832, -352, 832)}这是被音乐耽误的科学家
+Dialogue: 3,0:04:25.48,0:04:29.48,AcplayDefault,,0000,0000,0000,,{\a6\pos(960, 1)\c&HCBC084\3c&HFFFFFF}特斯拉线圈！
+Dialogue: 3,0:04:25.75,0:04:34.75,AcplayDefault,,0000,0000,0000,,{\move(2016, 64, -96, 64)}特斯拉
+Dialogue: 3,0:04:26.42,0:04:35.92,AcplayDefault,,0000,0000,0000,,{\move(2080, 128, -160, 128)}推荐1.5
+Dialogue: 3,0:04:27.56,0:04:37.22,AcplayDefault,,0000,0000,0000,,{\move(2048, 192, -128, 192)}丝袜福利
+Dialogue: 3,0:04:27.92,0:04:31.92,AcplayDefault,,0000,0000,0000,,{\a6\pos(960, 65)\c&HCBC084\3c&HFFFFFF}特斯拉线圈能够产生极高压的电流，所以靠近它的人必须穿上锁子服以保护自己
+Dialogue: 3,0:04:28.21,0:04:36.54,AcplayDefault,,0000,0000,0000,,{\move(1984, 320, -64, 320)}蛙人
+Dialogue: 3,0:04:29.80,0:04:42.30,AcplayDefault,,0000,0000,0000,,{\move(2272, 384, -352, 384)}我家的纱窗被你偷了吗？
+Dialogue: 3,0:04:30.07,0:04:39.74,AcplayDefault,,0000,0000,0000,,{\move(2048, 448, -128, 448)\c&H00EEA0\3c&HFFFFFF}哈哈吴克
+Dialogue: 3,0:04:30.62,0:04:40.62,AcplayDefault,,0000,0000,0000,,{\move(2112, 512, -192, 512)}哲♂学的火苗
+Dialogue: 3,0:04:30.80,0:04:41.80,AcplayDefault,,0000,0000,0000,,{\move(2176, 576, -256, 576)\c&H1200E7\3c&HFFFFFF}你们看他们多快乐
+Dialogue: 3,0:04:32.29,0:04:41.95,AcplayDefault,,0000,0000,0000,,{\move(2048, 640, -128, 640)}火钳刘明
+Dialogue: 3,0:04:33.12,0:04:37.12,AcplayDefault,,0000,0000,0000,,{\a6\pos(960, 1)\c&H1200E7\3c&HFFFFFF}前方高能
+Dialogue: 3,0:04:33.84,0:04:46.84,AcplayDefault,,0000,0000,0000,,{\move(2528, 768, -608, 768)}杨教授还有不知道几秒到达战场请做好准备
+Dialogue: 3,0:04:34.51,0:04:44.18,AcplayDefault,,0000,0000,0000,,{\move(2048, 832, -128, 832)}法拉第笼
+Dialogue: 3,0:04:35.53,0:04:44.53,AcplayDefault,,0000,0000,0000,,{\move(2016, 896, -96, 896)}啊♂？
+Dialogue: 3,0:04:35.56,0:04:39.56,AcplayDefault,,0000,0000,0000,,{\a6\pos(960, 65)\c&H1200E7\3c&HFFFFFF}前方高能
+Dialogue: 3,0:04:40.31,0:04:49.81,AcplayDefault,,0000,0000,0000,,{\move(2080, 128, -160, 128)}杨永信永生
+Dialogue: 3,0:04:41.70,0:04:54.70,AcplayDefault,,0000,0000,0000,,{\move(4800, 192, -2880, 192)\c&H00FFFF}fafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafa
+Dialogue: 3,0:04:43.29,0:04:52.96,AcplayDefault,,0000,0000,0000,,{\move(2048, 256, -128, 256)}磁爆线圈
+Dialogue: 3,0:04:44.24,0:04:52.57,AcplayDefault,,0000,0000,0000,,{\move(1984, 320, -64, 320)}妙啊
+Dialogue: 3,0:04:46.27,0:04:56.77,AcplayDefault,,0000,0000,0000,,{\move(2144, 384, -224, 384)}小型の磁暴线圈
+Dialogue: 3,0:04:47.37,0:04:57.04,AcplayDefault,,0000,0000,0000,,{\move(2048, 448, -128, 448)}SGTC
+Dialogue: 3,0:04:47.38,0:04:57.04,AcplayDefault,,0000,0000,0000,,{\move(2048, 512, -128, 512)\c&H1200E7\3c&HFFFFFF}美滋滋~
+Dialogue: 3,0:04:48.36,0:04:57.86,AcplayDefault,,0000,0000,0000,,{\move(2080, 576, -160, 576)}声音的形状
+Dialogue: 3,0:04:48.79,0:04:57.13,AcplayDefault,,0000,0000,0000,,{\move(1984, 640, -64, 640)}大片
+Dialogue: 3,0:04:49.09,0:05:00.09,AcplayDefault,,0000,0000,0000,,{\move(2176, 704, -256, 704)\c&H1200E7\3c&HFFFFFF}特♂shit♂拉
+Dialogue: 3,0:04:50.32,0:05:00.32,AcplayDefault,,0000,0000,0000,,{\move(2112, 768, -192, 768)}特斯拉電磁塔
+Dialogue: 3,0:04:50.39,0:05:00.89,AcplayDefault,,0000,0000,0000,,{\move(2144, 832, -224, 832)}这是特斯拉线圈
+Dialogue: 3,0:04:53.06,0:05:01.39,AcplayDefault,,0000,0000,0000,,{\move(1984, 896, -64, 896)}妙阿
+Dialogue: 3,0:04:55.44,0:05:06.94,AcplayDefault,,0000,0000,0000,,{\move(2208, 64, -288, 64)}被乐器耽误的哲学家
+Dialogue: 3,0:04:55.56,0:05:04.56,AcplayDefault,,0000,0000,0000,,{\move(2016, 128, -96, 128)\c&HCBC084\3c&HFFFFFF}真的妙
+Dialogue: 3,0:04:56.12,0:05:09.12,AcplayDefault,,0000,0000,0000,,{\move(2400, 192, -480, 192)}有他们我们的科技可以进步50年
+Dialogue: 3,0:04:58.08,0:05:07.74,AcplayDefault,,0000,0000,0000,,{\move(2048, 256, -128, 256)}声音美学
+Dialogue: 3,0:05:02.84,0:05:13.34,AcplayDefault,,0000,0000,0000,,{\move(2144, 320, -224, 320)}dark片！！
+Dialogue: 3,0:05:04.17,0:05:13.83,AcplayDefault,,0000,0000,0000,,{\move(2048, 384, -128, 384)}磁暴步兵
+Dialogue: 3,0:05:05.76,0:05:16.76,AcplayDefault,,0000,0000,0000,,{\move(2176, 448, -256, 448)\c&H1200E7\3c&HFFFFFF}无与伦比的快乐！
+Dialogue: 3,0:05:06.71,0:05:18.71,AcplayDefault,,0000,0000,0000,,{\move(2240, 512, -320, 512)}原来的吴克是有头发的
+Dialogue: 3,0:05:06.75,0:05:16.42,AcplayDefault,,0000,0000,0000,,{\move(2048, 576, -128, 576)}电磁屏蔽
+Dialogue: 3,0:05:07.03,0:05:16.03,AcplayDefault,,0000,0000,0000,,{\move(2016, 640, -96, 640)}＝v＝
+Dialogue: 3,0:05:09.76,0:05:19.26,AcplayDefault,,0000,0000,0000,,{\move(2080, 704, -160, 704)}杨教授来了
+Dialogue: 3,0:05:14.08,0:05:22.41,AcplayDefault,,0000,0000,0000,,{\move(1984, 768, -64, 768)}妙啊
+Dialogue: 3,0:05:18.12,0:05:28.12,AcplayDefault,,0000,0000,0000,,{\move(2112, 832, -192, 832)\c&H2AABF0\3c&HFFFFFF}不敢说♂fa
+Dialogue: 3,0:05:18.60,0:05:29.10,AcplayDefault,,0000,0000,0000,,{\move(2144, 896, -224, 896)}帅啊，法拉第笼
+Dialogue: 3,0:05:18.77,0:05:31.77,AcplayDefault,,0000,0000,0000,,{\move(2304, 64, -384, 64)}原来他们是这样失去头发的
+Dialogue: 3,0:05:23.50,0:05:31.83,AcplayDefault,,0000,0000,0000,,{\move(1984, 128, -64, 128)}秒呀
