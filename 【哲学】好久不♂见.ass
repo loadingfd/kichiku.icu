@@ -1,0 +1,384 @@
+﻿[Script Info]
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 1920
+PlayResY: 1080
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: AcplayDefault, Microsoft YaHei, 64, &H00FFFFFF, &H00FFFFFF, &H00000000, &H00000000, 0, 0, 0, 0, 100, 100, 0.00, 0.00, 1, 1, 0, 2, 20, 20, 20, 0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 3,0:00:00.00,0:00:08.33,AcplayDefault,,0000,0000,0000,,{\move(1984, 64, -64, 64)}刚刚
+Dialogue: 3,0:00:00.00,0:00:08.33,AcplayDefault,,0000,0000,0000,,{\move(1984, 128, -64, 128)}来♂
+Dialogue: 3,0:00:00.00,0:00:04.00,AcplayDefault,,0000,0000,0000,,{\a6\pos(960, 900)\c&H02F1FE\3c&HFFFFFF}那位大人国庆出门了
+Dialogue: 3,0:00:00.00,0:00:04.00,AcplayDefault,,0000,0000,0000,,{\a6\pos(960, 1)}好 JO 不见
+Dialogue: 3,0:00:00.03,0:00:08.37,AcplayDefault,,0000,0000,0000,,{\move(1984, 320, -64, 320)}来♂
+Dialogue: 3,0:00:00.19,0:00:04.19,AcplayDefault,,0000,0000,0000,,{\a6\pos(960, 836)\c&H02F1FE\3c&HFFFFFF}ohhhhhhhhhhhhhhhhhhhh
+Dialogue: 3,0:00:00.27,0:00:09.27,AcplayDefault,,0000,0000,0000,,{\move(2016, 448, -96, 448)\c&H02F1FE\3c&HFFFFFF}不用泄
+Dialogue: 3,0:00:00.31,0:00:04.31,AcplayDefault,,0000,0000,0000,,{\a6\pos(960, 65)\c&H1200E7\3c&HFFFFFF}火钳刘明
+Dialogue: 3,0:00:00.50,0:00:10.00,AcplayDefault,,0000,0000,0000,,{\move(2080, 576, -160, 576)}先三连再看
+Dialogue: 3,0:00:00.52,0:00:09.52,AcplayDefault,,0000,0000,0000,,{\move(2016, 640, -96, 640)}hhh
+Dialogue: 3,0:00:00.67,0:00:10.34,AcplayDefault,,0000,0000,0000,,{\move(2048, 704, -128, 704)}不用♂泄
+Dialogue: 3,0:00:00.76,0:00:10.26,AcplayDefault,,0000,0000,0000,,{\move(2080, 768, -160, 768)}不♂用♂泻
+Dialogue: 3,0:00:00.78,0:00:04.78,AcplayDefault,,0000,0000,0000,,{\a6\pos(960, 129)}建议屏蔽男魂，小鬼乱刷男魂
+Dialogue: 3,0:00:00.82,0:00:09.15,AcplayDefault,,0000,0000,0000,,{\move(1984, 896, -64, 896)}来了
+Dialogue: 3,0:00:01.09,0:00:05.09,AcplayDefault,,0000,0000,0000,,{\a6\pos(960, 193)\c&H00FFFF}本期是van样主场，小鬼们就别刷香蕉君了
+Dialogue: 3,0:00:01.12,0:00:10.62,AcplayDefault,,0000,0000,0000,,{\move(2080, 128, -160, 128)\c&H02F1FE\3c&HFFFFFF}泄泄易建联
+Dialogue: 3,0:00:01.24,0:00:08.90,AcplayDefault,,0000,0000,0000,,{\move(1952, 192, -32, 192)}。
+Dialogue: 3,0:00:01.27,0:00:10.27,AcplayDefault,,0000,0000,0000,,{\move(2016, 256, -96, 256)}不用泻
+Dialogue: 3,0:00:01.47,0:00:11.14,AcplayDefault,,0000,0000,0000,,{\move(2048, 320, -128, 320)}不用泄♂
+Dialogue: 3,0:00:01.47,0:00:09.81,AcplayDefault,,0000,0000,0000,,{\move(1984, 384, -64, 384)}好烫
+Dialogue: 3,0:00:02.46,0:00:06.46,AcplayDefault,,0000,0000,0000,,{\a6\pos(960, 257)\c&H02F1FE\3c&HFFFFFF}你 好
+Dialogue: 3,0:00:02.63,0:00:12.63,AcplayDefault,,0000,0000,0000,,{\move(2112, 512, -192, 512)}不用shit
+Dialogue: 3,0:00:02.80,0:00:12.30,AcplayDefault,,0000,0000,0000,,{\move(2080, 576, -160, 576)}泄♂泄♂泄
+Dialogue: 3,0:00:02.81,0:00:11.81,AcplayDefault,,0000,0000,0000,,{\move(2016, 640, -96, 640)}易建联
+Dialogue: 3,0:00:03.40,0:00:07.40,AcplayDefault,,0000,0000,0000,,{\a6\pos(960, 321)\c&H02F1FE\3c&HFFFFFF}不用泄♂
+Dialogue: 3,0:00:03.90,0:00:14.40,AcplayDefault,,0000,0000,0000,,{\move(2144, 768, -224, 768)}不用♂shit
+Dialogue: 3,0:00:04.06,0:00:08.06,AcplayDefault,,0000,0000,0000,,{\a6\pos(960, 65)\c&H02F1FE\3c&HFFFFFF}不用泄♂
+Dialogue: 3,0:00:04.08,0:00:08.08,AcplayDefault,,0000,0000,0000,,{\a6\pos(960, 129)\c&H02F1FE\3c&HFFFFFF}高产
+Dialogue: 3,0:00:04.24,0:00:12.58,AcplayDefault,,0000,0000,0000,,{\move(1984, 64, -64, 64)}刚刚
+Dialogue: 3,0:00:04.29,0:00:13.29,AcplayDefault,,0000,0000,0000,,{\move(2016, 128, -96, 128)}111
+Dialogue: 3,0:00:04.33,0:00:13.83,AcplayDefault,,0000,0000,0000,,{\move(2080, 192, -160, 192)}易♂建♂联
+Dialogue: 3,0:00:04.51,0:00:08.51,AcplayDefault,,0000,0000,0000,,{\a6\pos(960, 193)} 强哥喽
+Dialogue: 3,0:00:04.57,0:00:14.24,AcplayDefault,,0000,0000,0000,,{\move(2048, 320, -128, 320)}shit
+Dialogue: 3,0:00:04.76,0:00:12.42,AcplayDefault,,0000,0000,0000,,{\move(1952, 384, -32, 384)}来
+Dialogue: 3,0:00:05.52,0:00:15.02,AcplayDefault,,0000,0000,0000,,{\move(2080, 448, -160, 448)\c&H1200E7\3c&HFFFFFF}好久不♂见
+Dialogue: 3,0:00:05.57,0:00:13.90,AcplayDefault,,0000,0000,0000,,{\move(1984, 512, -64, 512)}来♂
+Dialogue: 3,0:00:05.62,0:00:18.62,AcplayDefault,,0000,0000,0000,,{\move(2528, 576, -608, 576)}三连是不可能的一辈子都不可能的（滑稽）
+Dialogue: 3,0:00:05.84,0:00:18.34,AcplayDefault,,0000,0000,0000,,{\move(2272, 640, -352, 640)}我是陈奕迅我已经报警了
+Dialogue: 3,0:00:05.96,0:00:15.46,AcplayDefault,,0000,0000,0000,,{\move(2080, 704, -160, 704)}好久不♂见
+Dialogue: 3,0:00:05.97,0:00:14.30,AcplayDefault,,0000,0000,0000,,{\move(1984, 768, -64, 768)}来了
+Dialogue: 3,0:00:06.10,0:00:10.10,AcplayDefault,,0000,0000,0000,,{\a6\pos(960, 257)}本期VAN♂专场
+Dialogue: 3,0:00:06.21,0:00:10.21,AcplayDefault,,0000,0000,0000,,{\a6\pos(960, 321)\c&H02F1FE\3c&HFFFFFF}你好♂
+Dialogue: 3,0:00:06.53,0:00:16.20,AcplayDefault,,0000,0000,0000,,{\move(2048, 64, -128, 64)}不用泄！
+Dialogue: 3,0:00:06.85,0:00:16.52,AcplayDefault,,0000,0000,0000,,{\move(2048, 128, -128, 128)}不用♂泄
+Dialogue: 3,0:00:07.31,0:00:16.31,AcplayDefault,,0000,0000,0000,,{\move(2016, 192, -96, 192)}2分钟
+Dialogue: 3,0:00:07.58,0:00:15.92,AcplayDefault,,0000,0000,0000,,{\move(1984, 256, -64, 256)}来♂
+Dialogue: 3,0:00:07.94,0:00:20.94,AcplayDefault,,0000,0000,0000,,{\move(2336, 320, -416, 320)}王思妇会去上海看van吗？
+Dialogue: 3,0:00:07.94,0:00:16.27,AcplayDefault,,0000,0000,0000,,{\move(1984, 384, -64, 384)}泄♂
+Dialogue: 3,0:00:08.03,0:00:16.36,AcplayDefault,,0000,0000,0000,,{\move(1984, 448, -64, 448)}热的
+Dialogue: 3,0:00:08.16,0:00:12.16,AcplayDefault,,0000,0000,0000,,{\a6\pos(960, 193)\c&H02F1FE\3c&HFFFFFF}尼♂薅，my name is Van大♂尻
+Dialogue: 3,0:00:08.54,0:00:18.20,AcplayDefault,,0000,0000,0000,,{\move(2048, 576, -128, 576)}开局泪目
+Dialogue: 3,0:00:08.73,0:00:17.06,AcplayDefault,,0000,0000,0000,,{\move(1984, 640, -64, 640)}来了
+Dialogue: 3,0:00:08.86,0:00:20.36,AcplayDefault,,0000,0000,0000,,{\move(2208, 704, -288, 704)}you♂ass♂A
+Dialogue: 3,0:00:09.09,0:00:17.42,AcplayDefault,,0000,0000,0000,,{\move(1984, 768, -64, 768)}刚刚
+Dialogue: 3,0:00:09.26,0:00:17.60,AcplayDefault,,0000,0000,0000,,{\move(1984, 832, -64, 832)}好前
+Dialogue: 3,0:00:09.27,0:00:17.60,AcplayDefault,,0000,0000,0000,,{\move(1984, 896, -64, 896)}刚来
+Dialogue: 3,0:00:09.29,0:00:13.29,AcplayDefault,,0000,0000,0000,,{\a6\pos(960, 193)\c&H00FFFF}来了
+Dialogue: 3,0:00:09.44,0:00:13.44,AcplayDefault,,0000,0000,0000,,{\a6\pos(960, 193)\c&H02F1FE\3c&HFFFFFF}you ass A
+Dialogue: 3,0:00:09.45,0:00:19.12,AcplayDefault,,0000,0000,0000,,{\move(2048, 192, -128, 192)}全新素材
+Dialogue: 3,0:00:09.65,0:00:19.32,AcplayDefault,,0000,0000,0000,,{\move(2048, 256, -128, 256)}最新素材
+Dialogue: 3,0:00:09.82,0:00:18.82,AcplayDefault,,0000,0000,0000,,{\move(2016, 320, -96, 320)}来了♂
+Dialogue: 3,0:00:10.04,0:00:19.54,AcplayDefault,,0000,0000,0000,,{\move(2080, 384, -160, 384)}一个小时♂
+Dialogue: 3,0:00:10.11,0:00:19.11,AcplayDefault,,0000,0000,0000,,{\move(2016, 448, -96, 448)}来♂来
+Dialogue: 3,0:00:10.16,0:00:19.16,AcplayDefault,,0000,0000,0000,,{\move(2016, 512, -96, 512)}vab
+Dialogue: 3,0:00:10.26,0:00:19.92,AcplayDefault,,0000,0000,0000,,{\move(2048, 576, -128, 576)}来了来了
+Dialogue: 3,0:00:10.96,0:00:19.96,AcplayDefault,,0000,0000,0000,,{\move(2016, 640, -96, 640)}新素材
+Dialogue: 3,0:00:11.43,0:00:21.10,AcplayDefault,,0000,0000,0000,,{\move(2048, 704, -128, 704)}来了来了
+Dialogue: 3,0:00:11.46,0:00:20.46,AcplayDefault,,0000,0000,0000,,{\move(2016, 768, -96, 768)}三分前
+Dialogue: 3,0:00:12.05,0:00:21.05,AcplayDefault,,0000,0000,0000,,{\move(2016, 832, -96, 832)}一小时
+Dialogue: 3,0:00:12.08,0:00:21.58,AcplayDefault,,0000,0000,0000,,{\move(2080, 896, -160, 896)}好久不♂见
+Dialogue: 3,0:00:12.17,0:00:21.17,AcplayDefault,,0000,0000,0000,,{\move(2016, 64, -96, 64)}新开头
+Dialogue: 3,0:00:12.36,0:00:20.03,AcplayDefault,,0000,0000,0000,,{\move(1952, 128, -32, 128)}1
+Dialogue: 3,0:00:12.51,0:00:21.51,AcplayDefault,,0000,0000,0000,,{\move(2016, 192, -96, 192)\c&H02F1FE\3c&HFFFFFF}泄？泄
+Dialogue: 3,0:00:12.76,0:00:23.26,AcplayDefault,,0000,0000,0000,,{\move(2144, 256, -224, 256)\c&H02F1FE\3c&HFFFFFF}陈溢shit♂
+Dialogue: 3,0:00:13.02,0:00:22.69,AcplayDefault,,0000,0000,0000,,{\move(2048, 320, -128, 320)}shit
+Dialogue: 3,0:00:13.26,0:00:22.26,AcplayDefault,,0000,0000,0000,,{\move(2016, 384, -96, 384)}新素材
+Dialogue: 3,0:00:13.32,0:00:22.98,AcplayDefault,,0000,0000,0000,,{\move(2048, 448, -128, 448)}来了来了
+Dialogue: 3,0:00:13.47,0:00:22.97,AcplayDefault,,0000,0000,0000,,{\move(2080, 512, -160, 512)}yeah♂
+Dialogue: 3,0:00:13.48,0:00:22.48,AcplayDefault,,0000,0000,0000,,{\move(2016, 576, -96, 576)}usa
+Dialogue: 3,0:00:13.73,0:00:23.40,AcplayDefault,,0000,0000,0000,,{\move(2048, 640, -128, 640)}赞♂️美
+Dialogue: 3,0:00:13.76,0:00:23.76,AcplayDefault,,0000,0000,0000,,{\move(2112, 704, -192, 704)\c&H02F1FE\3c&HFFFFFF}一小时，泪目
+Dialogue: 3,0:00:14.20,0:00:23.86,AcplayDefault,,0000,0000,0000,,{\move(2048, 768, -128, 768)}好久不见
+Dialogue: 3,0:00:14.57,0:00:25.57,AcplayDefault,,0000,0000,0000,,{\move(2176, 832, -256, 832)}一小时截止在我。
+Dialogue: 3,0:00:14.82,0:00:25.32,AcplayDefault,,0000,0000,0000,,{\move(2144, 896, -224, 896)}19分钟 热乎
+Dialogue: 3,0:00:15.04,0:00:24.70,AcplayDefault,,0000,0000,0000,,{\move(2048, 64, -128, 64)}新♂素材
+Dialogue: 3,0:00:15.05,0:00:28.05,AcplayDefault,,0000,0000,0000,,{\move(2784, 128, -864, 128)}弱子们在给我成天BB香蕉君了，人家最初，压根不是哲♂学
+Dialogue: 3,0:00:15.83,0:00:25.50,AcplayDefault,,0000,0000,0000,,{\move(2048, 192, -128, 192)}全新素材
+Dialogue: 3,0:00:16.03,0:00:24.36,AcplayDefault,,0000,0000,0000,,{\move(1984, 256, -64, 256)}拆那
+Dialogue: 3,0:00:16.55,0:00:26.05,AcplayDefault,,0000,0000,0000,,{\move(2080, 320, -160, 320)}好久不♂见
+Dialogue: 3,0:00:17.06,0:00:26.06,AcplayDefault,,0000,0000,0000,,{\move(2016, 384, -96, 384)}上♂海
+Dialogue: 3,0:00:17.74,0:00:28.24,AcplayDefault,,0000,0000,0000,,{\move(2144, 448, -224, 448)}文♂艺♂复♂兴
+Dialogue: 3,0:00:18.14,0:00:27.14,AcplayDefault,,0000,0000,0000,,{\move(2016, 512, -96, 512)}682
+Dialogue: 3,0:00:18.34,0:00:28.01,AcplayDefault,,0000,0000,0000,,{\move(2048, 576, -128, 576)}截图为证
+Dialogue: 3,0:00:18.59,0:00:29.59,AcplayDefault,,0000,0000,0000,,{\move(2176, 640, -256, 640)\c&H02F1FE\3c&HFFFFFF}前五个都是我发的
+Dialogue: 3,0:00:18.95,0:00:28.95,AcplayDefault,,0000,0000,0000,,{\move(2112, 704, -192, 704)}ooooo♂
+Dialogue: 3,0:00:19.44,0:00:29.11,AcplayDefault,,0000,0000,0000,,{\move(2048, 768, -128, 768)}van♂
+Dialogue: 3,0:00:19.48,0:00:29.98,AcplayDefault,,0000,0000,0000,,{\move(2144, 832, -224, 832)}dark♂家好
+Dialogue: 3,0:00:20.21,0:00:29.88,AcplayDefault,,0000,0000,0000,,{\move(2048, 896, -128, 896)}好久不见
+Dialogue: 3,0:00:20.48,0:00:24.48,AcplayDefault,,0000,0000,0000,,{\a6\pos(960, 1)\c&H02F1FE\3c&HFFFFFF}你来♂door
+Dialogue: 3,0:00:20.62,0:00:30.28,AcplayDefault,,0000,0000,0000,,{\move(2048, 128, -128, 128)}票已买好
+Dialogue: 3,0:00:20.65,0:00:29.65,AcplayDefault,,0000,0000,0000,,{\move(2016, 192, -96, 192)\c&H1200E7\3c&HFFFFFF}来♂！
+Dialogue: 3,0:00:20.71,0:00:29.05,AcplayDefault,,0000,0000,0000,,{\move(1984, 256, -64, 256)}泪目
+Dialogue: 3,0:00:20.77,0:00:24.77,AcplayDefault,,0000,0000,0000,,{\a6\pos(960, 65)}来♂
+Dialogue: 3,0:00:21.30,0:00:30.30,AcplayDefault,,0000,0000,0000,,{\move(2016, 384, -96, 384)}新素材
+Dialogue: 3,0:00:21.49,0:00:29.82,AcplayDefault,,0000,0000,0000,,{\move(1984, 448, -64, 448)\c&H02F1FE\3c&HFFFFFF}来♂
+Dialogue: 3,0:00:22.69,0:00:26.69,AcplayDefault,,0000,0000,0000,,{\a6\pos(960, 129)\c&H02F1FE\3c&HFFFFFF}来♂
+Dialogue: 3,0:00:22.84,0:00:32.34,AcplayDefault,,0000,0000,0000,,{\move(2080, 576, -160, 576)}泪♂目预警
+Dialogue: 3,0:00:23.23,0:00:32.90,AcplayDefault,,0000,0000,0000,,{\move(2048, 640, -128, 640)}好久不见
+Dialogue: 3,0:00:23.62,0:00:35.12,AcplayDefault,,0000,0000,0000,,{\move(2208, 704, -288, 704)}你好，dark 为
+Dialogue: 3,0:00:23.68,0:00:32.01,AcplayDefault,,0000,0000,0000,,{\move(1984, 768, -64, 768)}泪目
+Dialogue: 3,0:00:24.16,0:00:28.16,AcplayDefault,,0000,0000,0000,,{\a6\pos(960, 193)\c&H02F1FE\3c&HFFFFFF}我的城♂shit
+Dialogue: 3,0:00:24.76,0:00:33.10,AcplayDefault,,0000,0000,0000,,{\move(1984, 896, -64, 896)}来♂
+Dialogue: 3,0:00:24.87,0:00:36.87,AcplayDefault,,0000,0000,0000,,{\move(2240, 64, -320, 64)}欢迎来door♂上海
+Dialogue: 3,0:00:24.92,0:00:33.25,AcplayDefault,,0000,0000,0000,,{\move(1984, 128, -64, 128)\c&HBE6642\3c&HFFFFFF}夜！
+Dialogue: 3,0:00:25.07,0:00:32.74,AcplayDefault,,0000,0000,0000,,{\move(1952, 192, -32, 192)}来
+Dialogue: 3,0:00:25.10,0:00:34.10,AcplayDefault,,0000,0000,0000,,{\move(2016, 256, -96, 256)}上海♂
+Dialogue: 3,0:00:25.23,0:00:38.23,AcplayDefault,,0000,0000,0000,,{\move(2304, 320, -384, 320)\c&H02F1FE\3c&HFFFFFF}把只刷男魂的小鬼全举报了
+Dialogue: 3,0:00:25.49,0:00:33.83,AcplayDefault,,0000,0000,0000,,{\move(1984, 384, -64, 384)}泪目
+Dialogue: 3,0:00:25.87,0:00:35.37,AcplayDefault,,0000,0000,0000,,{\move(2080, 448, -160, 448)}文艺复兴♂
+Dialogue: 3,0:00:26.06,0:00:35.72,AcplayDefault,,0000,0000,0000,,{\move(2048, 512, -128, 512)}1602
+Dialogue: 3,0:00:26.13,0:00:34.46,AcplayDefault,,0000,0000,0000,,{\move(1984, 576, -64, 576)}泪目
+Dialogue: 3,0:00:27.76,0:00:31.76,AcplayDefault,,0000,0000,0000,,{\a6\pos(960, 65)\c&H00FFFF}泪目
+Dialogue: 3,0:00:28.85,0:00:37.19,AcplayDefault,,0000,0000,0000,,{\move(1984, 704, -64, 704)}泪目
+Dialogue: 3,0:00:30.12,0:00:43.12,AcplayDefault,,0000,0000,0000,,{\move(2336, 768, -416, 768)}关上前300的dark♂门
+Dialogue: 3,0:00:31.20,0:00:35.20,AcplayDefault,,0000,0000,0000,,{\a6\pos(960, 65)\c&H02F1FE\3c&HFFFFFF}嗯♂
+Dialogue: 3,0:00:31.77,0:00:40.10,AcplayDefault,,0000,0000,0000,,{\move(1984, 896, -64, 896)}泪目
+Dialogue: 3,0:00:32.22,0:00:40.56,AcplayDefault,,0000,0000,0000,,{\move(1984, 64, -64, 64)}支持
+Dialogue: 3,0:00:32.43,0:00:41.93,AcplayDefault,,0000,0000,0000,,{\move(2080, 128, -160, 128)}来door
+Dialogue: 3,0:00:32.80,0:00:41.13,AcplayDefault,,0000,0000,0000,,{\move(1984, 192, -64, 192)}好早
+Dialogue: 3,0:00:33.01,0:00:37.01,AcplayDefault,,0000,0000,0000,,{\a6\pos(960, 65)\c&H00FFFF}嗯
+Dialogue: 3,0:00:33.15,0:00:41.48,AcplayDefault,,0000,0000,0000,,{\move(1984, 320, -64, 320)}来♂
+Dialogue: 3,0:00:33.16,0:00:42.66,AcplayDefault,,0000,0000,0000,,{\move(2080, 384, -160, 384)}第一条弹幕
+Dialogue: 3,0:00:33.35,0:00:42.85,AcplayDefault,,0000,0000,0000,,{\move(2080, 448, -160, 448)}泪目！！！
+Dialogue: 3,0:00:33.55,0:00:41.88,AcplayDefault,,0000,0000,0000,,{\move(1984, 512, -64, 512)}来♂
+Dialogue: 3,0:00:34.91,0:00:43.25,AcplayDefault,,0000,0000,0000,,{\move(1984, 576, -64, 576)}泪目
+Dialogue: 3,0:00:35.09,0:00:43.42,AcplayDefault,,0000,0000,0000,,{\move(1984, 640, -64, 640)}泪目
+Dialogue: 3,0:00:35.19,0:00:43.53,AcplayDefault,,0000,0000,0000,,{\move(1984, 704, -64, 704)}嗯~
+Dialogue: 3,0:00:35.52,0:00:45.52,AcplayDefault,,0000,0000,0000,,{\move(2112, 768, -192, 768)\c&HEAA000\3c&HFFFFFF}酸萝卜♂别吃
+Dialogue: 3,0:00:35.74,0:00:39.74,AcplayDefault,,0000,0000,0000,,{\a6\pos(960, 65)\c&HFFD589\3c&HFFFFFF}陈奕迅是信念！！
+Dialogue: 3,0:00:36.02,0:00:43.68,AcplayDefault,,0000,0000,0000,,{\move(1952, 896, -32, 896)}嗯
+Dialogue: 3,0:00:36.06,0:00:40.06,AcplayDefault,,0000,0000,0000,,{\a6\pos(960, 65)\c&H00FFFF}泪♂目
+Dialogue: 3,0:00:36.97,0:00:44.64,AcplayDefault,,0000,0000,0000,,{\move(1952, 128, -32, 128)}嗯
+Dialogue: 3,0:00:37.02,0:00:45.36,AcplayDefault,,0000,0000,0000,,{\move(1984, 192, -64, 192)}泪目
+Dialogue: 3,0:00:37.70,0:00:41.70,AcplayDefault,,0000,0000,0000,,{\a6\pos(960, 65)}酸萝卜别吃
+Dialogue: 3,0:00:37.95,0:00:41.95,AcplayDefault,,0000,0000,0000,,{\a6\pos(960, 65)\c&H02F1FE\3c&HFFFFFF}十个泪目九个笑还有一个带头笑
+Dialogue: 3,0:00:38.17,0:00:42.17,AcplayDefault,,0000,0000,0000,,{\a6\pos(960, 65)\c&H02F1FE\3c&HFFFFFF}酸萝卜别吃
+Dialogue: 3,0:00:38.28,0:00:42.28,AcplayDefault,,0000,0000,0000,,{\a6\pos(960, 65)\c&H00FFFF}酸萝卜别吃♂
+Dialogue: 3,0:00:38.42,0:00:42.42,AcplayDefault,,0000,0000,0000,,{\a6\pos(960, 65)\c&H02F1FE\3c&HFFFFFF}酸萝卜♂别吃
+Dialogue: 3,0:00:38.47,0:00:47.97,AcplayDefault,,0000,0000,0000,,{\move(2080, 576, -160, 576)}♂好久不见
+Dialogue: 3,0:00:38.64,0:00:42.64,AcplayDefault,,0000,0000,0000,,{\a6\pos(960, 65)\c&H1200E7\3c&HFFFFFF}酸萝卜别吃
+Dialogue: 3,0:00:38.68,0:00:48.68,AcplayDefault,,0000,0000,0000,,{\move(2112, 704, -192, 704)\c&H00FFFF}酸萝卜♂别吃
+Dialogue: 3,0:00:38.84,0:00:48.84,AcplayDefault,,0000,0000,0000,,{\move(2112, 768, -192, 768)}酸萝卜别吃♂
+Dialogue: 3,0:00:39.45,0:00:49.11,AcplayDefault,,0000,0000,0000,,{\move(2048, 832, -128, 832)}比利已死
+Dialogue: 3,0:00:39.59,0:00:47.92,AcplayDefault,,0000,0000,0000,,{\move(1984, 896, -64, 896)}泪目
+Dialogue: 3,0:00:39.73,0:00:43.73,AcplayDefault,,0000,0000,0000,,{\a6\pos(960, 65)\c&H02F1FE\3c&HFFFFFF}酸萝卜别吃♂
+Dialogue: 3,0:00:40.33,0:00:48.66,AcplayDefault,,0000,0000,0000,,{\move(1984, 128, -64, 128)}25
+Dialogue: 3,0:00:40.38,0:00:50.38,AcplayDefault,,0000,0000,0000,,{\move(2112, 192, -192, 192)}孤♂door
+Dialogue: 3,0:00:40.41,0:00:51.91,AcplayDefault,,0000,0000,0000,,{\move(2208, 256, -288, 256)}deep♂dark
+Dialogue: 3,0:00:40.69,0:00:50.69,AcplayDefault,,0000,0000,0000,,{\move(2112, 320, -192, 320)}酸萝卜别吃♂
+Dialogue: 3,0:00:41.39,0:00:49.73,AcplayDefault,,0000,0000,0000,,{\move(1984, 384, -64, 384)}泪目
+Dialogue: 3,0:00:41.55,0:00:49.89,AcplayDefault,,0000,0000,0000,,{\move(1984, 448, -64, 448)}泪目
+Dialogue: 3,0:00:41.59,0:00:49.93,AcplayDefault,,0000,0000,0000,,{\move(1984, 512, -64, 512)}泪目
+Dialogue: 3,0:00:42.22,0:00:51.72,AcplayDefault,,0000,0000,0000,,{\move(2080, 576, -160, 576)}酸萝卜别吃
+Dialogue: 3,0:00:42.57,0:00:50.90,AcplayDefault,,0000,0000,0000,,{\move(1984, 640, -64, 640)}来♂
+Dialogue: 3,0:00:42.80,0:00:51.80,AcplayDefault,,0000,0000,0000,,{\move(2016, 704, -96, 704)}有人吗
+Dialogue: 3,0:00:42.90,0:00:51.23,AcplayDefault,,0000,0000,0000,,{\move(1984, 768, -64, 768)\c&HEAA000\3c&HFFFFFF}泪目
+Dialogue: 3,0:00:42.92,0:00:51.26,AcplayDefault,,0000,0000,0000,,{\move(1984, 832, -64, 832)}泪目
+Dialogue: 3,0:00:43.21,0:00:51.55,AcplayDefault,,0000,0000,0000,,{\move(1984, 896, -64, 896)}泪目
+Dialogue: 3,0:00:44.50,0:00:53.50,AcplayDefault,,0000,0000,0000,,{\move(2016, 64, -96, 64)\c&HEAA000\3c&HFFFFFF}啊♂泄
+Dialogue: 3,0:00:44.91,0:00:54.91,AcplayDefault,,0000,0000,0000,,{\move(2112, 128, -192, 128)}这是真的泪目
+Dialogue: 3,0:00:45.16,0:00:49.16,AcplayDefault,,0000,0000,0000,,{\a6\pos(960, 1)\c&H1200E7\3c&HFFFFFF}oh♂shit
+Dialogue: 3,0:00:45.28,0:00:49.28,AcplayDefault,,0000,0000,0000,,{\a6\pos(960, 65)\c&H02F1FE\3c&HFFFFFF}啊♂shit
+Dialogue: 3,0:00:45.60,0:00:49.60,AcplayDefault,,0000,0000,0000,,{\a6\pos(960, 129)\c&H02F1FE\3c&HFFFFFF}sh♂it
+Dialogue: 3,0:00:46.26,0:00:55.26,AcplayDefault,,0000,0000,0000,,{\move(2016, 384, -96, 384)}深♂情
+Dialogue: 3,0:00:46.27,0:00:55.77,AcplayDefault,,0000,0000,0000,,{\move(2080, 448, -160, 448)}Al♂ne
+Dialogue: 3,0:00:46.61,0:00:54.95,AcplayDefault,,0000,0000,0000,,{\move(1984, 512, -64, 512)}泪目
+Dialogue: 3,0:00:46.62,0:00:54.96,AcplayDefault,,0000,0000,0000,,{\move(1984, 576, -64, 576)}泪目
+Dialogue: 3,0:00:46.72,0:00:55.05,AcplayDefault,,0000,0000,0000,,{\move(1984, 640, -64, 640)}泪目
+Dialogue: 3,0:00:46.74,0:00:57.24,AcplayDefault,,0000,0000,0000,,{\move(2144, 704, -224, 704)}啊 shit♂
+Dialogue: 3,0:00:47.04,0:00:56.54,AcplayDefault,,0000,0000,0000,,{\move(2080, 768, -160, 768)}sh♂it
+Dialogue: 3,0:00:47.59,0:00:55.25,AcplayDefault,,0000,0000,0000,,{\move(1952, 832, -32, 832)}啊
+Dialogue: 3,0:00:48.43,0:00:57.93,AcplayDefault,,0000,0000,0000,,{\move(2080, 896, -160, 896)\c&H0203FE\3c&HFFFFFF}Van♂羊
+Dialogue: 3,0:00:48.76,0:00:57.09,AcplayDefault,,0000,0000,0000,,{\move(1984, 64, -64, 64)}来♂
+Dialogue: 3,0:00:49.60,0:00:58.60,AcplayDefault,,0000,0000,0000,,{\move(2016, 128, -96, 128)}假♂面
+Dialogue: 3,0:00:49.85,0:00:53.85,AcplayDefault,,0000,0000,0000,,{\a6\pos(960, 1)\c&H02F1FE\3c&HFFFFFF}coming♂
+Dialogue: 3,0:00:49.88,0:01:00.38,AcplayDefault,,0000,0000,0000,,{\move(2144, 256, -224, 256)}我似乎是第二个
+Dialogue: 3,0:00:50.07,0:01:00.57,AcplayDefault,,0000,0000,0000,,{\move(2144, 320, -224, 320)}欢迎来♂van
+Dialogue: 3,0:00:50.43,0:00:58.09,AcplayDefault,,0000,0000,0000,,{\move(1952, 384, -32, 384)}啊
+Dialogue: 3,0:00:50.85,0:00:54.85,AcplayDefault,,0000,0000,0000,,{\a6\pos(960, 65)\c&H02F1FE\3c&HFFFFFF}假♂面骑士
+Dialogue: 3,0:00:50.96,0:01:01.96,AcplayDefault,,0000,0000,0000,,{\move(2176, 512, -256, 512)}华农兄♂deep
+Dialogue: 3,0:00:51.02,0:00:59.36,AcplayDefault,,0000,0000,0000,,{\move(1984, 576, -64, 576)}啊♂
+Dialogue: 3,0:00:51.12,0:01:02.62,AcplayDefault,,0000,0000,0000,,{\move(2208, 640, -288, 640)\c&H02F1FE\3c&HFFFFFF}啊♂啊♂啊♂she
+Dialogue: 3,0:00:51.53,0:00:59.86,AcplayDefault,,0000,0000,0000,,{\move(1984, 704, -64, 704)}泪目
+Dialogue: 3,0:00:51.65,0:01:04.65,AcplayDefault,,0000,0000,0000,,{\move(2464, 768, -544, 768)\c&HEAA000\3c&HFFFFFF}deep♂dark♂fantasy
+Dialogue: 3,0:00:51.78,0:00:55.78,AcplayDefault,,0000,0000,0000,,{\a6\pos(960, 900)}going♂to♂上海
+Dialogue: 3,0:00:51.79,0:01:01.79,AcplayDefault,,0000,0000,0000,,{\move(2112, 896, -192, 896)}酸萝卜别吃♂
+Dialogue: 3,0:00:52.17,0:01:00.50,AcplayDefault,,0000,0000,0000,,{\move(1984, 64, -64, 64)}泪目
+Dialogue: 3,0:00:52.21,0:00:59.88,AcplayDefault,,0000,0000,0000,,{\move(1952, 128, -32, 128)}泄
+Dialogue: 3,0:00:52.26,0:01:02.76,AcplayDefault,,0000,0000,0000,,{\move(2144, 192, -224, 192)}shit♂羊♂
+Dialogue: 3,0:00:52.32,0:00:56.32,AcplayDefault,,0000,0000,0000,,{\a6\pos(960, 129)\c&H02F1FE\3c&HFFFFFF}Deep♂Dark♂Fantasies
+Dialogue: 3,0:00:52.49,0:00:56.49,AcplayDefault,,0000,0000,0000,,{\a6\pos(960, 193)\c&H02F1FE\3c&HFFFFFF}deep♂dark♂fantastic
+Dialogue: 3,0:00:53.53,0:01:03.19,AcplayDefault,,0000,0000,0000,,{\move(2048, 384, -128, 384)}泪流满面
+Dialogue: 3,0:00:53.58,0:01:01.25,AcplayDefault,,0000,0000,0000,,{\move(1952, 448, -32, 448)}来
+Dialogue: 3,0:00:54.84,0:01:04.50,AcplayDefault,,0000,0000,0000,,{\move(2048, 512, -128, 512)}珍惜资源
+Dialogue: 3,0:00:54.92,0:01:03.25,AcplayDefault,,0000,0000,0000,,{\move(1984, 576, -64, 576)}泪目
+Dialogue: 3,0:00:55.60,0:01:05.60,AcplayDefault,,0000,0000,0000,,{\move(2112, 640, -192, 640)}coming
+Dialogue: 3,0:00:56.39,0:01:00.39,AcplayDefault,,0000,0000,0000,,{\a6\pos(960, 65)\c&H02F1FE\3c&HFFFFFF}巧舌如簧
+Dialogue: 3,0:00:57.23,0:01:07.73,AcplayDefault,,0000,0000,0000,,{\move(2144, 768, -224, 768)}哲学♂好久不见
+Dialogue: 3,0:00:57.69,0:01:01.69,AcplayDefault,,0000,0000,0000,,{\a6\pos(960, 65)\c&H02F1FE\3c&HFFFFFF}巧舌如簧
+Dialogue: 3,0:00:58.33,0:01:09.33,AcplayDefault,,0000,0000,0000,,{\move(2176, 896, -256, 896)\c&H00FFFF}那个男人他会来吗
+Dialogue: 3,0:00:59.03,0:01:03.03,AcplayDefault,,0000,0000,0000,,{\a6\pos(960, 65)\c&H00FFFF}崛起的哲♂学家——王思妇
+Dialogue: 3,0:01:00.00,0:01:04.00,AcplayDefault,,0000,0000,0000,,{\a6\pos(960, 65)\c&H00FFFF}农♂民
+Dialogue: 3,0:01:00.49,0:01:11.49,AcplayDefault,,0000,0000,0000,,{\move(2176, 192, -256, 192)}暗♂黑deep铁
+Dialogue: 3,0:01:01.17,0:01:10.17,AcplayDefault,,0000,0000,0000,,{\move(2016, 256, -96, 256)}第四个
+Dialogue: 3,0:01:01.57,0:01:05.57,AcplayDefault,,0000,0000,0000,,{\a6\pos(960, 65)\c&H02F1FE\3c&HFFFFFF}foofoofoofoo
+Dialogue: 3,0:01:02.21,0:01:10.54,AcplayDefault,,0000,0000,0000,,{\move(1984, 384, -64, 384)}lm
+Dialogue: 3,0:01:02.40,0:01:12.40,AcplayDefault,,0000,0000,0000,,{\move(2112, 448, -192, 448)}来一起拉大便
+Dialogue: 3,0:01:03.16,0:01:12.66,AcplayDefault,,0000,0000,0000,,{\move(2080, 512, -160, 512)}不要刷时间
+Dialogue: 3,0:01:04.58,0:01:15.58,AcplayDefault,,0000,0000,0000,,{\move(2176, 576, -256, 576)}茅山降魔zhou
+Dialogue: 3,0:01:04.94,0:01:08.94,AcplayDefault,,0000,0000,0000,,{\a6\pos(960, 65)\c&H02F1FE\3c&HFFFFFF}boy♂next♂door
+Dialogue: 3,0:01:04.97,0:01:08.97,AcplayDefault,,0000,0000,0000,,{\a6\pos(960, 65)\c&H02F1FE\3c&HFFFFFF}boy next door♂
+Dialogue: 3,0:01:05.40,0:01:13.73,AcplayDefault,,0000,0000,0000,,{\move(1984, 768, -64, 768)}泪目
+Dialogue: 3,0:01:05.97,0:01:09.97,AcplayDefault,,0000,0000,0000,,{\a6\pos(960, 65)\c&H02F1FE\3c&HFFFFFF}boy♂next♂door
+Dialogue: 3,0:01:06.24,0:01:19.24,AcplayDefault,,0000,0000,0000,,{\move(2432, 896, -512, 896)}哎 这首歌，即使鬼畜了也笑不出来
+Dialogue: 3,0:01:07.41,0:01:17.41,AcplayDefault,,0000,0000,0000,,{\move(2112, 64, -192, 64)}尻♂久不♂见
+Dialogue: 3,0:01:08.49,0:01:16.82,AcplayDefault,,0000,0000,0000,,{\move(1984, 128, -64, 128)}泪目
+Dialogue: 3,0:01:08.50,0:01:16.83,AcplayDefault,,0000,0000,0000,,{\move(1984, 192, -64, 192)\c&H02F1FE\3c&HFFFFFF}泪目
+Dialogue: 3,0:01:08.64,0:01:16.97,AcplayDefault,,0000,0000,0000,,{\move(1984, 256, -64, 256)\c&H1200E7\3c&HFFFFFF}泪目
+Dialogue: 3,0:01:08.73,0:01:17.07,AcplayDefault,,0000,0000,0000,,{\move(1984, 320, -64, 320)}啊♂
+Dialogue: 3,0:01:08.75,0:01:12.75,AcplayDefault,,0000,0000,0000,,{\a6\pos(960, 65)\c&H222222\3c&HFFFFFF}FA FA FA
+Dialogue: 3,0:01:08.75,0:01:12.75,AcplayDefault,,0000,0000,0000,,{\a6\pos(960, 65)\c&H9B9B9B\3c&HFFFFFF}FA FA FA
+Dialogue: 3,0:01:08.75,0:01:12.75,AcplayDefault,,0000,0000,0000,,{\a6\pos(960, 65)}FA FA FA
+Dialogue: 3,0:01:08.78,0:01:18.45,AcplayDefault,,0000,0000,0000,,{\move(2048, 576, -128, 576)}fa乐器
+Dialogue: 3,0:01:10.01,0:01:14.01,AcplayDefault,,0000,0000,0000,,{\a6\pos(960, 65)\c&H00FFFF}日落
+Dialogue: 3,0:01:10.10,0:01:14.10,AcplayDefault,,0000,0000,0000,,{\a6\pos(960, 65)}泪目
+Dialogue: 3,0:01:11.36,0:01:21.36,AcplayDefault,,0000,0000,0000,,{\move(2112, 768, -192, 768)}何必如此伤感
+Dialogue: 3,0:01:11.86,0:01:15.86,AcplayDefault,,0000,0000,0000,,{\a6\pos(960, 65)\c&H02F1FE\3c&HFFFFFF}来♂我们一起拉大♂便
+Dialogue: 3,0:01:12.22,0:01:25.22,AcplayDefault,,0000,0000,0000,,{\move(2688, 896, -768, 896)}kick your ass♂ back here
+Dialogue: 3,0:01:12.65,0:01:23.15,AcplayDefault,,0000,0000,0000,,{\move(2144, 64, -224, 64)}杜如来玩游戏？
+Dialogue: 3,0:01:12.85,0:01:16.85,AcplayDefault,,0000,0000,0000,,{\a6\pos(960, 65)\c&H02F1FE\3c&HFFFFFF}来一起拉大便♂
+Dialogue: 3,0:01:13.05,0:01:22.05,AcplayDefault,,0000,0000,0000,,{\move(2016, 192, -96, 192)}FaQ
+Dialogue: 3,0:01:13.67,0:01:26.67,AcplayDefault,,0000,0000,0000,,{\move(2432, 256, -512, 256)\c&H1200E7\3c&HFFFFFF}泪目泪目泪目泪目泪目泪目泪目泪目
+Dialogue: 3,0:01:14.14,0:01:23.64,AcplayDefault,,0000,0000,0000,,{\move(2080, 320, -160, 320)}一起拉大便
+Dialogue: 3,0:01:14.49,0:01:22.82,AcplayDefault,,0000,0000,0000,,{\move(1984, 384, -64, 384)}泪目
+Dialogue: 3,0:01:15.52,0:01:28.02,AcplayDefault,,0000,0000,0000,,{\move(2272, 448, -352, 448)}来♂我们一起来拉大便♂
+Dialogue: 3,0:01:16.03,0:01:24.37,AcplayDefault,,0000,0000,0000,,{\move(1984, 512, -64, 512)}泪目
+Dialogue: 3,0:01:16.12,0:01:24.45,AcplayDefault,,0000,0000,0000,,{\move(1984, 576, -64, 576)}泪目
+Dialogue: 3,0:01:17.27,0:01:28.77,AcplayDefault,,0000,0000,0000,,{\move(2208, 640, -288, 640)}啊啊啊，那里不可以
+Dialogue: 3,0:01:17.87,0:01:21.87,AcplayDefault,,0000,0000,0000,,{\a6\pos(960, 1)}泪目
+Dialogue: 3,0:01:18.04,0:01:26.37,AcplayDefault,,0000,0000,0000,,{\move(1984, 768, -64, 768)}泪目
+Dialogue: 3,0:01:18.34,0:01:26.00,AcplayDefault,,0000,0000,0000,,{\move(1952, 832, -32, 832)}屑
+Dialogue: 3,0:01:18.84,0:01:27.17,AcplayDefault,,0000,0000,0000,,{\move(1984, 896, -64, 896)\c&H02F1FE\3c&HFFFFFF}泪目
+Dialogue: 3,0:01:19.35,0:01:27.69,AcplayDefault,,0000,0000,0000,,{\move(1984, 64, -64, 64)}泪目
+Dialogue: 3,0:01:19.40,0:01:27.73,AcplayDefault,,0000,0000,0000,,{\move(1984, 128, -64, 128)}泪目
+Dialogue: 3,0:01:19.76,0:01:23.76,AcplayDefault,,0000,0000,0000,,{\a6\pos(960, 65)}红魔馆（幻视）
+Dialogue: 3,0:01:20.57,0:01:24.57,AcplayDefault,,0000,0000,0000,,{\a6\pos(960, 129)\c&H02F1FE\3c&HFFFFFF}不用谢
+Dialogue: 3,0:01:20.83,0:01:29.17,AcplayDefault,,0000,0000,0000,,{\move(1984, 320, -64, 320)}泪目
+Dialogue: 3,0:01:21.04,0:01:25.04,AcplayDefault,,0000,0000,0000,,{\a6\pos(960, 193)}红♂魔♂馆
+Dialogue: 3,0:01:21.28,0:01:25.28,AcplayDefault,,0000,0000,0000,,{\a6\pos(960, 257)}泄♂乐器
+Dialogue: 3,0:01:21.37,0:01:30.37,AcplayDefault,,0000,0000,0000,,{\move(2016, 512, -96, 512)}sky
+Dialogue: 3,0:01:21.68,0:01:30.01,AcplayDefault,,0000,0000,0000,,{\move(1984, 576, -64, 576)}泪目
+Dialogue: 3,0:01:21.88,0:01:30.21,AcplayDefault,,0000,0000,0000,,{\move(1984, 640, -64, 640)}泪目
+Dialogue: 3,0:01:22.05,0:01:30.38,AcplayDefault,,0000,0000,0000,,{\move(1984, 704, -64, 704)\c&H00FFFF}泪目
+Dialogue: 3,0:01:22.55,0:01:30.89,AcplayDefault,,0000,0000,0000,,{\move(1984, 768, -64, 768)}来♂
+Dialogue: 3,0:01:22.93,0:01:31.27,AcplayDefault,,0000,0000,0000,,{\move(1984, 832, -64, 832)}泪目
+Dialogue: 3,0:01:23.01,0:01:31.35,AcplayDefault,,0000,0000,0000,,{\move(1984, 896, -64, 896)}泪目
+Dialogue: 3,0:01:23.23,0:01:31.57,AcplayDefault,,0000,0000,0000,,{\move(1984, 64, -64, 64)}泪目
+Dialogue: 3,0:01:23.51,0:01:36.01,AcplayDefault,,0000,0000,0000,,{\move(2272, 128, -352, 128)\c&HEAA000\3c&HFFFFFF}take♂it♂boy
+Dialogue: 3,0:01:24.03,0:01:32.37,AcplayDefault,,0000,0000,0000,,{\move(1984, 192, -64, 192)}泪目
+Dialogue: 3,0:01:24.12,0:01:32.45,AcplayDefault,,0000,0000,0000,,{\move(1984, 256, -64, 256)}泪目
+Dialogue: 3,0:01:25.37,0:01:33.70,AcplayDefault,,0000,0000,0000,,{\move(1984, 320, -64, 320)\c&H02F1FE\3c&HFFFFFF}泪目
+Dialogue: 3,0:01:25.87,0:01:35.37,AcplayDefault,,0000,0000,0000,,{\move(2080, 384, -160, 384)}来 FaQ
+Dialogue: 3,0:01:26.02,0:01:34.36,AcplayDefault,,0000,0000,0000,,{\move(1984, 448, -64, 448)}泪目
+Dialogue: 3,0:01:26.25,0:01:35.75,AcplayDefault,,0000,0000,0000,,{\move(2080, 512, -160, 512)}真的好感人
+Dialogue: 3,0:01:26.92,0:01:35.92,AcplayDefault,,0000,0000,0000,,{\move(2016, 576, -96, 576)}皮♂鞭
+Dialogue: 3,0:01:27.62,0:01:35.95,AcplayDefault,,0000,0000,0000,,{\move(1984, 640, -64, 640)}泪目
+Dialogue: 3,0:01:29.10,0:01:33.10,AcplayDefault,,0000,0000,0000,,{\a6\pos(960, 1)\c&H00FFFF}唯一真诚的哲学家 van
+Dialogue: 3,0:01:31.08,0:01:39.41,AcplayDefault,,0000,0000,0000,,{\move(1984, 768, -64, 768)}泪目
+Dialogue: 3,0:01:31.55,0:01:41.05,AcplayDefault,,0000,0000,0000,,{\move(2080, 832, -160, 832)\c&HEAA000\3c&HFFFFFF}入♂档♂费
+Dialogue: 3,0:01:31.81,0:01:35.81,AcplayDefault,,0000,0000,0000,,{\a6\pos(960, 65)}哦哄哄，全给党
+Dialogue: 3,0:01:32.21,0:01:41.21,AcplayDefault,,0000,0000,0000,,{\move(2016, 64, -96, 64)}赞♂美
+Dialogue: 3,0:01:33.53,0:01:41.86,AcplayDefault,,0000,0000,0000,,{\move(1984, 128, -64, 128)}泪目
+Dialogue: 3,0:01:34.20,0:01:43.20,AcplayDefault,,0000,0000,0000,,{\move(2016, 192, -96, 192)}全给党
+Dialogue: 3,0:01:35.21,0:01:43.54,AcplayDefault,,0000,0000,0000,,{\move(1984, 256, -64, 256)}泪目
+Dialogue: 3,0:01:35.21,0:01:39.21,AcplayDefault,,0000,0000,0000,,{\a6\pos(960, 65)}暗黑♂功德箱
+Dialogue: 3,0:01:35.80,0:01:44.14,AcplayDefault,,0000,0000,0000,,{\move(1984, 384, -64, 384)\c&H00FFFF}泪目
+Dialogue: 3,0:01:35.84,0:01:46.84,AcplayDefault,,0000,0000,0000,,{\move(2176, 448, -256, 448)}把欠的党费都交全
+Dialogue: 3,0:01:35.85,0:01:46.35,AcplayDefault,,0000,0000,0000,,{\move(2144, 512, -224, 512)}可是van老了
+Dialogue: 3,0:01:36.43,0:01:49.43,AcplayDefault,,0000,0000,0000,,{\move(2368, 576, -448, 576)}祖国生日，把欠的党费都补交了
+Dialogue: 3,0:01:36.53,0:01:40.53,AcplayDefault,,0000,0000,0000,,{\a6\pos(960, 65)\c&H1200E7\3c&HFFFFFF}吼吼吼，全给党
+Dialogue: 3,0:01:36.58,0:01:46.58,AcplayDefault,,0000,0000,0000,,{\move(2112, 704, -192, 704)}暗黑♂功德箱
+Dialogue: 3,0:01:36.65,0:01:47.15,AcplayDefault,,0000,0000,0000,,{\move(2144, 768, -224, 768)}来早了，没弹幕
+Dialogue: 3,0:01:36.75,0:01:45.09,AcplayDefault,,0000,0000,0000,,{\move(1984, 832, -64, 832)}妙啊
+Dialogue: 3,0:01:37.53,0:01:47.19,AcplayDefault,,0000,0000,0000,,{\move(2048, 896, -128, 896)}全给党♂
+Dialogue: 3,0:01:38.28,0:01:42.28,AcplayDefault,,0000,0000,0000,,{\a6\pos(960, 65)}泪目
+Dialogue: 3,0:01:39.58,0:01:50.58,AcplayDefault,,0000,0000,0000,,{\move(2176, 128, -256, 128)}Fa Fa Fa
+Dialogue: 3,0:01:40.48,0:01:52.98,AcplayDefault,,0000,0000,0000,,{\move(2272, 192, -352, 192)}感觉现在van胖了一点
+Dialogue: 3,0:01:41.05,0:01:52.05,AcplayDefault,,0000,0000,0000,,{\move(2176, 256, -256, 256)\c&HEAA000\3c&HFFFFFF}van♂在水中央
+Dialogue: 3,0:01:41.13,0:01:49.47,AcplayDefault,,0000,0000,0000,,{\move(1984, 320, -64, 320)}泪目
+Dialogue: 3,0:01:41.16,0:01:50.16,AcplayDefault,,0000,0000,0000,,{\move(2016, 384, -96, 384)}功德箱
+Dialogue: 3,0:01:41.45,0:01:49.79,AcplayDefault,,0000,0000,0000,,{\move(1984, 448, -64, 448)}泪目
+Dialogue: 3,0:01:41.75,0:01:52.75,AcplayDefault,,0000,0000,0000,,{\move(2176, 512, -256, 512)}哈哈哈哈哈哈皮鞭
+Dialogue: 3,0:01:42.54,0:01:50.20,AcplayDefault,,0000,0000,0000,,{\move(1952, 576, -32, 576)}妙
+Dialogue: 3,0:01:43.31,0:01:47.31,AcplayDefault,,0000,0000,0000,,{\a6\pos(960, 1)\c&H7B3A68\3c&HFFFFFF}啊♂夜色儿~
+Dialogue: 3,0:01:43.61,0:01:53.28,AcplayDefault,,0000,0000,0000,,{\move(2048, 704, -128, 704)}有人吗？
+Dialogue: 3,0:01:43.93,0:01:52.26,AcplayDefault,,0000,0000,0000,,{\move(1984, 768, -64, 768)}泪目
+Dialogue: 3,0:01:44.00,0:01:52.33,AcplayDefault,,0000,0000,0000,,{\move(1984, 832, -64, 832)}泪目
+Dialogue: 3,0:01:44.49,0:01:53.49,AcplayDefault,,0000,0000,0000,,{\move(2016, 896, -96, 896)}FaQ
+Dialogue: 3,0:01:44.80,0:01:48.80,AcplayDefault,,0000,0000,0000,,{\a6\pos(960, 65)\c&H02F1FE\3c&HFFFFFF}oh yes sir♂
+Dialogue: 3,0:01:45.21,0:01:49.21,AcplayDefault,,0000,0000,0000,,{\a6\pos(960, 129)\c&H1200E7\3c&HFFFFFF}van在水中游
+Dialogue: 3,0:01:45.22,0:01:49.22,AcplayDefault,,0000,0000,0000,,{\a6\pos(960, 193)\c&H02F1FE\3c&HFFFFFF}啊♂Yes♂Sir
+Dialogue: 3,0:01:45.69,0:01:54.69,AcplayDefault,,0000,0000,0000,,{\move(2016, 256, -96, 256)}啊♂！
+Dialogue: 3,0:01:45.81,0:01:56.31,AcplayDefault,,0000,0000,0000,,{\move(2144, 320, -224, 320)}哄哄哄，全给党
+Dialogue: 3,0:01:46.14,0:01:54.47,AcplayDefault,,0000,0000,0000,,{\move(1984, 384, -64, 384)}泪目
+Dialogue: 3,0:01:46.26,0:01:55.26,AcplayDefault,,0000,0000,0000,,{\move(2016, 448, -96, 448)}全给党
+Dialogue: 3,0:01:46.60,0:01:54.27,AcplayDefault,,0000,0000,0000,,{\move(1952, 512, -32, 512)}啊
+Dialogue: 3,0:01:46.64,0:01:50.64,AcplayDefault,,0000,0000,0000,,{\a6\pos(960, 257)\c&H02F1FE\3c&HFFFFFF}还在发那位大人的弱子请左上角去搜原版或香蕉君主场的
+Dialogue: 3,0:01:46.90,0:01:55.24,AcplayDefault,,0000,0000,0000,,{\move(1984, 640, -64, 640)\c&H00FFFF}泪目
+Dialogue: 3,0:01:47.60,0:01:51.60,AcplayDefault,,0000,0000,0000,,{\a6\pos(960, 65)\c&H1200E7\3c&HFFFFFF}van在水中♂央
+Dialogue: 3,0:01:48.16,0:01:56.49,AcplayDefault,,0000,0000,0000,,{\move(1984, 768, -64, 768)}泪目
+Dialogue: 3,0:01:48.20,0:01:55.86,AcplayDefault,,0000,0000,0000,,{\move(1952, 832, -32, 832)}夜
+Dialogue: 3,0:01:48.51,0:01:58.51,AcplayDefault,,0000,0000,0000,,{\move(2112, 896, -192, 896)}哦  夜色~
+Dialogue: 3,0:01:49.31,0:01:58.81,AcplayDefault,,0000,0000,0000,,{\move(2080, 64, -160, 64)}拦波♂基你
+Dialogue: 3,0:01:50.70,0:01:59.03,AcplayDefault,,0000,0000,0000,,{\move(1984, 128, -64, 128)}泪目
+Dialogue: 3,0:01:51.17,0:01:59.51,AcplayDefault,,0000,0000,0000,,{\move(1984, 192, -64, 192)}泪目
+Dialogue: 3,0:01:51.28,0:02:00.78,AcplayDefault,,0000,0000,0000,,{\move(2080, 256, -160, 256)}恶魔♂低语
+Dialogue: 3,0:01:52.06,0:01:59.73,AcplayDefault,,0000,0000,0000,,{\move(1952, 320, -32, 320)}♂
+Dialogue: 3,0:01:52.28,0:02:00.61,AcplayDefault,,0000,0000,0000,,{\move(1984, 384, -64, 384)}泪目
+Dialogue: 3,0:01:52.36,0:01:56.36,AcplayDefault,,0000,0000,0000,,{\a6\pos(960, 1)\c&H00FFFF}泪     目
+Dialogue: 3,0:01:53.62,0:02:03.28,AcplayDefault,,0000,0000,0000,,{\move(2048, 512, -128, 512)}啊 夜色
+Dialogue: 3,0:01:53.78,0:01:57.78,AcplayDefault,,0000,0000,0000,,{\a6\pos(960, 65)\c&H02F1FE\3c&HFFFFFF}Al♂that's♂good
+Dialogue: 3,0:01:54.66,0:02:02.99,AcplayDefault,,0000,0000,0000,,{\move(1984, 640, -64, 640)}泪目
+Dialogue: 3,0:01:55.69,0:02:04.02,AcplayDefault,,0000,0000,0000,,{\move(1984, 704, -64, 704)}泪目
+Dialogue: 3,0:01:57.55,0:02:08.55,AcplayDefault,,0000,0000,0000,,{\move(2176, 768, -256, 768)\c&HEAA000\3c&HFFFFFF}van♂要来了！
+Dialogue: 3,0:01:58.15,0:02:06.48,AcplayDefault,,0000,0000,0000,,{\move(1984, 832, -64, 832)}泪目
+Dialogue: 3,0:01:58.17,0:02:07.84,AcplayDefault,,0000,0000,0000,,{\move(2048, 896, -128, 896)}恶魔低语
+Dialogue: 3,0:01:58.49,0:02:11.49,AcplayDefault,,0000,0000,0000,,{\move(2400, 64, -480, 64)\c&H1200E7\3c&HFFFFFF}奈何王已随风去，天下弱子只识蕉
+Dialogue: 3,0:02:00.18,0:02:08.51,AcplayDefault,,0000,0000,0000,,{\move(1984, 128, -64, 128)}泪目
+Dialogue: 3,0:02:00.36,0:02:12.86,AcplayDefault,,0000,0000,0000,,{\move(2272, 192, -352, 192)}这是van的专场鬼畜吗
+Dialogue: 3,0:02:00.91,0:02:10.57,AcplayDefault,,0000,0000,0000,,{\move(2048, 256, -128, 256)}好久不见
+Dialogue: 3,0:02:01.65,0:02:11.32,AcplayDefault,,0000,0000,0000,,{\move(2048, 320, -128, 320)}Van♂
+Dialogue: 3,0:02:03.45,0:02:16.44,AcplayDefault,,0000,0000,0000,,{\move(2432, 384, -512, 384)\c&HEAA000\3c&HFFFFFF}van的专场，那位大♂人不用来了
+Dialogue: 3,0:02:03.71,0:02:16.71,AcplayDefault,,0000,0000,0000,,{\move(2336, 448, -416, 448)}van专场，大人就休息会吧
+Dialogue: 3,0:02:04.03,0:02:16.53,AcplayDefault,,0000,0000,0000,,{\move(2272, 512, -352, 512)}ass♂we♂can~
+Dialogue: 3,0:02:04.36,0:02:12.69,AcplayDefault,,0000,0000,0000,,{\move(1984, 576, -64, 576)}泪目
+Dialogue: 3,0:02:04.93,0:02:17.93,AcplayDefault,,0000,0000,0000,,{\move(2336, 640, -416, 640)}van专场，那个男人不用来
+Dialogue: 3,0:02:06.03,0:02:16.53,AcplayDefault,,0000,0000,0000,,{\move(2144, 704, -224, 704)}van你变胖了
+Dialogue: 3,0:02:06.42,0:02:10.42,AcplayDefault,,0000,0000,0000,,{\a6\pos(960, 1)\c&H00FFFF}van 加油
+Dialogue: 3,0:02:06.96,0:02:16.46,AcplayDefault,,0000,0000,0000,,{\move(2080, 832, -160, 832)\c&H02F1FE\3c&HFFFFFF}van♂滩
+Dialogue: 3,0:02:07.04,0:02:19.54,AcplayDefault,,0000,0000,0000,,{\move(2272, 896, -352, 896)}他要来了，他终于要来了
+Dialogue: 3,0:02:07.29,0:02:16.79,AcplayDefault,,0000,0000,0000,,{\move(2080, 64, -160, 64)}小鬼爬爬爬
+Dialogue: 3,0:02:07.45,0:02:11.45,AcplayDefault,,0000,0000,0000,,{\a6\pos(960, 65)}thank♂you，思妇
+Dialogue: 3,0:02:07.72,0:02:19.72,AcplayDefault,,0000,0000,0000,,{\move(2240, 192, -320, 192)}欢迎van♂来中国♂
+Dialogue: 3,0:02:07.86,0:02:20.86,AcplayDefault,,0000,0000,0000,,{\move(2304, 256, -384, 256)}FA♂QOh♂yeah♂
+Dialogue: 3,0:02:08.06,0:02:16.39,AcplayDefault,,0000,0000,0000,,{\move(1984, 320, -64, 320)}泪目
+Dialogue: 3,0:02:08.55,0:02:12.55,AcplayDefault,,0000,0000,0000,,{\a6\pos(960, 129)\c&H1200E7\3c&HFFFFFF}此为VAN的专♂场，没有那位大♂人
+Dialogue: 3,0:02:08.63,0:02:16.96,AcplayDefault,,0000,0000,0000,,{\move(1984, 448, -64, 448)}泪目
+Dialogue: 3,0:02:08.64,0:02:20.14,AcplayDefault,,0000,0000,0000,,{\move(2208, 512, -288, 512)}原谅我听成了faQ
+Dialogue: 3,0:02:08.80,0:02:20.30,AcplayDefault,,0000,0000,0000,,{\move(2208, 576, -288, 576)}thank♂you
+Dialogue: 3,0:02:08.97,0:02:17.31,AcplayDefault,,0000,0000,0000,,{\move(1984, 640, -64, 640)}泪目
+Dialogue: 3,0:02:09.04,0:02:13.04,AcplayDefault,,0000,0000,0000,,{\a6\pos(960, 193)\c&H02F1FE\3c&HFFFFFF}fa♂q，哦♂液
+Dialogue: 3,0:02:09.21,0:02:17.54,AcplayDefault,,0000,0000,0000,,{\move(1984, 768, -64, 768)}泪目
+Dialogue: 3,0:02:10.23,0:02:20.73,AcplayDefault,,0000,0000,0000,,{\move(2144, 832, -224, 832)}最后一名哲学家
+Dialogue: 3,0:02:10.95,0:02:23.95,AcplayDefault,,0000,0000,0000,,{\move(2336, 896, -416, 896)}thank♂you，van
+Dialogue: 3,0:02:11.64,0:02:19.97,AcplayDefault,,0000,0000,0000,,{\move(1984, 64, -64, 64)}泪目
+Dialogue: 3,0:02:11.88,0:02:22.38,AcplayDefault,,0000,0000,0000,,{\move(2144, 128, -224, 128)\c&H02F1FE\3c&HFFFFFF}van的专♂场
+Dialogue: 3,0:02:12.37,0:02:21.37,AcplayDefault,,0000,0000,0000,,{\move(2016, 192, -96, 192)}泪♂目
+Dialogue: 3,0:02:13.94,0:02:24.44,AcplayDefault,,0000,0000,0000,,{\move(2144, 256, -224, 256)}van真的老了
+Dialogue: 3,0:02:14.70,0:02:24.37,AcplayDefault,,0000,0000,0000,,{\move(2048, 320, -128, 320)}地狱绘卷
+Dialogue: 3,0:02:15.11,0:02:23.45,AcplayDefault,,0000,0000,0000,,{\move(1984, 384, -64, 384)}泪目
+Dialogue: 3,0:02:15.41,0:02:25.08,AcplayDefault,,0000,0000,0000,,{\move(2048, 448, -128, 448)}弱子识蕉
+Dialogue: 3,0:02:16.86,0:02:28.36,AcplayDefault,,0000,0000,0000,,{\move(2208, 512, -288, 512)}今天不开心听完想哭
