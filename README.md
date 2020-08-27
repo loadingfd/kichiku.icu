@@ -10,3 +10,6 @@
  注：  
 1. 如果您的资源被我们采纳，您的名字将会出现在 **贡献榜** 上。
 2. 如果您的视频文件大于 **100MB** ，将采用分卷压缩。
+
+## Stargazers over time  
+<img src="https://starchart.cc/ldqk/kichiku.icu.svg">    
