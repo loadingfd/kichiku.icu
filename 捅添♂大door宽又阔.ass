@@ -1,0 +1,30 @@
+﻿[Script Info]
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 1920
+PlayResY: 1080
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: AcplayDefault, Microsoft YaHei, 64, &H00FFFFFF, &H00FFFFFF, &H00000000, &H00000000, 0, 0, 0, 0, 100, 100, 0.00, 0.00, 1, 1, 0, 2, 20, 20, 20, 0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 3,0:00:11.45,0:00:20.95,AcplayDefault,,0000,0000,0000,,{\move(2080, 64, -160, 64)}见哲♂学进
+Dialogue: 3,0:00:14.65,0:00:24.32,AcplayDefault,,0000,0000,0000,,{\move(2048, 128, -128, 128)}胱♂之人
+Dialogue: 3,0:00:16.31,0:00:25.98,AcplayDefault,,0000,0000,0000,,{\move(2048, 192, -128, 192)}思妇劲敌
+Dialogue: 3,0:00:16.55,0:00:25.55,AcplayDefault,,0000,0000,0000,,{\move(2016, 256, -96, 256)}、‘}
+Dialogue: 3,0:00:21.07,0:00:30.74,AcplayDefault,,0000,0000,0000,,{\move(2048, 320, -128, 320)}在近视了
+Dialogue: 3,0:00:22.36,0:00:32.86,AcplayDefault,,0000,0000,0000,,{\move(2144, 384, -224, 384)}唉，都是剪影了
+Dialogue: 3,0:00:23.29,0:00:32.96,AcplayDefault,,0000,0000,0000,,{\move(2048, 448, -128, 448)}王的救赎
+Dialogue: 3,0:00:24.39,0:00:33.89,AcplayDefault,,0000,0000,0000,,{\move(2080, 512, -160, 512)\c&H7B3A68\3c&HFFFFFF}fa♂乐器
+Dialogue: 3,0:00:26.06,0:00:33.73,AcplayDefault,,0000,0000,0000,,{\move(1952, 576, -32, 576)}奥
+Dialogue: 3,0:00:36.32,0:00:49.32,AcplayDefault,,0000,0000,0000,,{\move(2304, 640, -384, 640)}歌词不明觉厉（手动滑稽）
+Dialogue: 3,0:00:40.28,0:00:49.94,AcplayDefault,,0000,0000,0000,,{\move(2048, 704, -128, 704)}永不忘记
+Dialogue: 3,0:00:43.56,0:00:53.56,AcplayDefault,,0000,0000,0000,,{\move(2112, 768, -192, 768)}摘下眼镜高清
+Dialogue: 3,0:00:46.48,0:00:54.81,AcplayDefault,,0000,0000,0000,,{\move(1984, 832, -64, 832)}开花
+Dialogue: 3,0:00:53.36,0:01:03.36,AcplayDefault,,0000,0000,0000,,{\move(2112, 896, -192, 896)}好看不火系列
+Dialogue: 3,0:00:54.07,0:00:58.07,AcplayDefault,,0000,0000,0000,,{\a6\pos(960, 900)\c&H1200E7\3c&HFFFFFF}神秘画面
+Dialogue: 3,0:00:57.79,0:01:06.79,AcplayDefault,,0000,0000,0000,,{\move(2016, 128, -96, 128)}兩开花
+Dialogue: 3,0:01:01.58,0:01:12.58,AcplayDefault,,0000,0000,0000,,{\move(2176, 192, -256, 192)}全程打码哈哈哈哈
+Dialogue: 3,0:01:11.26,0:01:19.60,AcplayDefault,,0000,0000,0000,,{\move(1984, 256, -64, 256)\c&H7B3A68\3c&HFFFFFF}笑死
