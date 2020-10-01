@@ -1,0 +1,49 @@
+﻿[Script Info]
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 1920
+PlayResY: 1080
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: AcplayDefault, Microsoft YaHei, 64, &H00FFFFFF, &H00FFFFFF, &H00000000, &H00000000, 0, 0, 0, 0, 100, 100, 0.00, 0.00, 1, 1, 0, 2, 20, 20, 20, 0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 3,0:00:06.79,0:00:16.29,AcplayDefault,,0000,0000,0000,,{\move(2080, 64, -160, 64)}经典老♂歌
+Dialogue: 3,0:00:10.65,0:00:19.65,AcplayDefault,,0000,0000,0000,,{\move(2016, 128, -96, 128)}哲学！
+Dialogue: 3,0:00:11.06,0:00:15.06,AcplayDefault,,0000,0000,0000,,{\a6\pos(960, 1)\c&H1200E7\3c&HFFFFFF}泪目
+Dialogue: 3,0:00:12.76,0:00:22.26,AcplayDefault,,0000,0000,0000,,{\move(2080, 256, -160, 256)}左右♂声道
+Dialogue: 3,0:00:13.37,0:00:24.37,AcplayDefault,,0000,0000,0000,,{\move(2176, 320, -256, 320)\c&H1200E7\3c&HFFFFFF}不wu♂正业系列
+Dialogue: 3,0:00:13.62,0:00:25.12,AcplayDefault,,0000,0000,0000,,{\move(2208, 384, -288, 384)}我是叮当我已经报警
+Dialogue: 3,0:00:17.41,0:00:27.08,AcplayDefault,,0000,0000,0000,,{\move(2048, 448, -128, 448)}百万调音
+Dialogue: 3,0:00:18.32,0:00:26.65,AcplayDefault,,0000,0000,0000,,{\move(1984, 512, -64, 512)}泪目
+Dialogue: 3,0:00:18.47,0:00:28.14,AcplayDefault,,0000,0000,0000,,{\move(2048, 576, -128, 576)}那个男人
+Dialogue: 3,0:00:20.55,0:00:28.89,AcplayDefault,,0000,0000,0000,,{\move(1984, 640, -64, 640)}类目
+Dialogue: 3,0:00:20.68,0:00:31.68,AcplayDefault,,0000,0000,0000,,{\move(2176, 704, -256, 704)}加油！！！！！！
+Dialogue: 3,0:00:23.33,0:00:27.33,AcplayDefault,,0000,0000,0000,,{\a6\pos(960, 1)\c&H00FFFF}自由的气息！
+Dialogue: 3,0:00:24.21,0:00:35.21,AcplayDefault,,0000,0000,0000,,{\move(2176, 832, -256, 832)}佟♂dark♂为
+Dialogue: 3,0:00:24.89,0:00:33.22,AcplayDefault,,0000,0000,0000,,{\move(1984, 896, -64, 896)}泪目
+Dialogue: 3,0:00:27.35,0:00:31.35,AcplayDefault,,0000,0000,0000,,{\a6\pos(960, 1)\c&H02F1FE\3c&HFFFFFF}思妇♂劲敌
+Dialogue: 3,0:00:27.59,0:00:37.09,AcplayDefault,,0000,0000,0000,,{\move(2080, 128, -160, 128)}思妇♂劲敌
+Dialogue: 3,0:00:28.59,0:00:37.59,AcplayDefault,,0000,0000,0000,,{\move(2016, 192, -96, 192)}当♂真
+Dialogue: 3,0:00:28.73,0:00:37.73,AcplayDefault,,0000,0000,0000,,{\move(2016, 256, -96, 256)}自由呀
+Dialogue: 3,0:00:29.44,0:00:42.43,AcplayDefault,,0000,0000,0000,,{\move(2400, 320, -480, 320)}类目 想起哲学兴盛的2017年
+Dialogue: 3,0:00:30.60,0:00:40.26,AcplayDefault,,0000,0000,0000,,{\move(2048, 384, -128, 384)}动次打次
+Dialogue: 3,0:00:30.90,0:00:40.40,AcplayDefault,,0000,0000,0000,,{\move(2080, 448, -160, 448)}思妇劲♂敌
+Dialogue: 3,0:00:31.30,0:00:40.29,AcplayDefault,,0000,0000,0000,,{\move(2016, 512, -96, 512)}洞子大
+Dialogue: 3,0:00:31.95,0:00:41.61,AcplayDefault,,0000,0000,0000,,{\move(2048, 576, -128, 576)}好听不火
+Dialogue: 3,0:00:33.47,0:00:43.14,AcplayDefault,,0000,0000,0000,,{\move(2048, 640, -128, 640)}赞美♂❤
+Dialogue: 3,0:00:37.18,0:00:47.68,AcplayDefault,,0000,0000,0000,,{\move(2144, 704, -224, 704)\c&H02F1FE\3c&HFFFFFF}这个世界太♂乱
+Dialogue: 3,0:00:38.01,0:00:51.01,AcplayDefault,,0000,0000,0000,,{\move(2304, 768, -384, 768)}fafafafa动次打次
+Dialogue: 3,0:00:39.10,0:00:51.60,AcplayDefault,,0000,0000,0000,,{\move(2272, 832, -352, 832)}卧槽 还是双声道！！！
+Dialogue: 3,0:00:39.89,0:00:43.89,AcplayDefault,,0000,0000,0000,,{\a6\pos(960, 1)\c&H00FFFF}是那个男人！
+Dialogue: 3,0:00:40.92,0:00:50.59,AcplayDefault,,0000,0000,0000,,{\move(2048, 64, -128, 64)}动次打次
+Dialogue: 3,0:00:41.08,0:00:50.08,AcplayDefault,,0000,0000,0000,,{\move(2016, 128, -96, 128)}洞子大
+Dialogue: 3,0:00:42.53,0:00:52.53,AcplayDefault,,0000,0000,0000,,{\move(2112, 192, -192, 192)}竟然有点好听
+Dialogue: 3,0:00:47.80,0:00:56.14,AcplayDefault,,0000,0000,0000,,{\move(1984, 256, -64, 256)}黄磊
+Dialogue: 3,0:00:52.08,0:01:01.75,AcplayDefault,,0000,0000,0000,,{\move(2048, 320, -128, 320)}泪目泪目
+Dialogue: 3,0:00:52.54,0:01:02.20,AcplayDefault,,0000,0000,0000,,{\move(2048, 384, -128, 384)}哲学复兴
+Dialogue: 3,0:00:58.10,0:01:02.10,AcplayDefault,,0000,0000,0000,,{\a6\pos(960, 1)\c&H00FFFF}文艺♂复兴
+Dialogue: 3,0:01:03.83,0:01:12.17,AcplayDefault,,0000,0000,0000,,{\move(1984, 512, -64, 512)}泪目
+Dialogue: 3,0:01:14.57,0:01:26.57,AcplayDefault,,0000,0000,0000,,{\move(2240, 576, -320, 576)}这不是新宝岛？？？？
