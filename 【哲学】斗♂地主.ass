@@ -1,0 +1,512 @@
+﻿[Script Info]
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 1920
+PlayResY: 1080
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: AcplayDefault, Microsoft YaHei, 64, &H00FFFFFF, &H00FFFFFF, &H00000000, &H00000000, 0, 0, 0, 0, 100, 100, 0.00, 0.00, 1, 1, 0, 2, 20, 20, 20, 0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 3,0:00:00.03,0:00:09.03,AcplayDefault,,0000,0000,0000,,{\move(2016, 64, -96, 64)}哈哈哈
+Dialogue: 3,0:00:00.06,0:00:04.06,AcplayDefault,,0000,0000,0000,,{\a6\pos(960, 1)\c&H00FFFF}Fa♂乐door♂deep主
+Dialogue: 3,0:00:00.33,0:00:04.33,AcplayDefault,,0000,0000,0000,,{\a6\pos(960, 65)\c&H7F02E2\3c&HFFFFFF}周 润 fa   流 door fa   向 fa 强   Boy 汉 淋   woo 猛 dark
+Dialogue: 3,0:00:00.36,0:00:04.36,AcplayDefault,,0000,0000,0000,,{\a6\pos(960, 129)\c&H20C390\3c&HFFFFFF}周 润 fa   流 door fa   向 fa 强   Boy 汉 淋   woo 猛 dark
+Dialogue: 3,0:00:00.42,0:00:04.42,AcplayDefault,,0000,0000,0000,,{\a6\pos(960, 193)\c&H02F1FE\3c&HFFFFFF}周润fa代言的door deep 主，真薅van！
+Dialogue: 3,0:00:00.42,0:00:04.42,AcplayDefault,,0000,0000,0000,,{\a6\pos(960, 257)\c&H1200E7\3c&HFFFFFF}流 door fa    饰   小 door
+Dialogue: 3,0:00:00.47,0:00:04.47,AcplayDefault,,0000,0000,0000,,{\a6\pos(960, 321)\c&H1200E7\3c&HFFFFFF}周润 fa    饰    door 神搞进
+Dialogue: 3,0:00:00.57,0:00:04.57,AcplayDefault,,0000,0000,0000,,{\a6\pos(960, 385)}door
+Dialogue: 3,0:00:00.89,0:00:13.89,AcplayDefault,,0000,0000,0000,,{\move(2304, 576, -384, 576)\c&H02F1FE\3c&HFFFFFF}door ♂deep♂主
+Dialogue: 3,0:00:01.13,0:00:05.13,AcplayDefault,,0000,0000,0000,,{\a6\pos(960, 449)\c&H02D3FF\3c&HFFFFFF}fa♂乐♂door♂deep♂主
+Dialogue: 3,0:00:01.14,0:00:10.64,AcplayDefault,,0000,0000,0000,,{\move(2080, 704, -160, 704)}j♂ker
+Dialogue: 3,0:00:01.16,0:00:12.16,AcplayDefault,,0000,0000,0000,,{\move(2176, 768, -256, 768)}斗♂deep♂主
+Dialogue: 3,0:00:01.27,0:00:13.77,AcplayDefault,,0000,0000,0000,,{\move(2272, 832, -352, 832)}door♂deep♂主
+Dialogue: 3,0:00:01.63,0:00:14.63,AcplayDefault,,0000,0000,0000,,{\move(2464, 896, -544, 896)}van♂乐♂door♂deep♂主
+Dialogue: 3,0:00:01.73,0:00:05.73,AcplayDefault,,0000,0000,0000,,{\a6\pos(960, 513)\c&H02F1FE\3c&HFFFFFF}撸♂本♂痿
+Dialogue: 3,0:00:01.92,0:00:05.92,AcplayDefault,,0000,0000,0000,,{\a6\pos(960, 577)\c&H02F1FE\3c&HFFFFFF}文 fa dark 搞 命
+Dialogue: 3,0:00:01.93,0:00:05.93,AcplayDefault,,0000,0000,0000,,{\a6\pos(960, 641)}名场面好评
+Dialogue: 3,0:00:02.27,0:00:06.27,AcplayDefault,,0000,0000,0000,,{\a6\pos(960, 705)\c&H00FFFF}斗♂deep♂主
+Dialogue: 3,0:00:02.41,0:00:10.74,AcplayDefault,,0000,0000,0000,,{\move(1984, 320, -64, 320)}哲学
+Dialogue: 3,0:00:02.42,0:00:06.42,AcplayDefault,,0000,0000,0000,,{\a6\pos(960, 900)}再来亿遍
+Dialogue: 3,0:00:02.46,0:00:12.13,AcplayDefault,,0000,0000,0000,,{\move(2048, 448, -128, 448)}fa♂牌
+Dialogue: 3,0:00:02.55,0:00:12.05,AcplayDefault,,0000,0000,0000,,{\move(2080, 512, -160, 512)}撸♂本萎♂
+Dialogue: 3,0:00:03.10,0:00:11.43,AcplayDefault,,0000,0000,0000,,{\move(1984, 576, -64, 576)}哈哈
+Dialogue: 3,0:00:03.20,0:00:12.87,AcplayDefault,,0000,0000,0000,,{\move(2048, 640, -128, 640)}欢迎回来
+Dialogue: 3,0:00:03.31,0:00:15.81,AcplayDefault,,0000,0000,0000,,{\move(2272, 704, -352, 704)}door♂deep♂主
+Dialogue: 3,0:00:03.37,0:00:07.37,AcplayDefault,,0000,0000,0000,,{\a6\pos(960, 769)\c&H02F1FE\3c&HFFFFFF}牛牛牛牛牛牛
+Dialogue: 3,0:00:03.83,0:00:16.33,AcplayDefault,,0000,0000,0000,,{\move(2272, 832, -352, 832)\c&H02F1FE\3c&HFFFFFF}door♂deep♂主
+Dialogue: 3,0:00:04.07,0:00:08.07,AcplayDefault,,0000,0000,0000,,{\a6\pos(960, 65)\c&H1200E7\3c&HFFFFFF}文     fa     dark     搞     命
+Dialogue: 3,0:00:04.27,0:00:14.27,AcplayDefault,,0000,0000,0000,,{\move(2112, 64, -192, 64)}撸boy♂萎
+Dialogue: 3,0:00:04.55,0:00:08.55,AcplayDefault,,0000,0000,0000,,{\a6\pos(960, 513)\c&H7F02E2\3c&HFFFFFF}呀呀呀呀呀呀♂
+Dialogue: 3,0:00:04.62,0:00:08.62,AcplayDefault,,0000,0000,0000,,{\a6\pos(960, 449)\c&H02F1FE\3c&HFFFFFF}得得得得得得得得得得得得得得得得
+Dialogue: 3,0:00:04.68,0:00:12.35,AcplayDefault,,0000,0000,0000,,{\move(1952, 256, -32, 256)}？
+Dialogue: 3,0:00:04.76,0:00:08.76,AcplayDefault,,0000,0000,0000,,{\a6\pos(960, 449)\c&H00FFFF}door♂  deep♂ 主
+Dialogue: 3,0:00:04.99,0:00:17.99,AcplayDefault,,0000,0000,0000,,{\move(2336, 384, -416, 384)}欢乐door♂deep♂主
+Dialogue: 3,0:00:05.21,0:00:09.21,AcplayDefault,,0000,0000,0000,,{\a6\pos(960, 449)\c&H02F1FE\3c&HFFFFFF}飞机
+Dialogue: 3,0:00:05.23,0:00:13.56,AcplayDefault,,0000,0000,0000,,{\move(1984, 512, -64, 512)}♂♂
+Dialogue: 3,0:00:05.29,0:00:09.28,AcplayDefault,,0000,0000,0000,,{\a6\pos(960, 449)\c&H1200E7\3c&HFFFFFF}door deep 主 是 文 fa dark 搞 命 时 骑 的 挣 治 妊 woo
+Dialogue: 3,0:00:05.47,0:00:15.14,AcplayDefault,,0000,0000,0000,,{\move(2048, 640, -128, 640)}可以可以
+Dialogue: 3,0:00:05.65,0:00:18.65,AcplayDefault,,0000,0000,0000,,{\move(2400, 704, -480, 704)}得得得得得得得得得得得得得得得
+Dialogue: 3,0:00:05.71,0:00:09.71,AcplayDefault,,0000,0000,0000,,{\a6\pos(960, 449)\c&H02F1FE\3c&HFFFFFF}周 润 fa   流 door fa   向 fa 强   Boy 汉 淋   woo 猛 dark
+Dialogue: 3,0:00:05.75,0:00:18.25,AcplayDefault,,0000,0000,0000,,{\move(2272, 832, -352, 832)}door♂deep♂主
+Dialogue: 3,0:00:06.41,0:00:16.91,AcplayDefault,,0000,0000,0000,,{\move(2144, 896, -224, 896)}freedom
+Dialogue: 3,0:00:06.46,0:00:10.46,AcplayDefault,,0000,0000,0000,,{\a6\pos(960, 257)\c&H00FFFF}Fa♂乐door♂deep主
+Dialogue: 3,0:00:06.46,0:00:14.79,AcplayDefault,,0000,0000,0000,,{\move(1984, 128, -64, 128)}来♂
+Dialogue: 3,0:00:06.66,0:00:10.66,AcplayDefault,,0000,0000,0000,,{\a6\pos(960, 321)\c&H02F1FE\3c&HFFFFFF}door     神
+Dialogue: 3,0:00:06.66,0:00:15.66,AcplayDefault,,0000,0000,0000,,{\move(2016, 256, -96, 256)\c&H02F1FE\3c&HFFFFFF}见蕉进
+Dialogue: 3,0:00:07.19,0:00:20.19,AcplayDefault,,0000,0000,0000,,{\move(2592, 320, -672, 320)\c&H02F1FE\3c&HFFFFFF}得得得得得得得得得得得得得得得得得得得得得
+Dialogue: 3,0:00:07.46,0:00:16.96,AcplayDefault,,0000,0000,0000,,{\move(2080, 384, -160, 384)}van♂炸
+Dialogue: 3,0:00:07.55,0:00:18.05,AcplayDefault,,0000,0000,0000,,{\move(2144, 448, -224, 448)}shift♂香
+Dialogue: 3,0:00:07.67,0:00:20.67,AcplayDefault,,0000,0000,0000,,{\move(5120, 512, -3200, 512)\c&H1200E7\3c&HFFFFFF}得得得得得得得得得得得得得得得得得得得得得得得得得得得得得得得得得得得得得得得得得得得得得得得得得得得得得得得得得得得得得得得得得得得得得得得得得得得得得得得得得得得得得得得得得得得得得得得得得得得得
+Dialogue: 3,0:00:08.03,0:00:17.70,AcplayDefault,,0000,0000,0000,,{\move(2048, 576, -128, 576)}xswl
+Dialogue: 3,0:00:08.23,0:00:18.23,AcplayDefault,,0000,0000,0000,,{\move(2112, 640, -192, 640)}Fa♂you
+Dialogue: 3,0:00:08.23,0:00:18.23,AcplayDefault,,0000,0000,0000,,{\move(2112, 704, -192, 704)}科比啊啊啊啊
+Dialogue: 3,0:00:08.51,0:00:18.18,AcplayDefault,,0000,0000,0000,,{\move(2048, 768, -128, 768)}火钳刘明
+Dialogue: 3,0:00:08.58,0:00:19.58,AcplayDefault,,0000,0000,0000,,{\move(2176, 832, -256, 832)}叫♂deep♂主
+Dialogue: 3,0:00:09.10,0:00:17.43,AcplayDefault,,0000,0000,0000,,{\move(1984, 896, -64, 896)}土块
+Dialogue: 3,0:00:09.21,0:00:13.21,AcplayDefault,,0000,0000,0000,,{\a6\pos(960, 193)\c&H02F1FE\3c&HFFFFFF}就凭你 door 神 这两个字，就不只值三千 van 美金。
+Dialogue: 3,0:00:09.25,0:00:20.75,AcplayDefault,,0000,0000,0000,,{\move(2208, 128, -288, 128)}得得得得得得得得得
+Dialogue: 3,0:00:09.71,0:00:13.71,AcplayDefault,,0000,0000,0000,,{\a6\pos(960, 900)}撸♂本萎♂牛逼
+Dialogue: 3,0:00:10.17,0:00:22.67,AcplayDefault,,0000,0000,0000,,{\move(2272, 256, -352, 256)}door♂deep♂主
+Dialogue: 3,0:00:10.20,0:00:19.87,AcplayDefault,,0000,0000,0000,,{\move(2048, 320, -128, 320)}文艺复兴
+Dialogue: 3,0:00:10.37,0:00:22.87,AcplayDefault,,0000,0000,0000,,{\move(2272, 384, -352, 384)}door♂deep♂主
+Dialogue: 3,0:00:10.55,0:00:23.55,AcplayDefault,,0000,0000,0000,,{\move(2656, 448, -736, 448)\c&H1200E7\3c&HFFFFFF}顺♂子，吖♂子，连♂队，飞♂机，炸♂蛋，黄♂炸
+Dialogue: 3,0:00:10.62,0:00:23.62,AcplayDefault,,0000,0000,0000,,{\move(2304, 512, -384, 512)}只有行家才知道发生了什么
+Dialogue: 3,0:00:10.87,0:00:20.37,AcplayDefault,,0000,0000,0000,,{\move(2080, 576, -160, 576)}door~
+Dialogue: 3,0:00:10.89,0:00:21.39,AcplayDefault,,0000,0000,0000,,{\move(2144, 640, -224, 640)}斗deep♂主
+Dialogue: 3,0:00:10.92,0:00:19.25,AcplayDefault,,0000,0000,0000,,{\move(1984, 704, -64, 704)}牛逼
+Dialogue: 3,0:00:10.92,0:00:20.59,AcplayDefault,,0000,0000,0000,,{\move(2048, 768, -128, 768)}文艺复兴
+Dialogue: 3,0:00:10.95,0:00:14.95,AcplayDefault,,0000,0000,0000,,{\a6\pos(960, 65)\c&H02F1FE\3c&HFFFFFF}woo 信你 四 boy van。我 跟 了。
+Dialogue: 3,0:00:11.14,0:00:20.14,AcplayDefault,,0000,0000,0000,,{\move(2016, 896, -96, 896)}得得得
+Dialogue: 3,0:00:11.25,0:00:20.92,AcplayDefault,,0000,0000,0000,,{\move(2048, 64, -128, 64)}开幕雷击
+Dialogue: 3,0:00:11.26,0:00:15.26,AcplayDefault,,0000,0000,0000,,{\a6\pos(960, 129)\c&H02F1FE\3c&HFFFFFF}Fa♂q
+Dialogue: 3,0:00:11.27,0:00:20.77,AcplayDefault,,0000,0000,0000,,{\move(2080, 192, -160, 192)}周润fa♂
+Dialogue: 3,0:00:11.71,0:00:15.71,AcplayDefault,,0000,0000,0000,,{\a6\pos(960, 193)\c&H02F1FE\3c&HFFFFFF}思妇♂劲敌
+Dialogue: 3,0:00:11.77,0:00:20.77,AcplayDefault,,0000,0000,0000,,{\move(2016, 320, -96, 320)}faq
+Dialogue: 3,0:00:11.99,0:00:20.99,AcplayDefault,,0000,0000,0000,,{\move(2016, 384, -96, 384)}教父♂
+Dialogue: 3,0:00:12.03,0:00:16.03,AcplayDefault,,0000,0000,0000,,{\a6\pos(960, 65)\c&H02F1FE\3c&HFFFFFF}door♂地主♂
+Dialogue: 3,0:00:12.23,0:00:24.73,AcplayDefault,,0000,0000,0000,,{\move(2272, 512, -352, 512)\c&H02F1FE\3c&HFFFFFF}door♂deep♂主
+Dialogue: 3,0:00:12.36,0:00:16.36,AcplayDefault,,0000,0000,0000,,{\a6\pos(960, 129)\c&H1200E7\3c&HFFFFFF}door♂deep主
+Dialogue: 3,0:00:12.40,0:00:22.07,AcplayDefault,,0000,0000,0000,,{\move(2048, 640, -128, 640)}fa⚣q
+Dialogue: 3,0:00:12.51,0:00:21.51,AcplayDefault,,0000,0000,0000,,{\move(2016, 704, -96, 704)}哈哈哈
+Dialogue: 3,0:00:12.69,0:00:23.19,AcplayDefault,,0000,0000,0000,,{\move(2144, 768, -224, 768)}牛批还好哈哈哈
+Dialogue: 3,0:00:13.07,0:00:25.07,AcplayDefault,,0000,0000,0000,,{\move(2240, 832, -320, 832)}得得得得得得得得得的
+Dialogue: 3,0:00:13.11,0:00:17.11,AcplayDefault,,0000,0000,0000,,{\a6\pos(960, 193)\c&H00FFFF}Fa♂乐door♂deep主
+Dialogue: 3,0:00:13.15,0:00:17.15,AcplayDefault,,0000,0000,0000,,{\a6\pos(960, 65)\c&H02F1FE\3c&HFFFFFF}door♂deep♂主
+Dialogue: 3,0:00:13.60,0:00:24.10,AcplayDefault,,0000,0000,0000,,{\move(2144, 128, -224, 128)}哈哈哈哈哈哈哈
+Dialogue: 3,0:00:13.68,0:00:17.68,AcplayDefault,,0000,0000,0000,,{\a6\pos(960, 129)\c&H7F02E2\3c&HFFFFFF}啊啊啊啊啊啊啊啊啊啊啊啊啊♂
+Dialogue: 3,0:00:14.23,0:00:24.73,AcplayDefault,,0000,0000,0000,,{\move(2144, 256, -224, 256)}哈哈哈哈哈哈哈
+Dialogue: 3,0:00:14.31,0:00:27.31,AcplayDefault,,0000,0000,0000,,{\move(2816, 320, -896, 320)}得得得得得得得得得得得得得得得得得得得得得得得得得得得得
+Dialogue: 3,0:00:14.41,0:00:22.08,AcplayDefault,,0000,0000,0000,,{\move(1952, 384, -32, 384)}F
+Dialogue: 3,0:00:14.42,0:00:27.42,AcplayDefault,,0000,0000,0000,,{\move(2336, 448, -416, 448)\c&H1200E7\3c&HFFFFFF}♂♂♂♂♂♂♂♂♂♂♂♂♂
+Dialogue: 3,0:00:14.45,0:00:24.95,AcplayDefault,,0000,0000,0000,,{\move(2144, 512, -224, 512)}斗door♂主
+Dialogue: 3,0:00:14.55,0:00:25.55,AcplayDefault,,0000,0000,0000,,{\move(2176, 576, -256, 576)}shit7张♂牌
+Dialogue: 3,0:00:14.58,0:00:24.08,AcplayDefault,,0000,0000,0000,,{\move(2080, 640, -160, 640)}lbwnb
+Dialogue: 3,0:00:14.63,0:00:25.13,AcplayDefault,,0000,0000,0000,,{\move(2144, 704, -224, 704)\c&H02F1FE\3c&HFFFFFF}door♂弟主
+Dialogue: 3,0:00:14.76,0:00:24.43,AcplayDefault,,0000,0000,0000,,{\move(2048, 768, -128, 768)}斗♂地主
+Dialogue: 3,0:00:15.05,0:00:19.05,AcplayDefault,,0000,0000,0000,,{\a6\pos(960, 193)\c&H02F1FE\3c&HFFFFFF}幻想乡
+Dialogue: 3,0:00:15.14,0:00:25.64,AcplayDefault,,0000,0000,0000,,{\move(2144, 896, -224, 896)\c&H02F1FE\3c&HFFFFFF}卢boy ♂伟
+Dialogue: 3,0:00:15.38,0:00:24.88,AcplayDefault,,0000,0000,0000,,{\move(2080, 64, -160, 64)}周润fa♂
+Dialogue: 3,0:00:15.59,0:00:24.59,AcplayDefault,,0000,0000,0000,,{\move(2016, 128, -96, 128)\c&H02F1FE\3c&HFFFFFF}弟♂主
+Dialogue: 3,0:00:15.62,0:00:27.12,AcplayDefault,,0000,0000,0000,,{\move(2208, 192, -288, 192)}欢乐斗deep♂主
+Dialogue: 3,0:00:15.75,0:00:25.41,AcplayDefault,,0000,0000,0000,,{\move(2048, 256, -128, 256)}哈哈哈哈
+Dialogue: 3,0:00:15.75,0:00:26.75,AcplayDefault,,0000,0000,0000,,{\move(2176, 320, -256, 320)\c&H02F1FE\3c&HFFFFFF}此曲只应天上有！
+Dialogue: 3,0:00:16.11,0:00:25.78,AcplayDefault,,0000,0000,0000,,{\move(2048, 384, -128, 384)}文艺复兴
+Dialogue: 3,0:00:16.17,0:00:26.67,AcplayDefault,,0000,0000,0000,,{\move(2144, 448, -224, 448)}我头都要笑掉了
+Dialogue: 3,0:00:16.92,0:00:29.92,AcplayDefault,,0000,0000,0000,,{\move(2400, 512, -480, 512)}得得得得得得得得得得得得得得得
+Dialogue: 3,0:00:16.92,0:00:25.26,AcplayDefault,,0000,0000,0000,,{\move(1984, 576, -64, 576)}来♂
+Dialogue: 3,0:00:16.93,0:00:25.93,AcplayDefault,,0000,0000,0000,,{\move(2016, 640, -96, 640)}檀木呢
+Dialogue: 3,0:00:16.96,0:00:20.96,AcplayDefault,,0000,0000,0000,,{\a6\pos(960, 65)\c&H439800\3c&HFFFFFF}他，就是 door 神，搞 进！
+Dialogue: 3,0:00:17.21,0:00:26.88,AcplayDefault,,0000,0000,0000,,{\move(2048, 768, -128, 768)\c&H02F1FE\3c&HFFFFFF}得得得得
+Dialogue: 3,0:00:17.26,0:00:30.26,AcplayDefault,,0000,0000,0000,,{\move(2400, 832, -480, 832)\c&H02F1FE\3c&HFFFFFF}door ♂王 shit ♂王
+Dialogue: 3,0:00:17.60,0:00:30.10,AcplayDefault,,0000,0000,0000,,{\move(2272, 896, -352, 896)}door♂deep♂主
+Dialogue: 3,0:00:17.89,0:00:27.56,AcplayDefault,,0000,0000,0000,,{\move(2048, 64, -128, 64)}好像科比
+Dialogue: 3,0:00:18.11,0:00:29.61,AcplayDefault,,0000,0000,0000,,{\move(2208, 128, -288, 128)}door♂润fa♂
+Dialogue: 3,0:00:18.17,0:00:27.67,AcplayDefault,,0000,0000,0000,,{\move(2080, 192, -160, 192)}yeah♂
+Dialogue: 3,0:00:18.19,0:00:31.19,AcplayDefault,,0000,0000,0000,,{\move(2304, 256, -384, 256)}door♂ deep♂主
+Dialogue: 3,0:00:18.27,0:00:27.94,AcplayDefault,,0000,0000,0000,,{\move(2048, 320, -128, 320)}思妇劲敌
+Dialogue: 3,0:00:18.38,0:00:27.88,AcplayDefault,,0000,0000,0000,,{\move(2080, 384, -160, 384)}撸♂苯♂萎
+Dialogue: 3,0:00:18.51,0:00:26.18,AcplayDefault,,0000,0000,0000,,{\move(1952, 448, -32, 448)\c&H02F1FE\3c&HFFFFFF}♂
+Dialogue: 3,0:00:18.54,0:00:29.04,AcplayDefault,,0000,0000,0000,,{\move(2144, 512, -224, 512)}17张你能秒我
+Dialogue: 3,0:00:18.57,0:00:29.07,AcplayDefault,,0000,0000,0000,,{\move(2144, 576, -224, 576)}door♂地主
+Dialogue: 3,0:00:18.64,0:00:27.64,AcplayDefault,,0000,0000,0000,,{\move(2016, 640, -96, 640)}撸本萎
+Dialogue: 3,0:00:19.06,0:00:28.56,AcplayDefault,,0000,0000,0000,,{\move(2080, 704, -160, 704)}dark♂
+Dialogue: 3,0:00:19.08,0:00:27.41,AcplayDefault,,0000,0000,0000,,{\move(1984, 768, -64, 768)}花Q
+Dialogue: 3,0:00:19.19,0:00:32.19,AcplayDefault,,0000,0000,0000,,{\move(2400, 832, -480, 832)\c&H1200E7\3c&HFFFFFF}Boy♂ next♂ door
+Dialogue: 3,0:00:19.31,0:00:23.31,AcplayDefault,,0000,0000,0000,,{\a6\pos(960, 65)\c&HEAA000\3c&HFFFFFF}撸♂本♂萎♂
+Dialogue: 3,0:00:19.47,0:00:32.47,AcplayDefault,,0000,0000,0000,,{\move(3040, 64, -1120, 64)}得得得得得得得得得得得得得得得得得得得得得得得得得得得得得得得得得得得
+Dialogue: 3,0:00:19.53,0:00:30.03,AcplayDefault,,0000,0000,0000,,{\move(2144, 128, -224, 128)}嗯♂乖乖站好♂
+Dialogue: 3,0:00:19.61,0:00:30.11,AcplayDefault,,0000,0000,0000,,{\move(2144, 192, -224, 192)\c&H1200E7\3c&HFFFFFF}陈♂door仔
+Dialogue: 3,0:00:19.78,0:00:32.78,AcplayDefault,,0000,0000,0000,,{\move(2720, 256, -800, 256)}得得得得得得得得得得得得得得得得得得得得得得得得得
+Dialogue: 3,0:00:19.81,0:00:32.81,AcplayDefault,,0000,0000,0000,,{\move(3456, 320, -1536, 320)\c&H0203FE\3c&HFFFFFF}得得得得得得得得得得得得得得得得得得得得得得得得得得得得得得得得得得得得得得得得得得得得得得得得
+Dialogue: 3,0:00:19.98,0:00:30.48,AcplayDefault,,0000,0000,0000,,{\move(2144, 384, -224, 384)}door 地主
+Dialogue: 3,0:00:20.38,0:00:28.05,AcplayDefault,,0000,0000,0000,,{\move(1952, 448, -32, 448)}♂
+Dialogue: 3,0:00:20.57,0:00:33.57,AcplayDefault,,0000,0000,0000,,{\move(2368, 512, -448, 512)}得得得得得得得得得得得得得得
+Dialogue: 3,0:00:20.63,0:00:24.63,AcplayDefault,,0000,0000,0000,,{\a6\pos(960, 65)\c&H00FFFF}ass♂we♂can
+Dialogue: 3,0:00:20.67,0:00:29.67,AcplayDefault,,0000,0000,0000,,{\move(2016, 640, -96, 640)\c&H722E00\3c&HFFFFFF}撸本萎
+Dialogue: 3,0:00:20.77,0:00:30.27,AcplayDefault,,0000,0000,0000,,{\move(2080, 704, -160, 704)}思妇劲♂敌
+Dialogue: 3,0:00:20.78,0:00:24.78,AcplayDefault,,0000,0000,0000,,{\a6\pos(960, 65)\c&H1200E7\3c&HFFFFFF}周♂润FA♂
+Dialogue: 3,0:00:20.84,0:00:30.50,AcplayDefault,,0000,0000,0000,,{\move(2048, 832, -128, 832)}文艺复兴
+Dialogue: 3,0:00:21.00,0:00:30.67,AcplayDefault,,0000,0000,0000,,{\move(2048, 896, -128, 896)}斗地牢主
+Dialogue: 3,0:00:21.21,0:00:25.21,AcplayDefault,,0000,0000,0000,,{\a6\pos(960, 65)\c&H02F1FE\3c&HFFFFFF}得得得得得得得得得得得得得得得得得得得得得得得得得得得得得得得得得得得得得得得得得得得得得得得得得得得得得得得得得得得得
+Dialogue: 3,0:00:21.29,0:00:33.79,AcplayDefault,,0000,0000,0000,,{\move(2272, 128, -352, 128)}是door♂dick主
+Dialogue: 3,0:00:21.39,0:00:33.39,AcplayDefault,,0000,0000,0000,,{\move(2240, 192, -320, 192)\c&H02F1FE\3c&HFFFFFF}得得得得得得得得得得
+Dialogue: 3,0:00:21.45,0:00:31.95,AcplayDefault,,0000,0000,0000,,{\move(2144, 256, -224, 256)}door~up
+Dialogue: 3,0:00:21.46,0:00:34.46,AcplayDefault,,0000,0000,0000,,{\move(2528, 320, -608, 320)}得得得得得得得得得得得得得得得得得得得
+Dialogue: 3,0:00:21.75,0:00:30.75,AcplayDefault,,0000,0000,0000,,{\move(2016, 384, -96, 384)}卢本伟
+Dialogue: 3,0:00:21.79,0:00:34.79,AcplayDefault,,0000,0000,0000,,{\move(2304, 448, -384, 448)}得得得得得得得得得得得得
+Dialogue: 3,0:00:21.87,0:00:29.54,AcplayDefault,,0000,0000,0000,,{\move(1952, 512, -32, 512)\c&H02F1FE\3c&HFFFFFF}♂
+Dialogue: 3,0:00:21.87,0:00:34.87,AcplayDefault,,0000,0000,0000,,{\move(2496, 576, -576, 576)}得得得得得得得得得得得得得得得得得得
+Dialogue: 3,0:00:22.13,0:00:31.13,AcplayDefault,,0000,0000,0000,,{\move(2016, 640, -96, 640)}♂fq
+Dialogue: 3,0:00:22.49,0:00:33.99,AcplayDefault,,0000,0000,0000,,{\move(2208, 704, -288, 704)\c&H00FFFF}♂♂♂♂♂♂♂♂♂
+Dialogue: 3,0:00:22.55,0:00:35.55,AcplayDefault,,0000,0000,0000,,{\move(2304, 768, -384, 768)}嘟嘟嘟嘟嘟嘟嘟嘟嘟嘟嘟嘟
+Dialogue: 3,0:00:22.59,0:00:26.59,AcplayDefault,,0000,0000,0000,,{\a6\pos(960, 65)\c&H02F1FE\3c&HFFFFFF}door♂deep♂主
+Dialogue: 3,0:00:22.85,0:00:33.35,AcplayDefault,,0000,0000,0000,,{\move(2144, 896, -224, 896)}dark♂司马
+Dialogue: 3,0:00:22.92,0:00:32.92,AcplayDefault,,0000,0000,0000,,{\move(2112, 64, -192, 64)}科比科比科比
+Dialogue: 3,0:00:23.21,0:00:34.71,AcplayDefault,,0000,0000,0000,,{\move(2208, 128, -288, 128)}得得得得得得得得得
+Dialogue: 3,0:00:23.32,0:00:32.82,AcplayDefault,,0000,0000,0000,,{\move(2080, 192, -160, 192)}VAN♂炸
+Dialogue: 3,0:00:23.49,0:00:31.82,AcplayDefault,,0000,0000,0000,,{\move(1984, 256, -64, 256)}秒啊
+Dialogue: 3,0:00:23.52,0:00:27.52,AcplayDefault,,0000,0000,0000,,{\a6\pos(960, 65)\c&H7B3A68\3c&HFFFFFF}嗯？♂乖乖站好♂
+Dialogue: 3,0:00:24.10,0:00:33.10,AcplayDefault,,0000,0000,0000,,{\move(2016, 384, -96, 384)}好♂听
+Dialogue: 3,0:00:24.15,0:00:28.15,AcplayDefault,,0000,0000,0000,,{\a6\pos(960, 65)\c&H1200E7\3c&HFFFFFF}van♂炸!
+Dialogue: 3,0:00:24.25,0:00:32.58,AcplayDefault,,0000,0000,0000,,{\move(1984, 512, -64, 512)}妙啊
+Dialogue: 3,0:00:24.35,0:00:32.68,AcplayDefault,,0000,0000,0000,,{\move(1984, 576, -64, 576)}上香
+Dialogue: 3,0:00:24.51,0:00:33.51,AcplayDefault,,0000,0000,0000,,{\move(2016, 640, -96, 640)\c&H722E00\3c&HFFFFFF}撸本萎
+Dialogue: 3,0:00:24.71,0:00:28.71,AcplayDefault,,0000,0000,0000,,{\a6\pos(960, 65)\c&H02F1FE\3c&HFFFFFF}人体♂手柄
+Dialogue: 3,0:00:24.87,0:00:32.54,AcplayDefault,,0000,0000,0000,,{\move(1952, 768, -32, 768)}6
+Dialogue: 3,0:00:25.07,0:00:35.57,AcplayDefault,,0000,0000,0000,,{\move(2144, 832, -224, 832)}撸♂boy♂萎
+Dialogue: 3,0:00:25.19,0:00:38.18,AcplayDefault,,0000,0000,0000,,{\move(2368, 896, -448, 896)\c&H00FFFF}Fa♂乐door♂deep主
+Dialogue: 3,0:00:25.35,0:00:36.35,AcplayDefault,,0000,0000,0000,,{\move(2176, 64, -256, 64)}逗♂deep♂珠
+Dialogue: 3,0:00:25.38,0:00:35.38,AcplayDefault,,0000,0000,0000,,{\move(2112, 128, -192, 128)}做的相当好呢
+Dialogue: 3,0:00:25.55,0:00:29.55,AcplayDefault,,0000,0000,0000,,{\a6\pos(960, 65)}door~
+Dialogue: 3,0:00:25.79,0:00:29.79,AcplayDefault,,0000,0000,0000,,{\a6\pos(960, 65)\c&H02F1FE\3c&HFFFFFF}大van♂小van
+Dialogue: 3,0:00:25.89,0:00:35.89,AcplayDefault,,0000,0000,0000,,{\move(2112, 320, -192, 320)}door♂怪
+Dialogue: 3,0:00:26.14,0:00:35.64,AcplayDefault,,0000,0000,0000,,{\move(2080, 384, -160, 384)}卢♂本♂伟
+Dialogue: 3,0:00:26.21,0:00:39.21,AcplayDefault,,0000,0000,0000,,{\move(2304, 448, -384, 448)}得得得得得得得得得得得得
+Dialogue: 3,0:00:26.51,0:00:39.01,AcplayDefault,,0000,0000,0000,,{\move(2272, 512, -352, 512)}欢♂乐door♂地♂主
+Dialogue: 3,0:00:26.55,0:00:38.05,AcplayDefault,,0000,0000,0000,,{\move(2208, 576, -288, 576)}door♂peer
+Dialogue: 3,0:00:26.83,0:00:35.83,AcplayDefault,,0000,0000,0000,,{\move(2016, 640, -96, 640)}飞♂机
+Dialogue: 3,0:00:26.87,0:00:35.20,AcplayDefault,,0000,0000,0000,,{\move(1984, 704, -64, 704)\c&H00FFFF}来♂
+Dialogue: 3,0:00:27.03,0:00:35.37,AcplayDefault,,0000,0000,0000,,{\move(1984, 768, -64, 768)}来♂
+Dialogue: 3,0:00:27.17,0:00:36.83,AcplayDefault,,0000,0000,0000,,{\move(2048, 832, -128, 832)}啊啊啊♂
+Dialogue: 3,0:00:27.27,0:00:31.27,AcplayDefault,,0000,0000,0000,,{\a6\pos(960, 65)\c&H1200E7\3c&HFFFFFF}♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂
+Dialogue: 3,0:00:27.40,0:00:31.40,AcplayDefault,,0000,0000,0000,,{\a6\pos(960, 900)\c&H02F1FE\3c&HFFFFFF}我还是白色的♂
+Dialogue: 3,0:00:27.55,0:00:35.88,AcplayDefault,,0000,0000,0000,,{\move(1984, 128, -64, 128)}骑诺
+Dialogue: 3,0:00:27.55,0:00:35.21,AcplayDefault,,0000,0000,0000,,{\move(1952, 192, -32, 192)}卡
+Dialogue: 3,0:00:27.62,0:00:35.95,AcplayDefault,,0000,0000,0000,,{\move(1984, 256, -64, 256)}♂～
+Dialogue: 3,0:00:27.63,0:00:35.97,AcplayDefault,,0000,0000,0000,,{\move(1984, 320, -64, 320)}飞机
+Dialogue: 3,0:00:27.72,0:00:31.72,AcplayDefault,,0000,0000,0000,,{\a6\pos(960, 836)\c&H00FFFF}得得得得得得得得得得得得得得得得得得得得得得得得得得得得得得得得得得得得得得得得得得得得得
+Dialogue: 3,0:00:27.76,0:00:40.76,AcplayDefault,,0000,0000,0000,,{\move(2400, 448, -480, 448)}♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂
+Dialogue: 3,0:00:27.78,0:00:37.28,AcplayDefault,,0000,0000,0000,,{\move(2080, 512, -160, 512)}酸萝卜别吃
+Dialogue: 3,0:00:27.90,0:00:40.90,AcplayDefault,,0000,0000,0000,,{\move(2368, 576, -448, 576)\c&H1200E7\3c&HFFFFFF}牌面不该事 114514 ？
+Dialogue: 3,0:00:28.10,0:00:37.10,AcplayDefault,,0000,0000,0000,,{\move(2016, 640, -96, 640)}FAQ
+Dialogue: 3,0:00:28.14,0:00:37.64,AcplayDefault,,0000,0000,0000,,{\move(2080, 704, -160, 704)}DDDDD
+Dialogue: 3,0:00:28.38,0:00:32.38,AcplayDefault,,0000,0000,0000,,{\a6\pos(960, 65)\c&H7F02E2\3c&HFFFFFF}Fa Fa Fa Fa Fa Fa Fa Fa Fa Q♂
+Dialogue: 3,0:00:28.39,0:00:40.89,AcplayDefault,,0000,0000,0000,,{\move(2272, 832, -352, 832)\c&H00FFFF}卡door♂van♂诺
+Dialogue: 3,0:00:28.45,0:00:37.45,AcplayDefault,,0000,0000,0000,,{\move(2016, 896, -96, 896)\c&H1200E7\3c&HFFFFFF}飞♂基
+Dialogue: 3,0:00:28.46,0:00:38.13,AcplayDefault,,0000,0000,0000,,{\move(2048, 64, -128, 64)\c&H02F1FE\3c&HFFFFFF}全体变色
+Dialogue: 3,0:00:28.79,0:00:32.79,AcplayDefault,,0000,0000,0000,,{\a6\pos(960, 65)\c&HCBC084\3c&HFFFFFF}卡♂boy♂奇诺
+Dialogue: 3,0:00:28.81,0:00:40.81,AcplayDefault,,0000,0000,0000,,{\move(2240, 192, -320, 192)}给阿怡倒一杯卡布奇诺
+Dialogue: 3,0:00:28.82,0:00:39.32,AcplayDefault,,0000,0000,0000,,{\move(2144, 256, -224, 256)}得得得得得得得
+Dialogue: 3,0:00:28.93,0:00:39.93,AcplayDefault,,0000,0000,0000,,{\move(2176, 320, -256, 320)}卡♂bay♂奇诺
+Dialogue: 3,0:00:28.97,0:00:37.30,AcplayDefault,,0000,0000,0000,,{\move(1984, 384, -64, 384)}啊♂
+Dialogue: 3,0:00:29.30,0:00:38.30,AcplayDefault,,0000,0000,0000,,{\move(2016, 448, -96, 448)}压♂死
+Dialogue: 3,0:00:29.39,0:00:40.89,AcplayDefault,,0000,0000,0000,,{\move(2208, 512, -288, 512)}嘟嘟嘟嘟嘟嘟的嘟嘟
+Dialogue: 3,0:00:29.47,0:00:39.13,AcplayDefault,,0000,0000,0000,,{\move(2048, 576, -128, 576)}哦哦哦♂
+Dialogue: 3,0:00:29.71,0:00:42.71,AcplayDefault,,0000,0000,0000,,{\move(2304, 640, -384, 640)}door♂ deep 主
+Dialogue: 3,0:00:29.77,0:00:41.27,AcplayDefault,,0000,0000,0000,,{\move(2208, 704, -288, 704)}饿得得得得得得得得
+Dialogue: 3,0:00:30.11,0:00:42.61,AcplayDefault,,0000,0000,0000,,{\move(2272, 768, -352, 768)}door♂deep♂主
+Dialogue: 3,0:00:30.45,0:00:41.95,AcplayDefault,,0000,0000,0000,,{\move(2208, 832, -288, 832)}哈哈哈哈哈哈哈哈哈
+Dialogue: 3,0:00:30.52,0:00:43.52,AcplayDefault,,0000,0000,0000,,{\move(2688, 896, -768, 896)}啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊
+Dialogue: 3,0:00:31.07,0:00:42.07,AcplayDefault,,0000,0000,0000,,{\move(2176, 64, -256, 64)}斗♂deep♂主
+Dialogue: 3,0:00:31.15,0:00:38.82,AcplayDefault,,0000,0000,0000,,{\move(1952, 128, -32, 128)}♂
+Dialogue: 3,0:00:31.31,0:00:40.31,AcplayDefault,,0000,0000,0000,,{\move(2016, 192, -96, 192)}炸♂蛋
+Dialogue: 3,0:00:31.48,0:00:40.48,AcplayDefault,,0000,0000,0000,,{\move(2016, 256, -96, 256)}兴♂奋
+Dialogue: 3,0:00:31.64,0:00:40.64,AcplayDefault,,0000,0000,0000,,{\move(2016, 320, -96, 320)}对♂较
+Dialogue: 3,0:00:31.65,0:00:40.65,AcplayDefault,,0000,0000,0000,,{\move(2016, 384, -96, 384)}全明星
+Dialogue: 3,0:00:31.67,0:00:40.67,AcplayDefault,,0000,0000,0000,,{\move(2016, 448, -96, 448)}炸♂蛋
+Dialogue: 3,0:00:31.81,0:00:39.48,AcplayDefault,,0000,0000,0000,,{\move(1952, 512, -32, 512)}♂
+Dialogue: 3,0:00:31.93,0:00:41.43,AcplayDefault,,0000,0000,0000,,{\move(2080, 576, -160, 576)}酸萝卜别吃
+Dialogue: 3,0:00:31.94,0:00:41.61,AcplayDefault,,0000,0000,0000,,{\move(2048, 640, -128, 640)}van炸
+Dialogue: 3,0:00:32.11,0:00:41.61,AcplayDefault,,0000,0000,0000,,{\move(2080, 704, -160, 704)}van♂炸
+Dialogue: 3,0:00:32.57,0:00:45.57,AcplayDefault,,0000,0000,0000,,{\move(3840, 768, -1920, 768)\c&H1200E7\3c&HFFFFFF}得得得得得得得得得得得得得得得得得得得得得得得得得得得得得得得得得得得得得得得得得得得得得得得得得得得得得得得得得得得得
+Dialogue: 3,0:00:32.89,0:00:45.39,AcplayDefault,,0000,0000,0000,,{\move(2272, 832, -352, 832)}的的的的的的的的的的的
+Dialogue: 3,0:00:33.02,0:00:42.02,AcplayDefault,,0000,0000,0000,,{\move(2016, 896, -96, 896)}出牌啊
+Dialogue: 3,0:00:33.10,0:00:44.60,AcplayDefault,,0000,0000,0000,,{\move(2208, 64, -288, 64)\c&H1200E7\3c&HFFFFFF}我就♂一张牌♂了！
+Dialogue: 3,0:00:33.10,0:00:42.60,AcplayDefault,,0000,0000,0000,,{\move(2080, 128, -160, 128)}卡♂布其诺
+Dialogue: 3,0:00:33.18,0:00:46.18,AcplayDefault,,0000,0000,0000,,{\move(2432, 192, -512, 192)}得得得得得得得得得得得得得得得得
+Dialogue: 3,0:00:33.27,0:00:46.27,AcplayDefault,,0000,0000,0000,,{\move(2336, 256, -416, 256)\c&H02F1FE\3c&HFFFFFF}♂♂♂♂♂♂♂♂♂♂♂♂♂
+Dialogue: 3,0:00:33.50,0:00:41.84,AcplayDefault,,0000,0000,0000,,{\move(1984, 320, -64, 320)}妙啊
+Dialogue: 3,0:00:33.54,0:00:46.54,AcplayDefault,,0000,0000,0000,,{\move(2304, 384, -384, 384)}[doge][doge]
+Dialogue: 3,0:00:33.55,0:00:37.55,AcplayDefault,,0000,0000,0000,,{\a6\pos(960, 1)\c&H1200E7\3c&HFFFFFF}door♂deep♂主
+Dialogue: 3,0:00:34.30,0:00:44.30,AcplayDefault,,0000,0000,0000,,{\move(2112, 512, -192, 512)}deep♂主
+Dialogue: 3,0:00:34.38,0:00:45.38,AcplayDefault,,0000,0000,0000,,{\move(2176, 576, -256, 576)}陈♂door♂仔
+Dialogue: 3,0:00:34.68,0:00:44.68,AcplayDefault,,0000,0000,0000,,{\move(2112, 640, -192, 640)}啊♂乖乖站好
+Dialogue: 3,0:00:34.80,0:00:43.80,AcplayDefault,,0000,0000,0000,,{\move(2016, 704, -96, 704)}对♂鸡
+Dialogue: 3,0:00:35.05,0:00:47.55,AcplayDefault,,0000,0000,0000,,{\move(2272, 768, -352, 768)\c&H00FFFF}door♂deep♂主
+Dialogue: 3,0:00:35.07,0:00:46.57,AcplayDefault,,0000,0000,0000,,{\move(2208, 832, -288, 832)}shit♂7张♂牌
+Dialogue: 3,0:00:35.20,0:00:42.87,AcplayDefault,,0000,0000,0000,,{\move(1952, 896, -32, 896)}啊
+Dialogue: 3,0:00:35.21,0:00:48.21,AcplayDefault,,0000,0000,0000,,{\move(2304, 64, -384, 64)}得得得得得得得得得得得♂
+Dialogue: 3,0:00:35.36,0:00:46.36,AcplayDefault,,0000,0000,0000,,{\move(2176, 128, -256, 128)}红红火火恍恍惚惚
+Dialogue: 3,0:00:35.51,0:00:45.51,AcplayDefault,,0000,0000,0000,,{\move(2112, 192, -192, 192)}太激♂情四射
+Dialogue: 3,0:00:35.85,0:00:48.35,AcplayDefault,,0000,0000,0000,,{\move(2272, 256, -352, 256)}door deep 主
+Dialogue: 3,0:00:36.00,0:00:45.50,AcplayDefault,,0000,0000,0000,,{\move(2080, 320, -160, 320)}撸♂本萎♂
+Dialogue: 3,0:00:36.01,0:00:45.68,AcplayDefault,,0000,0000,0000,,{\move(2048, 384, -128, 384)}♂♂♂♂
+Dialogue: 3,0:00:36.11,0:00:49.11,AcplayDefault,,0000,0000,0000,,{\move(2464, 448, -544, 448)\c&HEAA000\3c&HFFFFFF}boy ♂ next ♂ door
+Dialogue: 3,0:00:36.17,0:00:47.17,AcplayDefault,,0000,0000,0000,,{\move(2176, 512, -256, 512)}door♂D♂主
+Dialogue: 3,0:00:36.20,0:00:45.86,AcplayDefault,,0000,0000,0000,,{\move(2048, 576, -128, 576)}你币有了
+Dialogue: 3,0:00:36.25,0:00:46.75,AcplayDefault,,0000,0000,0000,,{\move(2144, 640, -224, 640)}同花♂shit
+Dialogue: 3,0:00:36.30,0:00:46.30,AcplayDefault,,0000,0000,0000,,{\move(2112, 704, -192, 704)\c&H0203FE\3c&HFFFFFF}卢本伟牛13
+Dialogue: 3,0:00:36.53,0:00:46.53,AcplayDefault,,0000,0000,0000,,{\move(2112, 768, -192, 768)}斗地(牢)主
+Dialogue: 3,0:00:37.07,0:00:41.07,AcplayDefault,,0000,0000,0000,,{\a6\pos(960, 65)\c&H02F1FE\3c&HFFFFFF}陈♂door♂仔
+Dialogue: 3,0:00:37.32,0:00:46.98,AcplayDefault,,0000,0000,0000,,{\move(2048, 896, -128, 896)}撸♂本萎
+Dialogue: 3,0:00:37.32,0:00:46.32,AcplayDefault,,0000,0000,0000,,{\move(2016, 64, -96, 64)}自♂由
+Dialogue: 3,0:00:37.35,0:00:41.35,AcplayDefault,,0000,0000,0000,,{\a6\pos(960, 129)\c&H722E00\3c&HFFFFFF}door  next  boy
+Dialogue: 3,0:00:38.12,0:00:48.12,AcplayDefault,,0000,0000,0000,,{\move(2112, 192, -192, 192)}shit带一
+Dialogue: 3,0:00:38.38,0:00:50.38,AcplayDefault,,0000,0000,0000,,{\move(2240, 256, -320, 256)}得得得得得得得得得得
+Dialogue: 3,0:00:38.60,0:00:42.60,AcplayDefault,,0000,0000,0000,,{\a6\pos(960, 65)}我就剩一张牌啦
+Dialogue: 3,0:00:38.79,0:00:42.79,AcplayDefault,,0000,0000,0000,,{\a6\pos(960, 129)}天籁之音
+Dialogue: 3,0:00:38.82,0:00:48.82,AcplayDefault,,0000,0000,0000,,{\move(2112, 448, -192, 448)\c&H00FFFF}啊乖乖站好♂
+Dialogue: 3,0:00:38.83,0:00:51.83,AcplayDefault,,0000,0000,0000,,{\move(2400, 512, -480, 512)}得得得得得得得得得得得得得得得
+Dialogue: 3,0:00:38.92,0:00:42.92,AcplayDefault,,0000,0000,0000,,{\a6\pos(960, 65)\c&H0203FE\3c&HFFFFFF}得得得得得得♂得得得得♂得得得得得得得得得得得得得得得
+Dialogue: 3,0:00:39.00,0:00:52.00,AcplayDefault,,0000,0000,0000,,{\move(2848, 640, -928, 640)}的的的的滴滴答答滴滴答答滴滴答答滴滴答答的得得得得得得得得
+Dialogue: 3,0:00:39.25,0:00:48.91,AcplayDefault,,0000,0000,0000,,{\move(2048, 704, -128, 704)}嗯♂哼♂
+Dialogue: 3,0:00:39.43,0:00:52.43,AcplayDefault,,0000,0000,0000,,{\move(2368, 768, -448, 768)}boy♂next♂door♂
+Dialogue: 3,0:00:39.60,0:00:52.60,AcplayDefault,,0000,0000,0000,,{\move(2400, 832, -480, 832)}[蛆音娘_滑稽]超级加♂boy
+Dialogue: 3,0:00:39.61,0:00:49.61,AcplayDefault,,0000,0000,0000,,{\move(2112, 896, -192, 896)}飞起来拉大便
+Dialogue: 3,0:00:39.71,0:00:49.21,AcplayDefault,,0000,0000,0000,,{\move(2080, 64, -160, 64)}泄♂个泄♂
+Dialogue: 3,0:00:39.75,0:00:49.41,AcplayDefault,,0000,0000,0000,,{\move(2048, 128, -128, 128)}撸♂本伟
+Dialogue: 3,0:00:40.14,0:00:52.14,AcplayDefault,,0000,0000,0000,,{\move(2240, 192, -320, 192)}给阿姨倒一杯卡布奇诺
+Dialogue: 3,0:00:40.29,0:00:53.29,AcplayDefault,,0000,0000,0000,,{\move(2496, 256, -576, 256)}得得得得得得得得得得得得得得得得得得
+Dialogue: 3,0:00:40.29,0:00:44.29,AcplayDefault,,0000,0000,0000,,{\a6\pos(960, 129)\c&H00FFFF}冥♂boy
+Dialogue: 3,0:00:40.65,0:00:44.65,AcplayDefault,,0000,0000,0000,,{\a6\pos(960, 65)}我cao哈哈哈哈哈哈哈哈哈哈
+Dialogue: 3,0:00:41.10,0:00:48.77,AcplayDefault,,0000,0000,0000,,{\move(1952, 448, -32, 448)}♂
+Dialogue: 3,0:00:41.24,0:00:54.24,AcplayDefault,,0000,0000,0000,,{\move(2496, 512, -576, 512)}第1000条弹幕，fa♂fa♂fa♂
+Dialogue: 3,0:00:41.31,0:00:50.31,AcplayDefault,,0000,0000,0000,,{\move(2016, 576, -96, 576)}飞♂鸡
+Dialogue: 3,0:00:41.97,0:00:54.97,AcplayDefault,,0000,0000,0000,,{\move(2496, 640, -576, 640)}up主你终于想起来干正事了(￣∇￣)
+Dialogue: 3,0:00:42.66,0:00:55.66,AcplayDefault,,0000,0000,0000,,{\move(2304, 704, -384, 704)}如果你不氪金别怕我安排你
+Dialogue: 3,0:00:42.73,0:00:55.73,AcplayDefault,,0000,0000,0000,,{\move(2400, 768, -480, 768)}lbwnblbwnblbwnb
+Dialogue: 3,0:00:42.81,0:00:52.81,AcplayDefault,,0000,0000,0000,,{\move(2112, 832, -192, 832)}door地主
+Dialogue: 3,0:00:42.84,0:00:53.34,AcplayDefault,,0000,0000,0000,,{\move(2144, 896, -224, 896)}谢谢谢谢谢谢谢
+Dialogue: 3,0:00:42.98,0:00:46.98,AcplayDefault,,0000,0000,0000,,{\a6\pos(960, 129)\c&H02F1FE\3c&HFFFFFF}陈♂door♂仔
+Dialogue: 3,0:00:43.28,0:00:56.28,AcplayDefault,,0000,0000,0000,,{\move(2432, 128, -512, 128)}哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈
+Dialogue: 3,0:00:43.30,0:00:54.80,AcplayDefault,,0000,0000,0000,,{\move(2208, 192, -288, 192)}泄→泄↗泄→泄↘泄
+Dialogue: 3,0:00:43.48,0:00:47.48,AcplayDefault,,0000,0000,0000,,{\a6\pos(960, 900)\c&H02F1FE\3c&HFFFFFF}谢谢谢谢谢谢谢谢谢谢谢谢谢谢谢谢谢谢谢谢谢谢谢谢谢谢谢谢谢谢谢谢♂
+Dialogue: 3,0:00:43.80,0:00:47.80,AcplayDefault,,0000,0000,0000,,{\a6\pos(960, 65)\c&H00FFFF}得得得得得得得得得得得得得得得得得得得得得得
+Dialogue: 3,0:00:44.14,0:00:53.64,AcplayDefault,,0000,0000,0000,,{\move(2080, 384, -160, 384)}哈哈哈哈哈
+Dialogue: 3,0:00:44.31,0:00:57.31,AcplayDefault,,0000,0000,0000,,{\move(2528, 448, -608, 448)\c&H1200E7\3c&HFFFFFF}我17张牌你能秒我我当场把ass♂吃掉
+Dialogue: 3,0:00:44.40,0:00:53.40,AcplayDefault,,0000,0000,0000,,{\move(2016, 512, -96, 512)}♂♂♂
+Dialogue: 3,0:00:44.45,0:00:54.12,AcplayDefault,,0000,0000,0000,,{\move(2048, 576, -128, 576)}卡布奇诺
+Dialogue: 3,0:00:44.56,0:00:57.56,AcplayDefault,,0000,0000,0000,,{\move(2656, 640, -736, 640)}得得得得得得得得得得得得得得得得得得得得得得得
+Dialogue: 3,0:00:44.57,0:00:48.57,AcplayDefault,,0000,0000,0000,,{\a6\pos(960, 129)\c&H02F1FE\3c&HFFFFFF}嗯♂乐器
+Dialogue: 3,0:00:44.74,0:00:53.07,AcplayDefault,,0000,0000,0000,,{\move(1984, 768, -64, 768)}泄♂
+Dialogue: 3,0:00:45.72,0:00:55.22,AcplayDefault,,0000,0000,0000,,{\move(2080, 832, -160, 832)}van♂炸
+Dialogue: 3,0:00:45.96,0:00:57.96,AcplayDefault,,0000,0000,0000,,{\move(2240, 896, -320, 896)}567810啊哈哈哈
+Dialogue: 3,0:00:46.26,0:00:55.26,AcplayDefault,,0000,0000,0000,,{\move(2016, 64, -96, 64)\c&H02F1FE\3c&HFFFFFF}王♂炸
+Dialogue: 3,0:00:46.54,0:00:58.04,AcplayDefault,,0000,0000,0000,,{\move(2208, 128, -288, 128)}五角星是什么花色？
+Dialogue: 3,0:00:46.86,0:00:56.86,AcplayDefault,,0000,0000,0000,,{\move(2112, 192, -192, 192)}同♂fa♂顺
+Dialogue: 3,0:00:46.89,0:00:50.89,AcplayDefault,,0000,0000,0000,,{\a6\pos(960, 65)\c&H02F1FE\3c&HFFFFFF}van♂上
+Dialogue: 3,0:00:47.02,0:00:51.02,AcplayDefault,,0000,0000,0000,,{\a6\pos(960, 836)\c&H02F1FE\3c&HFFFFFF}撸♂本♂van→→→→
+Dialogue: 3,0:00:47.05,0:00:55.38,AcplayDefault,,0000,0000,0000,,{\move(1984, 384, -64, 384)}呵呵
+Dialogue: 3,0:00:47.54,0:01:00.54,AcplayDefault,,0000,0000,0000,,{\move(2400, 448, -480, 448)}得♂得♂得♂得♂得♂得♂得♂得
+Dialogue: 3,0:00:47.68,0:00:51.68,AcplayDefault,,0000,0000,0000,,{\a6\pos(960, 129)\c&H02F1FE\3c&HFFFFFF}周 润 fa   流 door fa   向 fa 强   Boy 汉 淋   woo 猛 dark
+Dialogue: 3,0:00:47.76,0:00:56.76,AcplayDefault,,0000,0000,0000,,{\move(2016, 576, -96, 576)}飞♂鸡
+Dialogue: 3,0:00:47.98,0:00:57.64,AcplayDefault,,0000,0000,0000,,{\move(2048, 640, -128, 640)}赞美之心
+Dialogue: 3,0:00:48.16,0:01:01.16,AcplayDefault,,0000,0000,0000,,{\move(2496, 704, -576, 704)}快点♂啊，都等的我fa♂都shit了
+Dialogue: 3,0:00:48.36,0:00:58.86,AcplayDefault,,0000,0000,0000,,{\move(2144, 768, -224, 768)}17张牌来妙我
+Dialogue: 3,0:00:48.55,0:00:52.55,AcplayDefault,,0000,0000,0000,,{\a6\pos(960, 65)\c&H02F1FE\3c&HFFFFFF}door♂怪
+Dialogue: 3,0:00:48.57,0:01:01.57,AcplayDefault,,0000,0000,0000,,{\move(2720, 896, -800, 896)}得得得得得得得得得得得得得得得得得得得得得得得得得
+Dialogue: 3,0:00:48.80,0:00:59.80,AcplayDefault,,0000,0000,0000,,{\move(2176, 64, -256, 64)\c&H02F1FE\3c&HFFFFFF}逗♂deep♂珠
+Dialogue: 3,0:00:48.96,0:00:57.96,AcplayDefault,,0000,0000,0000,,{\move(2016, 128, -96, 128)}哈哈哈
+Dialogue: 3,0:00:49.31,0:00:59.31,AcplayDefault,,0000,0000,0000,,{\move(2112, 192, -192, 192)}飞机  打它
+Dialogue: 3,0:00:49.32,0:01:01.82,AcplayDefault,,0000,0000,0000,,{\move(2272, 256, -352, 256)}我就shit♂一张牌了
+Dialogue: 3,0:00:50.10,0:00:59.77,AcplayDefault,,0000,0000,0000,,{\move(2048, 320, -128, 320)}哈哈哈哈
+Dialogue: 3,0:00:50.16,0:01:00.66,AcplayDefault,,0000,0000,0000,,{\move(2144, 384, -224, 384)}door♂腚主
+Dialogue: 3,0:00:50.25,0:01:03.25,AcplayDefault,,0000,0000,0000,,{\move(2336, 448, -416, 448)}boy next door
+Dialogue: 3,0:00:50.71,0:00:59.04,AcplayDefault,,0000,0000,0000,,{\move(1984, 512, -64, 512)}来♂
+Dialogue: 3,0:00:50.94,0:01:00.60,AcplayDefault,,0000,0000,0000,,{\move(2048, 576, -128, 576)}17张牌
+Dialogue: 3,0:00:51.79,0:00:55.79,AcplayDefault,,0000,0000,0000,,{\a6\pos(960, 900)\c&H00FFFF}得得得得得得得得得得得得得得得得得得得得得得得得得得得得得得得得得得得得得得得得得得得得得得得得得得得得得得得得得得得得得得得得得得得得得得得得得得得得得得得得得得得得得得得得得得得得得得得得得得得得
+Dialogue: 3,0:00:51.88,0:01:01.55,AcplayDefault,,0000,0000,0000,,{\move(2048, 704, -128, 704)}哈哈哈哈
+Dialogue: 3,0:00:52.11,0:01:05.11,AcplayDefault,,0000,0000,0000,,{\move(2432, 768, -512, 768)}哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈
+Dialogue: 3,0:00:52.11,0:01:01.61,AcplayDefault,,0000,0000,0000,,{\move(2080, 832, -160, 832)\c&H02F1FE\3c&HFFFFFF}Van♂炸
+Dialogue: 3,0:00:52.57,0:01:05.57,AcplayDefault,,0000,0000,0000,,{\move(3840, 896, -1920, 896)\c&H1200E7\3c&HFFFFFF}得得得得得得得得得得得得得得得得得得得得得得得得得得得得得得得得得得得得得得得得得得得得得得得得得得得得得得得得得得得得
+Dialogue: 3,0:00:52.73,0:01:05.73,AcplayDefault,,0000,0000,0000,,{\move(2592, 64, -672, 64)}xiexiexiexiexiexiexie
+Dialogue: 3,0:00:52.98,0:01:01.98,AcplayDefault,,0000,0000,0000,,{\move(2016, 128, -96, 128)}自♂由
+Dialogue: 3,0:00:53.06,0:01:02.56,AcplayDefault,,0000,0000,0000,,{\move(2080, 192, -160, 192)}皱润♂fa
+Dialogue: 3,0:00:53.15,0:01:03.65,AcplayDefault,,0000,0000,0000,,{\move(2144, 256, -224, 256)}三Dark♂一
+Dialogue: 3,0:00:53.57,0:01:01.24,AcplayDefault,,0000,0000,0000,,{\move(1952, 320, -32, 320)}♂
+Dialogue: 3,0:00:53.87,0:01:06.87,AcplayDefault,,0000,0000,0000,,{\move(2816, 384, -896, 384)}dddddddddddddddddddddddddddd
+Dialogue: 3,0:00:54.05,0:01:03.55,AcplayDefault,,0000,0000,0000,,{\move(2080, 448, -160, 448)}地主FA牌
+Dialogue: 3,0:00:54.23,0:01:07.23,AcplayDefault,,0000,0000,0000,,{\move(2368, 512, -448, 512)}哈哈哈哈哈哈 老子肠子笑出来
+Dialogue: 3,0:00:54.30,0:01:04.30,AcplayDefault,,0000,0000,0000,,{\move(2112, 576, -192, 576)}压♂shit
+Dialogue: 3,0:00:54.45,0:01:03.95,AcplayDefault,,0000,0000,0000,,{\move(2080, 640, -160, 640)}百万调音师
+Dialogue: 3,0:00:54.53,0:01:07.53,AcplayDefault,,0000,0000,0000,,{\move(2432, 704, -512, 704)}啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊
+Dialogue: 3,0:00:54.56,0:01:06.06,AcplayDefault,,0000,0000,0000,,{\move(2208, 768, -288, 768)\c&H02F1FE\3c&HFFFFFF}一群哲学家哈哈哈哈
+Dialogue: 3,0:00:54.70,0:01:06.70,AcplayDefault,,0000,0000,0000,,{\move(2240, 832, -320, 832)}不要走，决♂战到天亮
+Dialogue: 3,0:00:54.98,0:00:58.98,AcplayDefault,,0000,0000,0000,,{\a6\pos(960, 1)\c&H02F1FE\3c&HFFFFFF}自♂由
+Dialogue: 3,0:00:55.17,0:01:08.17,AcplayDefault,,0000,0000,0000,,{\move(2560, 64, -640, 64)}当年陈door♂仔用3700万赢到20块
+Dialogue: 3,0:00:55.25,0:01:04.25,AcplayDefault,,0000,0000,0000,,{\move(2016, 128, -96, 128)}飞♂鸡
+Dialogue: 3,0:00:55.33,0:00:59.33,AcplayDefault,,0000,0000,0000,,{\a6\pos(960, 65)\c&H439800\3c&HFFFFFF}door♂乐器，fa♂乐器，啊♂乐器，污♂乐器
+Dialogue: 3,0:00:55.41,0:01:03.74,AcplayDefault,,0000,0000,0000,,{\move(1984, 256, -64, 256)}妙啊
+Dialogue: 3,0:00:55.73,0:01:06.23,AcplayDefault,,0000,0000,0000,,{\move(2144, 320, -224, 320)}三door♂一
+Dialogue: 3,0:00:56.57,0:01:00.57,AcplayDefault,,0000,0000,0000,,{\a6\pos(960, 900)\c&H02F1FE\3c&HFFFFFF}啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊♂
+Dialogue: 3,0:00:56.69,0:01:05.03,AcplayDefault,,0000,0000,0000,,{\move(1984, 448, -64, 448)}飞机
+Dialogue: 3,0:00:57.47,0:01:07.13,AcplayDefault,,0000,0000,0000,,{\move(2048, 512, -128, 512)}赞美の心
+Dialogue: 3,0:00:57.47,0:01:07.97,AcplayDefault,,0000,0000,0000,,{\move(2144, 576, -224, 576)}啊啊啊啊啊啊啊
+Dialogue: 3,0:00:57.49,0:01:07.49,AcplayDefault,,0000,0000,0000,,{\move(2112, 640, -192, 640)}嗯♂嗯♂嗯♂
+Dialogue: 3,0:00:58.20,0:01:02.20,AcplayDefault,,0000,0000,0000,,{\a6\pos(960, 129)\c&H00FFFF}van♂炸
+Dialogue: 3,0:00:59.39,0:01:10.39,AcplayDefault,,0000,0000,0000,,{\move(2176, 768, -256, 768)}优♂秀~哲♂学~
+Dialogue: 3,0:00:59.51,0:01:09.17,AcplayDefault,,0000,0000,0000,,{\move(2048, 832, -128, 832)}fa♂牌
+Dialogue: 3,0:00:59.85,0:01:03.85,AcplayDefault,,0000,0000,0000,,{\a6\pos(960, 65)\c&H02F1FE\3c&HFFFFFF}boy next Door 
+Dialogue: 3,0:01:00.02,0:01:10.52,AcplayDefault,,0000,0000,0000,,{\move(2144, 64, -224, 64)}yes sir
+Dialogue: 3,0:01:00.27,0:01:04.27,AcplayDefault,,0000,0000,0000,,{\a6\pos(960, 129)\c&H02F1FE\3c&HFFFFFF}撸♂本♂萎
+Dialogue: 3,0:01:00.51,0:01:08.17,AcplayDefault,,0000,0000,0000,,{\move(1952, 192, -32, 192)}啊
+Dialogue: 3,0:01:01.46,0:01:05.46,AcplayDefault,,0000,0000,0000,,{\a6\pos(960, 65)\c&H00FFFF}boy next door
+Dialogue: 3,0:01:01.60,0:01:11.10,AcplayDefault,,0000,0000,0000,,{\move(2080, 320, -160, 320)\c&H00FFFF}van♂炸
+Dialogue: 3,0:01:01.83,0:01:05.83,AcplayDefault,,0000,0000,0000,,{\a6\pos(960, 129)\c&HBE6642\3c&HFFFFFF}啊
+Dialogue: 3,0:01:02.21,0:01:06.21,AcplayDefault,,0000,0000,0000,,{\a6\pos(960, 65)\c&H02F1FE\3c&HFFFFFF}boy next door
+Dialogue: 3,0:01:02.41,0:01:10.07,AcplayDefault,,0000,0000,0000,,{\move(1952, 512, -32, 512)}♂
+Dialogue: 3,0:01:02.45,0:01:14.95,AcplayDefault,,0000,0000,0000,,{\move(2272, 576, -352, 576)}door♂deep♂主
+Dialogue: 3,0:01:02.71,0:01:12.71,AcplayDefault,,0000,0000,0000,,{\move(2112, 640, -192, 640)}deep♂主
+Dialogue: 3,0:01:02.96,0:01:12.63,AcplayDefault,,0000,0000,0000,,{\move(2048, 704, -128, 704)}fa♂牌
+Dialogue: 3,0:01:03.24,0:01:12.24,AcplayDefault,,0000,0000,0000,,{\move(2016, 768, -96, 768)}飞♂基
+Dialogue: 3,0:01:03.40,0:01:13.07,AcplayDefault,,0000,0000,0000,,{\move(2048, 832, -128, 832)}啊♂夜色
+Dialogue: 3,0:01:03.54,0:01:16.54,AcplayDefault,,0000,0000,0000,,{\move(3968, 896, -2048, 896)}哒哒哒哒哒哒多多多多多多多多多多多多多多多多多多多多多多多多多多多多多多多多多多多多多多多多多多多多多多多多多多多多多多多多多多
+Dialogue: 3,0:01:03.99,0:01:13.99,AcplayDefault,,0000,0000,0000,,{\move(2112, 64, -192, 64)}shit♂子
+Dialogue: 3,0:01:04.12,0:01:17.12,AcplayDefault,,0000,0000,0000,,{\move(2336, 128, -416, 128)}boy next door
+Dialogue: 3,0:01:04.79,0:01:12.45,AcplayDefault,,0000,0000,0000,,{\move(1952, 192, -32, 192)}啊
+Dialogue: 3,0:01:05.05,0:01:09.05,AcplayDefault,,0000,0000,0000,,{\a6\pos(960, 129)\c&H00FFFF}自由自由自由自由自由自由自由自由自由自由自由自由自由自由自由自由自由自由
+Dialogue: 3,0:01:06.00,0:01:14.33,AcplayDefault,,0000,0000,0000,,{\move(1984, 320, -64, 320)}自由
+Dialogue: 3,0:01:06.11,0:01:15.11,AcplayDefault,,0000,0000,0000,,{\move(2016, 384, -96, 384)}王扎♂
+Dialogue: 3,0:01:06.71,0:01:19.71,AcplayDefault,,0000,0000,0000,,{\move(2688, 448, -768, 448)}你十七♂张牌能把我秒♂了，我把这个电脑屏幕吃♂了
+Dialogue: 3,0:01:06.81,0:01:19.31,AcplayDefault,,0000,0000,0000,,{\move(2272, 512, -352, 512)\c&H02F1FE\3c&HFFFFFF}你化成马赛克我都认识你
+Dialogue: 3,0:01:06.88,0:01:15.21,AcplayDefault,,0000,0000,0000,,{\move(1984, 576, -64, 576)\c&H00FFFF}哲学
+Dialogue: 3,0:01:06.89,0:01:16.56,AcplayDefault,,0000,0000,0000,,{\move(2048, 640, -128, 640)}哈哈哈哈
+Dialogue: 3,0:01:06.98,0:01:10.98,AcplayDefault,,0000,0000,0000,,{\a6\pos(960, 65)\c&H02F1FE\3c&HFFFFFF}奥义♂很爽
+Dialogue: 3,0:01:07.40,0:01:20.40,AcplayDefault,,0000,0000,0000,,{\move(2368, 768, -448, 768)}boy next door♂
+Dialogue: 3,0:01:07.99,0:01:17.49,AcplayDefault,,0000,0000,0000,,{\move(2080, 832, -160, 832)}奥义♂很爽
+Dialogue: 3,0:01:08.09,0:01:17.59,AcplayDefault,,0000,0000,0000,,{\move(2080, 896, -160, 896)}那个男♂人
+Dialogue: 3,0:01:08.48,0:01:21.48,AcplayDefault,,0000,0000,0000,,{\move(3200, 64, -1280, 64)}自由自由自由自由自由自由自由自由自由自由自由自由自由自由自由自由自由自由自由自由
+Dialogue: 3,0:01:09.01,0:01:13.01,AcplayDefault,,0000,0000,0000,,{\a6\pos(960, 900)\c&H02F1FE\3c&HFFFFFF}自由自由自由自由自由自由自由自由♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂
+Dialogue: 3,0:01:09.23,0:01:18.23,AcplayDefault,,0000,0000,0000,,{\move(2016, 192, -96, 192)\c&H02F1FE\3c&HFFFFFF}wu～
+Dialogue: 3,0:01:10.07,0:01:19.73,AcplayDefault,,0000,0000,0000,,{\move(2048, 256, -128, 256)\c&H02F1FE\3c&HFFFFFF}焦迟但到
+Dialogue: 3,0:01:10.07,0:01:14.07,AcplayDefault,,0000,0000,0000,,{\a6\pos(960, 65)\c&H1200E7\3c&HFFFFFF}蕉迟但到
+Dialogue: 3,0:01:10.08,0:01:23.08,AcplayDefault,,0000,0000,0000,,{\move(2336, 384, -416, 384)}给van♂姨倒♂卡布♂奇诺
+Dialogue: 3,0:01:10.10,0:01:14.10,AcplayDefault,,0000,0000,0000,,{\a6\pos(960, 65)\c&H02F1FE\3c&HFFFFFF}奥义♂很爽
+Dialogue: 3,0:01:10.23,0:01:19.89,AcplayDefault,,0000,0000,0000,,{\move(2048, 512, -128, 512)}fa♂牌
+Dialogue: 3,0:01:10.41,0:01:23.41,AcplayDefault,,0000,0000,0000,,{\move(2336, 576, -416, 576)}快点儿吧 我等的花儿都泄了
+Dialogue: 3,0:01:10.88,0:01:14.88,AcplayDefault,,0000,0000,0000,,{\a6\pos(960, 65)\c&H02F1FE\3c&HFFFFFF}奥义♂很爽
+Dialogue: 3,0:01:10.91,0:01:20.91,AcplayDefault,,0000,0000,0000,,{\move(2112, 704, -192, 704)}斗地主♂组曲
+Dialogue: 3,0:01:11.14,0:01:19.47,AcplayDefault,,0000,0000,0000,,{\move(1984, 768, -64, 768)}自由
+Dialogue: 3,0:01:11.20,0:01:15.20,AcplayDefault,,0000,0000,0000,,{\a6\pos(960, 65)}化成马赛克我都认识
+Dialogue: 3,0:01:11.25,0:01:20.25,AcplayDefault,,0000,0000,0000,,{\move(2016, 896, -96, 896)}自由♂
+Dialogue: 3,0:01:11.42,0:01:15.42,AcplayDefault,,0000,0000,0000,,{\a6\pos(960, 65)\c&H02F1FE\3c&HFFFFFF}奥义♂很爽
+Dialogue: 3,0:01:11.50,0:01:21.16,AcplayDefault,,0000,0000,0000,,{\move(2048, 128, -128, 128)}玉音放送
+Dialogue: 3,0:01:11.51,0:01:20.51,AcplayDefault,,0000,0000,0000,,{\move(2016, 192, -96, 192)}他来了
+Dialogue: 3,0:01:11.51,0:01:21.01,AcplayDefault,,0000,0000,0000,,{\move(2080, 256, -160, 256)}这不自由。
+Dialogue: 3,0:01:11.79,0:01:24.79,AcplayDefault,,0000,0000,0000,,{\move(2592, 320, -672, 320)}出现了！那位大人也许会迟到但绝对不会缺席！
+Dialogue: 3,0:01:12.07,0:01:25.07,AcplayDefault,,0000,0000,0000,,{\move(2688, 384, -768, 384)}自由自由自由自由自由自由自由自由自由自由自由自在
+Dialogue: 3,0:01:12.15,0:01:21.81,AcplayDefault,,0000,0000,0000,,{\move(2048, 448, -128, 448)\c&HEAA000\3c&HFFFFFF}蕉迟但到
+Dialogue: 3,0:01:12.28,0:01:16.28,AcplayDefault,,0000,0000,0000,,{\a6\pos(960, 65)\c&H00FFFF}自由自由自由自由自由自由自由自由自由自由自由自由自由自由自由自由自由
+Dialogue: 3,0:01:12.60,0:01:25.60,AcplayDefault,,0000,0000,0000,,{\move(2432, 576, -512, 576)}可惜王已随风去加，天下弱子只识蕉
+Dialogue: 3,0:01:12.65,0:01:25.65,AcplayDefault,,0000,0000,0000,,{\move(3712, 640, -1792, 640)\c&H02F1FE\3c&HFFFFFF}自由自由自由自由自由自由自由自由自由自由自由自由自由自由自由自由自由自由自由自由自由自由自由自由自由自由自由自由
+Dialogue: 3,0:01:12.71,0:01:25.71,AcplayDefault,,0000,0000,0000,,{\move(3392, 704, -1472, 704)\c&H02F1FE\3c&HFFFFFF}自由自由自由自由自由自由自由自由自由自由自由自由自由自由自由自由自由自由自由自由自由自由自由
+Dialogue: 3,0:01:12.83,0:01:23.33,AcplayDefault,,0000,0000,0000,,{\move(2144, 768, -224, 768)}那个自由的男人
+Dialogue: 3,0:01:12.84,0:01:16.84,AcplayDefault,,0000,0000,0000,,{\a6\pos(960, 65)\c&H02F1FE\3c&HFFFFFF}自由自由自由自由自由自由自由
+Dialogue: 3,0:01:13.07,0:01:23.07,AcplayDefault,,0000,0000,0000,,{\move(2112, 896, -192, 896)}弱子只识蕉？
+Dialogue: 3,0:01:13.19,0:01:24.19,AcplayDefault,,0000,0000,0000,,{\move(2176, 64, -256, 64)}刻印在心里的舞姿
+Dialogue: 3,0:01:13.38,0:01:23.05,AcplayDefault,,0000,0000,0000,,{\move(2048, 128, -128, 128)}思妇劲敌
+Dialogue: 3,0:01:13.41,0:01:23.41,AcplayDefault,,0000,0000,0000,,{\move(2112, 192, -192, 192)\c&H1200E7\3c&HFFFFFF}空气逐渐蕉灼
+Dialogue: 3,0:01:13.49,0:01:23.99,AcplayDefault,,0000,0000,0000,,{\move(2144, 256, -224, 256)}那个男人出现了
+Dialogue: 3,0:01:13.53,0:01:21.86,AcplayDefault,,0000,0000,0000,,{\move(1984, 320, -64, 320)}自由
+Dialogue: 3,0:01:13.55,0:01:24.05,AcplayDefault,,0000,0000,0000,,{\move(2144, 384, -224, 384)}那个男人他来了
+Dialogue: 3,0:01:13.88,0:01:17.88,AcplayDefault,,0000,0000,0000,,{\a6\pos(960, 900)\c&H00FFFF}那个男人♂♂♂♂
+Dialogue: 3,0:01:14.07,0:01:23.07,AcplayDefault,,0000,0000,0000,,{\move(2016, 512, -96, 512)}他来了
+Dialogue: 3,0:01:14.34,0:01:24.84,AcplayDefault,,0000,0000,0000,,{\move(2144, 576, -224, 576)}哈哈哈哈哈哈哈
+Dialogue: 3,0:01:14.47,0:01:22.80,AcplayDefault,,0000,0000,0000,,{\move(1984, 640, -64, 640)}自由
+Dialogue: 3,0:01:14.59,0:01:24.26,AcplayDefault,,0000,0000,0000,,{\move(2048, 704, -128, 704)}这不字由
+Dialogue: 3,0:01:14.67,0:01:18.67,AcplayDefault,,0000,0000,0000,,{\a6\pos(960, 65)}向 前 走
+Dialogue: 3,0:01:14.75,0:01:27.75,AcplayDefault,,0000,0000,0000,,{\move(2336, 832, -416, 832)}我真的嗨到不行了啊jojo
+Dialogue: 3,0:01:14.96,0:01:24.62,AcplayDefault,,0000,0000,0000,,{\move(2048, 896, -128, 896)}蕉迟但到
+Dialogue: 3,0:01:15.27,0:01:26.77,AcplayDefault,,0000,0000,0000,,{\move(2208, 64, -288, 64)}door♂shit
+Dialogue: 3,0:01:15.68,0:01:25.18,AcplayDefault,,0000,0000,0000,,{\move(2080, 128, -160, 128)}向♂前♂转
+Dialogue: 3,0:01:15.96,0:01:28.96,AcplayDefault,,0000,0000,0000,,{\move(5120, 192, -3200, 192)\c&H00FFFF}自由自由自由自由自由自由自由自由自由自由自由自由自由自由自由自由自由自由自由自由自由自由自由自由自由自由自由自由自由自由自由自由自由自由自由自由自由自由自由自由自由自由自由自由自由自由自由自由自由自由
+Dialogue: 3,0:01:16.16,0:01:25.82,AcplayDefault,,0000,0000,0000,,{\move(2048, 256, -128, 256)}他♂来了
+Dialogue: 3,0:01:16.51,0:01:24.84,AcplayDefault,,0000,0000,0000,,{\move(1984, 320, -64, 320)}自由
+Dialogue: 3,0:01:16.71,0:01:26.71,AcplayDefault,,0000,0000,0000,,{\move(2112, 384, -192, 384)}漫长的2分钟
+Dialogue: 3,0:01:16.75,0:01:20.75,AcplayDefault,,0000,0000,0000,,{\a6\pos(960, 65)\c&H02F1FE\3c&HFFFFFF}自由自由自由自由自由自由自由自由自由自由自由自由自由自由自由自由自由自由自由
+Dialogue: 3,0:01:16.94,0:01:25.94,AcplayDefault,,0000,0000,0000,,{\move(2016, 512, -96, 512)}自由的
+Dialogue: 3,0:01:17.15,0:01:26.82,AcplayDefault,,0000,0000,0000,,{\move(2048, 576, -128, 576)}蕉迟但到
+Dialogue: 3,0:01:17.68,0:01:26.01,AcplayDefault,,0000,0000,0000,,{\move(1984, 640, -64, 640)\c&H02F1FE\3c&HFFFFFF}自由
+Dialogue: 3,0:01:18.11,0:01:22.11,AcplayDefault,,0000,0000,0000,,{\a6\pos(960, 65)\c&H02F1FE\3c&HFFFFFF}自由自由自由自由自由自由
+Dialogue: 3,0:01:18.17,0:01:27.67,AcplayDefault,,0000,0000,0000,,{\move(2080, 768, -160, 768)}洋葱皮香蕉
+Dialogue: 3,0:01:18.48,0:01:31.48,AcplayDefault,,0000,0000,0000,,{\move(2304, 832, -384, 832)}自言自语自言自语自言自语
+Dialogue: 3,0:01:18.64,0:01:27.64,AcplayDefault,,0000,0000,0000,,{\move(2016, 896, -96, 896)}太妙了
+Dialogue: 3,0:01:18.79,0:01:28.79,AcplayDefault,,0000,0000,0000,,{\move(2112, 64, -192, 64)}陈door仔
+Dialogue: 3,0:01:18.95,0:01:22.95,AcplayDefault,,0000,0000,0000,,{\a6\pos(960, 65)}动作刻在dna里了
+Dialogue: 3,0:01:19.00,0:01:27.33,AcplayDefault,,0000,0000,0000,,{\move(1984, 192, -64, 192)}自由
+Dialogue: 3,0:01:20.00,0:01:28.34,AcplayDefault,,0000,0000,0000,,{\move(1984, 256, -64, 256)}自由
+Dialogue: 3,0:01:20.53,0:01:30.20,AcplayDefault,,0000,0000,0000,,{\move(2048, 320, -128, 320)}自由美国
+Dialogue: 3,0:01:20.54,0:01:29.54,AcplayDefault,,0000,0000,0000,,{\move(2016, 384, -96, 384)}妙♂啊
+Dialogue: 3,0:01:20.60,0:01:33.60,AcplayDefault,,0000,0000,0000,,{\move(2528, 448, -608, 448)}♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂
+Dialogue: 3,0:01:20.68,0:01:30.68,AcplayDefault,,0000,0000,0000,,{\move(2112, 512, -192, 512)}飞机带香蕉！
+Dialogue: 3,0:01:20.76,0:01:30.43,AcplayDefault,,0000,0000,0000,,{\move(2048, 576, -128, 576)}自由的码
+Dialogue: 3,0:01:20.90,0:01:24.90,AcplayDefault,,0000,0000,0000,,{\a6\pos(960, 900)\c&H02F1FE\3c&HFFFFFF}金色传说
+Dialogue: 3,0:01:21.87,0:01:30.87,AcplayDefault,,0000,0000,0000,,{\move(2016, 704, -96, 704)}脸♂怼
+Dialogue: 3,0:01:22.16,0:01:26.16,AcplayDefault,,0000,0000,0000,,{\a6\pos(960, 65)\c&H00FFFF}自由
+Dialogue: 3,0:01:22.56,0:01:32.56,AcplayDefault,,0000,0000,0000,,{\move(2112, 832, -192, 832)}是哪位大人吗
+Dialogue: 3,0:01:23.02,0:01:33.02,AcplayDefault,,0000,0000,0000,,{\move(2112, 896, -192, 896)}模糊的自♂由
+Dialogue: 3,0:01:23.53,0:01:33.19,AcplayDefault,,0000,0000,0000,,{\move(2048, 64, -128, 64)\c&H02F1FE\3c&HFFFFFF}像素♂蕉
+Dialogue: 3,0:01:23.81,0:01:34.31,AcplayDefault,,0000,0000,0000,,{\move(2144, 128, -224, 128)}笑着笑着就哭了
+Dialogue: 3,0:01:24.04,0:01:32.37,AcplayDefault,,0000,0000,0000,,{\move(1984, 192, -64, 192)}啊♂
+Dialogue: 3,0:01:24.05,0:01:32.39,AcplayDefault,,0000,0000,0000,,{\move(1984, 256, -64, 256)}弱子
+Dialogue: 3,0:01:25.55,0:01:38.55,AcplayDefault,,0000,0000,0000,,{\move(4864, 320, -2944, 320)\c&H00FFFF}自由自由自由自由自由自由自由自由自由自由自由自由自由自由自由自由自由自由自由自由自由自由自由自由自由自由自由自由自由自由自由自由自由自由自由自由自由自由自由自由自由自由自由自由自由自由
+Dialogue: 3,0:01:25.84,0:01:38.84,AcplayDefault,,0000,0000,0000,,{\move(2336, 384, -416, 384)}变成一堆马赛克，我也能认出
+Dialogue: 3,0:01:26.17,0:01:35.17,AcplayDefault,,0000,0000,0000,,{\move(2016, 448, -96, 448)}名场面
+Dialogue: 3,0:01:26.79,0:01:36.46,AcplayDefault,,0000,0000,0000,,{\move(2048, 512, -128, 512)}蕉迟但到
+Dialogue: 3,0:01:27.40,0:01:36.40,AcplayDefault,,0000,0000,0000,,{\move(2016, 576, -96, 576)}自♂由
+Dialogue: 3,0:01:27.73,0:01:36.73,AcplayDefault,,0000,0000,0000,,{\move(2016, 640, -96, 640)}打♂牌
+Dialogue: 3,0:01:28.44,0:01:40.94,AcplayDefault,,0000,0000,0000,,{\move(2272, 704, -352, 704)}door♂deep♂主
+Dialogue: 3,0:01:28.56,0:01:41.56,AcplayDefault,,0000,0000,0000,,{\move(2688, 768, -768, 768)}♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂
+Dialogue: 3,0:01:29.92,0:01:33.92,AcplayDefault,,0000,0000,0000,,{\a6\pos(960, 900)\c&H02D3FF\3c&HFFFFFF}啊♂
+Dialogue: 3,0:01:30.01,0:01:40.01,AcplayDefault,,0000,0000,0000,,{\move(2112, 896, -192, 896)\c&H00FFFF}dark♂牌
+Dialogue: 3,0:01:30.46,0:01:43.46,AcplayDefault,,0000,0000,0000,,{\move(3968, 64, -2048, 64)}哒哒哒哒哒哒多多8多多多多多多多多多多多多多多多多多多多多多多多多多多多多多多多多多多多多多多多多多多多多多多多多多多多多多多多
+Dialogue: 3,0:01:30.91,0:01:40.58,AcplayDefault,,0000,0000,0000,,{\move(2048, 128, -128, 128)}献上膝盖
+Dialogue: 3,0:01:31.29,0:01:41.79,AcplayDefault,,0000,0000,0000,,{\move(2144, 192, -224, 192)}在我眼里是高清
+Dialogue: 3,0:01:32.20,0:01:41.70,AcplayDefault,,0000,0000,0000,,{\move(2080, 256, -160, 256)}van♂炸
+Dialogue: 3,0:01:32.29,0:01:41.29,AcplayDefault,,0000,0000,0000,,{\move(2016, 320, -96, 320)}哈哈哈
+Dialogue: 3,0:01:32.32,0:01:45.32,AcplayDefault,,0000,0000,0000,,{\move(2336, 384, -416, 384)}thank you sir
+Dialogue: 3,0:01:33.44,0:01:42.94,AcplayDefault,,0000,0000,0000,,{\move(2080, 448, -160, 448)}蕉♂兵必败
+Dialogue: 3,0:01:33.56,0:01:43.06,AcplayDefault,,0000,0000,0000,,{\move(2080, 512, -160, 512)}来了来了♂
+Dialogue: 3,0:01:33.75,0:01:46.25,AcplayDefault,,0000,0000,0000,,{\move(2272, 576, -352, 576)}啊♂ 3Q ♂ 色er
+Dialogue: 3,0:01:33.99,0:01:43.49,AcplayDefault,,0000,0000,0000,,{\move(2080, 640, -160, 640)}蕉♂兵必败
+Dialogue: 3,0:01:34.17,0:01:45.67,AcplayDefault,,0000,0000,0000,,{\move(2208, 704, -288, 704)}刻在DNA里的舞姿
+Dialogue: 3,0:01:34.17,0:01:38.17,AcplayDefault,,0000,0000,0000,,{\a6\pos(960, 1)\c&H00FFFF}蕉兵♂必败
+Dialogue: 3,0:01:35.28,0:01:43.62,AcplayDefault,,0000,0000,0000,,{\move(1984, 832, -64, 832)}啊♂
+Dialogue: 3,0:01:35.60,0:01:45.10,AcplayDefault,,0000,0000,0000,,{\move(2080, 896, -160, 896)\c&H02F1FE\3c&HFFFFFF}焦兵♂必败
+Dialogue: 3,0:01:35.64,0:01:44.64,AcplayDefault,,0000,0000,0000,,{\move(2016, 64, -96, 64)}faq
+Dialogue: 3,0:01:35.80,0:01:45.46,AcplayDefault,,0000,0000,0000,,{\move(2048, 128, -128, 128)}自由之影
+Dialogue: 3,0:01:36.17,0:01:45.84,AcplayDefault,,0000,0000,0000,,{\move(2048, 192, -128, 192)}蕉兵必败
+Dialogue: 3,0:01:37.20,0:01:41.20,AcplayDefault,,0000,0000,0000,,{\a6\pos(960, 65)\c&H02F1FE\3c&HFFFFFF}设了
+Dialogue: 3,0:01:37.75,0:01:47.75,AcplayDefault,,0000,0000,0000,,{\move(2112, 320, -192, 320)}这自由的身影
+Dialogue: 3,0:01:38.48,0:01:42.48,AcplayDefault,,0000,0000,0000,,{\a6\pos(960, 65)\c&H00FFFF}蕉♂兵必败
+Dialogue: 3,0:01:39.25,0:01:49.75,AcplayDefault,,0000,0000,0000,,{\move(2144, 448, -224, 448)}⚣⚢⚤⚦⚧⚨⚩
+Dialogue: 3,0:01:39.64,0:01:43.64,AcplayDefault,,0000,0000,0000,,{\a6\pos(960, 65)\c&H02F1FE\3c&HFFFFFF}蕉兵♂必败
+Dialogue: 3,0:01:39.65,0:01:50.65,AcplayDefault,,0000,0000,0000,,{\move(2176, 576, -256, 576)\c&H02F1FE\3c&HFFFFFF}焦♂兵♂必♂败♂
+Dialogue: 3,0:01:39.85,0:01:48.85,AcplayDefault,,0000,0000,0000,,{\move(2016, 640, -96, 640)}笑死了
+Dialogue: 3,0:01:40.15,0:01:44.15,AcplayDefault,,0000,0000,0000,,{\a6\pos(960, 65)\c&H00FFFF}蕉♂兵必败
+Dialogue: 3,0:01:40.21,0:01:53.21,AcplayDefault,,0000,0000,0000,,{\move(2656, 768, -736, 768)\c&H02F1FE\3c&HFFFFFF}door♂乐器，fa♂乐器，啊♂乐器，污♂乐器
+Dialogue: 3,0:01:40.26,0:01:51.76,AcplayDefault,,0000,0000,0000,,{\move(2208, 832, -288, 832)}刻在DNA里的身影
+Dialogue: 3,0:01:40.28,0:01:53.28,AcplayDefault,,0000,0000,0000,,{\move(2432, 896, -512, 896)}吔♂吔♂吔♂吔♂吔♂吔♂吔♂吔♂
+Dialogue: 3,0:01:40.35,0:01:49.85,AcplayDefault,,0000,0000,0000,,{\move(2080, 64, -160, 64)}蕉兵必败♂
+Dialogue: 3,0:01:41.40,0:01:51.07,AcplayDefault,,0000,0000,0000,,{\move(2048, 128, -128, 128)}哈哈哈哈
+Dialogue: 3,0:01:41.49,0:01:45.49,AcplayDefault,,0000,0000,0000,,{\a6\pos(960, 65)\c&H1200E7\3c&HFFFFFF}是什么令他失去了自由?
+Dialogue: 3,0:01:43.23,0:01:52.23,AcplayDefault,,0000,0000,0000,,{\move(2016, 256, -96, 256)\c&H00FFFF}自由！
+Dialogue: 3,0:01:45.35,0:01:54.35,AcplayDefault,,0000,0000,0000,,{\move(2016, 320, -96, 320)}开头见
+Dialogue: 3,0:01:45.93,0:01:49.93,AcplayDefault,,0000,0000,0000,,{\a6\pos(960, 1)\c&H1200E7\3c&HFFFFFF}thank you♂sir
+Dialogue: 3,0:01:46.16,0:01:50.16,AcplayDefault,,0000,0000,0000,,{\a6\pos(960, 65)}shit♂利
+Dialogue: 3,0:01:46.65,0:01:56.15,AcplayDefault,,0000,0000,0000,,{\move(2080, 512, -160, 512)}有无息人！
+Dialogue: 3,0:01:46.98,0:01:56.48,AcplayDefault,,0000,0000,0000,,{\move(2080, 576, -160, 576)}哈哈哈哈哈
+Dialogue: 3,0:01:48.87,0:01:58.87,AcplayDefault,,0000,0000,0000,,{\move(2112, 640, -192, 640)}四个二带俩鬼
