@@ -1,0 +1,92 @@
+﻿[Script Info]
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 1920
+PlayResY: 1080
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: AcplayDefault, Microsoft YaHei, 64, &H00FFFFFF, &H00FFFFFF, &H00000000, &H00000000, 0, 0, 0, 0, 100, 100, 0.00, 0.00, 1, 1, 0, 2, 20, 20, 20, 0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 3,0:00:00.00,0:00:04.00,AcplayDefault,,0000,0000,0000,,{\a6\pos(960, 1)\c&H02F1FE\3c&HFFFFFF}看到高雅标♂题我就笑了
+Dialogue: 3,0:00:00.45,0:00:04.45,AcplayDefault,,0000,0000,0000,,{\a6\pos(960, 65)\c&H02F1FE\3c&HFFFFFF}男儿裆♂自强
+Dialogue: 3,0:00:03.37,0:00:07.37,AcplayDefault,,0000,0000,0000,,{\a6\pos(960, 129)\c&H02F1FE\3c&HFFFFFF}♂儿裆自强
+Dialogue: 3,0:00:03.46,0:00:13.96,AcplayDefault,,0000,0000,0000,,{\move(2144, 256, -224, 256)}van儿裆自强
+Dialogue: 3,0:00:03.98,0:00:13.48,AcplayDefault,,0000,0000,0000,,{\move(2080, 320, -160, 320)}男饵当自强
+Dialogue: 3,0:00:05.79,0:00:15.46,AcplayDefault,,0000,0000,0000,,{\move(2048, 384, -128, 384)}旧活新整
+Dialogue: 3,0:00:07.05,0:00:15.39,AcplayDefault,,0000,0000,0000,,{\move(1984, 448, -64, 448)}水印
+Dialogue: 3,0:00:07.82,0:00:17.49,AcplayDefault,,0000,0000,0000,,{\move(2048, 512, -128, 512)}文艺复兴
+Dialogue: 3,0:00:08.04,0:00:17.70,AcplayDefault,,0000,0000,0000,,{\move(2048, 576, -128, 576)}封面好评
+Dialogue: 3,0:00:09.06,0:00:19.06,AcplayDefault,,0000,0000,0000,,{\move(2112, 640, -192, 640)}进去出不来了
+Dialogue: 3,0:00:09.12,0:00:18.62,AcplayDefault,,0000,0000,0000,,{\move(2080, 704, -160, 704)}男儿裆自强
+Dialogue: 3,0:00:09.49,0:00:19.15,AcplayDefault,,0000,0000,0000,,{\move(2048, 768, -128, 768)}祖传开头
+Dialogue: 3,0:00:10.69,0:00:23.69,AcplayDefault,,0000,0000,0000,,{\move(2912, 832, -992, 832)}是从新传了一遍吗？记得。之前看过 怎么昨天才发布？难道又被河蟹
+Dialogue: 3,0:00:10.78,0:00:23.78,AcplayDefault,,0000,0000,0000,,{\move(2752, 896, -832, 896)}？？？！！！！！！绝活绝活绝活绝活绝活绝活绝活绝活，
+Dialogue: 3,0:00:11.59,0:00:21.26,AcplayDefault,,0000,0000,0000,,{\move(2048, 64, -128, 64)}文艺复兴
+Dialogue: 3,0:00:14.02,0:00:23.69,AcplayDefault,,0000,0000,0000,,{\move(2048, 128, -128, 128)}文艺复兴
+Dialogue: 3,0:00:15.03,0:00:28.03,AcplayDefault,,0000,0000,0000,,{\move(2528, 192, -608, 192)}呱呱呱呱呱呱呱呱呱呱呱呱呱呱呱呱呱呱呱
+Dialogue: 3,0:00:15.62,0:00:28.62,AcplayDefault,,0000,0000,0000,,{\move(2368, 256, -448, 256)}..............
+Dialogue: 3,0:00:15.69,0:00:25.69,AcplayDefault,,0000,0000,0000,,{\move(2112, 320, -192, 320)}男儿♂裆自强
+Dialogue: 3,0:00:16.20,0:00:20.20,AcplayDefault,,0000,0000,0000,,{\a6\pos(960, 900)\c&H1200E7\3c&HFFFFFF}fffffffffffff
+Dialogue: 3,0:00:16.24,0:00:24.57,AcplayDefault,,0000,0000,0000,,{\move(1984, 448, -64, 448)}好听
+Dialogue: 3,0:00:16.27,0:00:26.27,AcplayDefault,,0000,0000,0000,,{\move(2112, 512, -192, 512)}男儿♂裆自强
+Dialogue: 3,0:00:16.48,0:00:26.98,AcplayDefault,,0000,0000,0000,,{\move(2144, 576, -224, 576)}离谱离谱离谱，
+Dialogue: 3,0:00:17.61,0:00:27.61,AcplayDefault,,0000,0000,0000,,{\move(2112, 640, -192, 640)}黄飞hole
+Dialogue: 3,0:00:17.67,0:00:27.33,AcplayDefault,,0000,0000,0000,,{\move(2048, 704, -128, 704)}？？？？
+Dialogue: 3,0:00:18.13,0:00:27.80,AcplayDefault,,0000,0000,0000,,{\move(2048, 768, -128, 768)}又来了？
+Dialogue: 3,0:00:18.78,0:00:27.78,AcplayDefault,,0000,0000,0000,,{\move(2016, 832, -96, 832)}男♂儿
+Dialogue: 3,0:00:18.89,0:00:29.39,AcplayDefault,,0000,0000,0000,,{\move(2144, 896, -224, 896)\c&H02F1FE\3c&HFFFFFF}男儿♂裆♂自强
+Dialogue: 3,0:00:19.24,0:00:29.74,AcplayDefault,,0000,0000,0000,,{\move(2144, 64, -224, 64)}ohhhhh~
+Dialogue: 3,0:00:19.38,0:00:29.38,AcplayDefault,,0000,0000,0000,,{\move(2112, 128, -192, 128)}1小时的大门
+Dialogue: 3,0:00:20.63,0:00:28.96,AcplayDefault,,0000,0000,0000,,{\move(1984, 192, -64, 192)}好活
+Dialogue: 3,0:00:22.76,0:00:32.26,AcplayDefault,,0000,0000,0000,,{\move(2080, 256, -160, 256)}F♂乐♂器
+Dialogue: 3,0:00:23.15,0:00:32.82,AcplayDefault,,0000,0000,0000,,{\move(2048, 320, -128, 320)}好活当赏
+Dialogue: 3,0:00:23.75,0:00:31.41,AcplayDefault,,0000,0000,0000,,{\move(1952, 384, -32, 384)}♂
+Dialogue: 3,0:00:24.59,0:00:34.26,AcplayDefault,,0000,0000,0000,,{\move(2048, 448, -128, 448)}李连♂杰
+Dialogue: 3,0:00:24.71,0:00:34.71,AcplayDefault,,0000,0000,0000,,{\move(2112, 512, -192, 512)}已经开始笑了
+Dialogue: 3,0:00:25.05,0:00:34.05,AcplayDefault,,0000,0000,0000,,{\move(2016, 576, -96, 576)}卡点了
+Dialogue: 3,0:00:25.53,0:00:29.53,AcplayDefault,,0000,0000,0000,,{\a6\pos(960, 1)\c&H02F1FE\3c&HFFFFFF}男儿裆♂自强
+Dialogue: 3,0:00:25.55,0:00:35.55,AcplayDefault,,0000,0000,0000,,{\move(2112, 704, -192, 704)}男儿裆♂自强
+Dialogue: 3,0:00:25.77,0:00:29.77,AcplayDefault,,0000,0000,0000,,{\a6\pos(960, 65)\c&H02F1FE\3c&HFFFFFF}黄♂飞鸿
+Dialogue: 3,0:00:26.22,0:00:36.72,AcplayDefault,,0000,0000,0000,,{\move(2144, 832, -224, 832)}男♂儿裆♂自强
+Dialogue: 3,0:00:27.15,0:00:36.82,AcplayDefault,,0000,0000,0000,,{\move(2048, 896, -128, 896)}燃起来了
+Dialogue: 3,0:00:27.26,0:00:39.76,AcplayDefault,,0000,0000,0000,,{\move(2272, 64, -352, 64)}男儿当自强 对镜贴花黄
+Dialogue: 3,0:00:27.50,0:00:36.50,AcplayDefault,,0000,0000,0000,,{\move(2016, 128, -96, 128)}Fa♂
+Dialogue: 3,0:00:28.34,0:00:32.34,AcplayDefault,,0000,0000,0000,,{\a6\pos(960, 129)\c&H1200E7\3c&HFFFFFF}男儿da♂rk自强
+Dialogue: 3,0:00:28.46,0:00:37.96,AcplayDefault,,0000,0000,0000,,{\move(2080, 256, -160, 256)}哲学永不灭
+Dialogue: 3,0:00:29.81,0:00:39.48,AcplayDefault,,0000,0000,0000,,{\move(2048, 320, -128, 320)}黄fa红
+Dialogue: 3,0:00:30.33,0:00:40.83,AcplayDefault,,0000,0000,0000,,{\move(2144, 384, -224, 384)}好好好好好好好
+Dialogue: 3,0:00:32.17,0:00:42.67,AcplayDefault,,0000,0000,0000,,{\move(2144, 448, -224, 448)}纳兰van♂述
+Dialogue: 3,0:00:33.08,0:00:42.75,AcplayDefault,,0000,0000,0000,,{\move(2048, 512, -128, 512)}文艺复兴
+Dialogue: 3,0:00:33.18,0:00:40.85,AcplayDefault,,0000,0000,0000,,{\move(1952, 576, -32, 576)}♂
+Dialogue: 3,0:00:35.21,0:00:44.88,AcplayDefault,,0000,0000,0000,,{\move(2048, 640, -128, 640)}xswl
+Dialogue: 3,0:00:43.15,0:00:56.15,AcplayDefault,,0000,0000,0000,,{\move(2368, 704, -448, 704)}这视频为什么是p的，不如原版
+Dialogue: 3,0:00:44.73,0:00:57.73,AcplayDefault,,0000,0000,0000,,{\move(2912, 768, -992, 768)}这还不如我也是个人才，你要是粉丝数量多一点，绝对是个百万up。
+Dialogue: 3,0:00:45.38,0:00:55.38,AcplayDefault,,0000,0000,0000,,{\move(2112, 832, -192, 832)\c&H02F1FE\3c&HFFFFFF}男儿裆♂自强
+Dialogue: 3,0:00:45.99,0:00:56.49,AcplayDefault,,0000,0000,0000,,{\move(2144, 896, -224, 896)}dark♂自强
+Dialogue: 3,0:00:48.34,0:00:57.84,AcplayDefault,,0000,0000,0000,,{\move(2080, 64, -160, 64)}元宵节快乐
+Dialogue: 3,0:00:48.46,0:01:00.46,AcplayDefault,,0000,0000,0000,,{\move(2240, 128, -320, 128)}shit♂van♂姨
+Dialogue: 3,0:00:48.59,0:00:59.59,AcplayDefault,,0000,0000,0000,,{\move(2176, 192, -256, 192)}Fa fa fa
+Dialogue: 3,0:00:50.89,0:01:00.39,AcplayDefault,,0000,0000,0000,,{\move(2080, 256, -160, 256)}调音很不错
+Dialogue: 3,0:00:51.29,0:00:55.29,AcplayDefault,,0000,0000,0000,,{\a6\pos(960, 1)\c&H02F1FE\3c&HFFFFFF}来♂！
+Dialogue: 3,0:00:55.13,0:00:59.13,AcplayDefault,,0000,0000,0000,,{\a6\pos(960, 65)\c&H02F1FE\3c&HFFFFFF}做个好兄♂贵，每天要自♂炒
+Dialogue: 3,0:00:58.02,0:01:06.36,AcplayDefault,,0000,0000,0000,,{\move(1984, 448, -64, 448)}啊♂
+Dialogue: 3,0:01:03.55,0:01:13.05,AcplayDefault,,0000,0000,0000,,{\move(2080, 512, -160, 512)}乖乖站♂好
+Dialogue: 3,0:01:03.75,0:01:12.75,AcplayDefault,,0000,0000,0000,,{\move(2016, 576, -96, 576)}击♂剑
+Dialogue: 3,0:01:13.03,0:01:22.53,AcplayDefault,,0000,0000,0000,,{\move(2080, 640, -160, 640)}鬼jio七
+Dialogue: 3,0:01:22.89,0:01:32.39,AcplayDefault,,0000,0000,0000,,{\move(2080, 704, -160, 704)}人体♂唢呐
+Dialogue: 3,0:01:24.47,0:01:32.80,AcplayDefault,,0000,0000,0000,,{\move(1984, 768, -64, 768)}啊♂
+Dialogue: 3,0:01:25.67,0:01:38.67,AcplayDefault,,0000,0000,0000,,{\move(2304, 832, -384, 832)}That's♂ good
+Dialogue: 3,0:01:32.19,0:01:41.86,AcplayDefault,,0000,0000,0000,,{\move(2048, 896, -128, 896)}kksk
+Dialogue: 3,0:01:33.71,0:01:43.21,AcplayDefault,,0000,0000,0000,,{\move(2080, 64, -160, 64)}妙啊啊啊吧
+Dialogue: 3,0:01:37.02,0:01:46.69,AcplayDefault,,0000,0000,0000,,{\move(2048, 128, -128, 128)}弟♂子规
+Dialogue: 3,0:02:09.79,0:02:19.46,AcplayDefault,,0000,0000,0000,,{\move(2048, 192, -128, 192)}赞美之心
+Dialogue: 3,0:02:18.08,0:02:28.08,AcplayDefault,,0000,0000,0000,,{\move(2112, 256, -192, 256)}姜dark卫
+Dialogue: 3,0:02:18.99,0:02:28.49,AcplayDefault,,0000,0000,0000,,{\move(2080, 320, -160, 320)}黄van鸿
+Dialogue: 3,0:02:26.63,0:02:36.30,AcplayDefault,,0000,0000,0000,,{\move(2048, 384, -128, 384)}黄fa鸿
+Dialogue: 3,0:02:33.42,0:02:37.42,AcplayDefault,,0000,0000,0000,,{\a6\pos(960, 1)\c&H00EEA0\3c&HFFFFFF}【西洋宣言】
+Dialogue: 3,0:02:43.77,0:02:53.77,AcplayDefault,,0000,0000,0000,,{\move(2112, 512, -192, 512)}啊啊啊啊啊啊
+Dialogue: 3,0:03:34.13,0:03:43.63,AcplayDefault,,0000,0000,0000,,{\move(2080, 576, -160, 576)}百万级调音
+Dialogue: 3,0:03:40.91,0:03:50.91,AcplayDefault,,0000,0000,0000,,{\move(2112, 640, -192, 640)}漫长的四分钟
