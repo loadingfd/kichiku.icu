@@ -1,0 +1,96 @@
+﻿[Script Info]
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 1920
+PlayResY: 1080
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: AcplayDefault, Microsoft YaHei, 64, &H00FFFFFF, &H00FFFFFF, &H00000000, &H00000000, 0, 0, 0, 0, 100, 100, 0.00, 0.00, 1, 1, 0, 2, 20, 20, 20, 0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 3,0:00:00.00,0:00:09.66,AcplayDefault,,0000,0000,0000,,{\move(2048, 64, -128, 64)\c&H1200E7\3c&HFFFFFF}标准开头
+Dialogue: 3,0:00:00.00,0:00:13.00,AcplayDefault,,0000,0000,0000,,{\move(2400, 128, -480, 128)\c&H02F1FE\3c&HFFFFFF}又一首被哲学驾驭的歌曲，哦耶♂
+Dialogue: 3,0:00:00.09,0:00:04.08,AcplayDefault,,0000,0000,0000,,{\a6\pos(960, 1)}标准开头
+Dialogue: 3,0:00:00.44,0:00:13.44,AcplayDefault,,0000,0000,0000,,{\move(2336, 256, -416, 256)\c&H439800\3c&HFFFFFF}Electro♂House
+Dialogue: 3,0:00:00.66,0:00:13.66,AcplayDefault,,0000,0000,0000,,{\move(2464, 320, -544, 320)}哈哈哈原作者PN就是一对哲学家组合
+Dialogue: 3,0:00:03.39,0:00:14.39,AcplayDefault,,0000,0000,0000,,{\move(2176, 384, -256, 384)}好家伙这首都有了
+Dialogue: 3,0:00:05.74,0:00:15.40,AcplayDefault,,0000,0000,0000,,{\move(2048, 448, -128, 448)}开幕核击
+Dialogue: 3,0:00:07.05,0:00:14.71,AcplayDefault,,0000,0000,0000,,{\move(1952, 512, -32, 512)}♂
+Dialogue: 3,0:00:08.07,0:00:17.73,AcplayDefault,,0000,0000,0000,,{\move(2048, 576, -128, 576)}还是来了
+Dialogue: 3,0:00:09.66,0:00:22.66,AcplayDefault,,0000,0000,0000,,{\move(2400, 640, -480, 640)\c&HEAA000\3c&HFFFFFF}Melodic♂dubstep
+Dialogue: 3,0:00:10.39,0:00:19.39,AcplayDefault,,0000,0000,0000,,{\move(2016, 704, -96, 704)}高产啊
+Dialogue: 3,0:00:10.63,0:00:18.97,AcplayDefault,,0000,0000,0000,,{\move(1984, 768, -64, 768)}泪目
+Dialogue: 3,0:00:11.72,0:00:24.72,AcplayDefault,,0000,0000,0000,,{\move(2432, 832, -512, 832)}那我大人总是能轻松的驾驭每一首歌
+Dialogue: 3,0:00:11.93,0:00:15.93,AcplayDefault,,0000,0000,0000,,{\a6\pos(960, 1)\c&H02F1FE\3c&HFFFFFF}液
+Dialogue: 3,0:00:13.55,0:00:23.55,AcplayDefault,,0000,0000,0000,,{\move(2112, 64, -192, 64)}准备好了吗！
+Dialogue: 3,0:00:13.64,0:00:21.98,AcplayDefault,,0000,0000,0000,,{\move(1984, 128, -64, 128)}夜色
+Dialogue: 3,0:00:13.83,0:00:21.50,AcplayDefault,,0000,0000,0000,,{\move(1952, 192, -32, 192)}♂
+Dialogue: 3,0:00:14.05,0:00:18.05,AcplayDefault,,0000,0000,0000,,{\a6\pos(960, 65)\c&H1200E7\3c&HFFFFFF}双厨狂喜
+Dialogue: 3,0:00:15.34,0:00:25.34,AcplayDefault,,0000,0000,0000,,{\move(2112, 320, -192, 320)}文♂艺复♂兴
+Dialogue: 3,0:00:18.33,0:00:26.00,AcplayDefault,,0000,0000,0000,,{\move(1952, 384, -32, 384)}燃
+Dialogue: 3,0:00:18.35,0:00:27.35,AcplayDefault,,0000,0000,0000,,{\move(2016, 448, -96, 448)}真不错
+Dialogue: 3,0:00:18.47,0:00:29.47,AcplayDefault,,0000,0000,0000,,{\move(2176, 512, -256, 512)}Well♂com
+Dialogue: 3,0:00:18.49,0:00:28.15,AcplayDefault,,0000,0000,0000,,{\move(2048, 576, -128, 576)}van♂
+Dialogue: 3,0:00:19.76,0:00:28.10,AcplayDefault,,0000,0000,0000,,{\move(1984, 640, -64, 640)}加油
+Dialogue: 3,0:00:20.14,0:00:28.47,AcplayDefault,,0000,0000,0000,,{\move(1984, 704, -64, 704)}充了
+Dialogue: 3,0:00:23.37,0:00:32.37,AcplayDefault,,0000,0000,0000,,{\move(2016, 768, -96, 768)}wu♂
+Dialogue: 3,0:00:23.67,0:00:33.17,AcplayDefault,,0000,0000,0000,,{\move(2080, 832, -160, 832)}good♂
+Dialogue: 3,0:00:27.31,0:00:34.98,AcplayDefault,,0000,0000,0000,,{\move(1952, 896, -32, 896)}♂
+Dialogue: 3,0:00:27.49,0:00:36.99,AcplayDefault,,0000,0000,0000,,{\move(2080, 64, -160, 64)}yeah♂
+Dialogue: 3,0:00:29.95,0:00:42.95,AcplayDefault,,0000,0000,0000,,{\move(2368, 128, -448, 128)\c&H02F1FE\3c&HFFFFFF}ass ♂ we ♂ can
+Dialogue: 3,0:00:30.94,0:00:38.61,AcplayDefault,,0000,0000,0000,,{\move(1952, 192, -32, 192)}♂
+Dialogue: 3,0:00:31.31,0:00:40.31,AcplayDefault,,0000,0000,0000,,{\move(2016, 256, -96, 256)}比博燃
+Dialogue: 3,0:00:32.61,0:00:42.28,AcplayDefault,,0000,0000,0000,,{\move(2048, 320, -128, 320)}蒙古牛奶
+Dialogue: 3,0:00:32.64,0:00:40.97,AcplayDefault,,0000,0000,0000,,{\move(1984, 384, -64, 384)}洞大
+Dialogue: 3,0:00:32.86,0:00:42.53,AcplayDefault,,0000,0000,0000,,{\move(2048, 448, -128, 448)}火钳刘明
+Dialogue: 3,0:00:33.09,0:00:37.09,AcplayDefault,,0000,0000,0000,,{\a6\pos(960, 1)\c&H1200E7\3c&HFFFFFF}那个大人回来吗
+Dialogue: 3,0:00:33.46,0:00:42.46,AcplayDefault,,0000,0000,0000,,{\move(2016, 576, -96, 576)}fa♂
+Dialogue: 3,0:00:35.07,0:00:44.74,AcplayDefault,,0000,0000,0000,,{\move(2048, 640, -128, 640)}nice
+Dialogue: 3,0:00:36.26,0:00:43.93,AcplayDefault,,0000,0000,0000,,{\move(1952, 704, -32, 704)}♂
+Dialogue: 3,0:00:38.32,0:00:47.32,AcplayDefault,,0000,0000,0000,,{\move(2016, 768, -96, 768)}♂自由
+Dialogue: 3,0:00:41.70,0:00:51.37,AcplayDefault,,0000,0000,0000,,{\move(2048, 832, -128, 832)}fafa
+Dialogue: 3,0:00:44.55,0:00:54.22,AcplayDefault,,0000,0000,0000,,{\move(2048, 896, -128, 896)}蒙古牛奶
+Dialogue: 3,0:00:45.58,0:00:55.25,AcplayDefault,,0000,0000,0000,,{\move(2048, 64, -128, 64)}van♂
+Dialogue: 3,0:00:46.35,0:00:54.68,AcplayDefault,,0000,0000,0000,,{\move(1984, 128, -64, 128)\c&H02F1FE\3c&HFFFFFF}嗯♂
+Dialogue: 3,0:00:48.04,0:00:57.54,AcplayDefault,,0000,0000,0000,,{\move(2080, 192, -160, 192)}人体♂唢呐
+Dialogue: 3,0:00:48.70,0:00:56.36,AcplayDefault,,0000,0000,0000,,{\move(1952, 256, -32, 256)}♂
+Dialogue: 3,0:00:49.67,0:00:59.33,AcplayDefault,,0000,0000,0000,,{\move(2048, 320, -128, 320)\c&H02F1FE\3c&HFFFFFF}哦♂啊啊
+Dialogue: 3,0:00:49.98,0:00:59.48,AcplayDefault,,0000,0000,0000,,{\move(2080, 384, -160, 384)}黑暗♂圣经
+Dialogue: 3,0:00:50.75,0:01:00.25,AcplayDefault,,0000,0000,0000,,{\move(2080, 448, -160, 448)} 蒙古牛奶
+Dialogue: 3,0:00:52.53,0:01:00.19,AcplayDefault,,0000,0000,0000,,{\move(1952, 512, -32, 512)}♂
+Dialogue: 3,0:00:54.93,0:01:03.93,AcplayDefault,,0000,0000,0000,,{\move(2016, 576, -96, 576)}F♂q
+Dialogue: 3,0:00:56.54,0:01:00.54,AcplayDefault,,0000,0000,0000,,{\a6\pos(960, 1)\c&H02F1FE\3c&HFFFFFF} The deep dark fantasy
+Dialogue: 3,0:00:56.54,0:01:07.54,AcplayDefault,,0000,0000,0000,,{\move(2176, 704, -256, 704)}来♂摔♂跤 啊～
+Dialogue: 3,0:00:57.15,0:01:06.82,AcplayDefault,,0000,0000,0000,,{\move(2048, 768, -128, 768)}蒙古牛奶
+Dialogue: 3,0:00:57.37,0:01:06.37,AcplayDefault,,0000,0000,0000,,{\move(2016, 832, -96, 832)}洞子大
+Dialogue: 3,0:00:57.42,0:01:10.42,AcplayDefault,,0000,0000,0000,,{\move(2592, 896, -672, 896)}♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂
+Dialogue: 3,0:00:58.65,0:01:07.65,AcplayDefault,,0000,0000,0000,,{\move(2016, 64, -96, 64)\c&H1200E7\3c&HFFFFFF}要来了
+Dialogue: 3,0:00:58.67,0:01:07.00,AcplayDefault,,0000,0000,0000,,{\move(1984, 128, -64, 128)\c&H02F1FE\3c&HFFFFFF}嗯♂
+Dialogue: 3,0:00:58.89,0:01:10.39,AcplayDefault,,0000,0000,0000,,{\move(2208, 192, -288, 192)}build up~
+Dialogue: 3,0:00:58.90,0:01:06.57,AcplayDefault,,0000,0000,0000,,{\move(1952, 256, -32, 256)\c&H02F1FE\3c&HFFFFFF}♂
+Dialogue: 3,0:01:01.10,0:01:08.77,AcplayDefault,,0000,0000,0000,,{\move(1952, 320, -32, 320)}.
+Dialogue: 3,0:01:02.13,0:01:06.13,AcplayDefault,,0000,0000,0000,,{\a6\pos(960, 900)\c&H02F1FE\3c&HFFFFFF}我回来了♂
+Dialogue: 3,0:01:02.29,0:01:06.29,AcplayDefault,,0000,0000,0000,,{\a6\pos(960, 1)\c&H1200E7\3c&HFFFFFF}酸♂萝卜找♂钱
+Dialogue: 3,0:01:03.60,0:01:07.60,AcplayDefault,,0000,0000,0000,,{\a6\pos(960, 65)\c&H02F1FE\3c&HFFFFFF}ohhhhhhhhhhhhhhhhhhhhhhhhhhhhh
+Dialogue: 3,0:01:03.67,0:01:07.67,AcplayDefault,,0000,0000,0000,,{\a6\pos(960, 129)\c&H02F1FE\3c&HFFFFFF}ohhhhhhhhhhhhhhhhhhhhhhhhh
+Dialogue: 3,0:01:03.68,0:01:07.68,AcplayDefault,,0000,0000,0000,,{\a6\pos(960, 193)\c&H02F1FE\3c&HFFFFFF}张♂骞
+Dialogue: 3,0:01:04.28,0:01:08.28,AcplayDefault,,0000,0000,0000,,{\a6\pos(960, 257)\c&H02F1FE\3c&HFFFFFF}来♂
+Dialogue: 3,0:01:08.96,0:01:18.46,AcplayDefault,,0000,0000,0000,,{\move(2080, 768, -160, 768)\c&H02F1FE\3c&HFFFFFF}暗黑♂吟唱
+Dialogue: 3,0:01:09.37,0:01:18.37,AcplayDefault,,0000,0000,0000,,{\move(2016, 832, -96, 832)}裆♂真
+Dialogue: 3,0:01:10.07,0:01:23.07,AcplayDefault,,0000,0000,0000,,{\move(2368, 896, -448, 896)}ohhhhhhhhhhhhh
+Dialogue: 3,0:01:10.10,0:01:19.60,AcplayDefault,,0000,0000,0000,,{\move(2080, 64, -160, 64)}drop!
+Dialogue: 3,0:01:12.50,0:01:22.17,AcplayDefault,,0000,0000,0000,,{\move(2048, 128, -128, 128)}赞美の心
+Dialogue: 3,0:01:14.89,0:01:23.22,AcplayDefault,,0000,0000,0000,,{\move(1984, 192, -64, 192)}啊♂
+Dialogue: 3,0:01:18.70,0:01:28.37,AcplayDefault,,0000,0000,0000,,{\move(2048, 256, -128, 256)}不用泄♂
+Dialogue: 3,0:01:19.07,0:01:30.57,AcplayDefault,,0000,0000,0000,,{\move(2208, 320, -288, 320)}that♂good
+Dialogue: 3,0:01:20.87,0:01:29.20,AcplayDefault,,0000,0000,0000,,{\move(1984, 384, -64, 384)}泄泄
+Dialogue: 3,0:01:22.90,0:01:35.40,AcplayDefault,,0000,0000,0000,,{\move(2272, 448, -352, 448)\c&H02F1FE\3c&HFFFFFF\fs57}that good ♂
+Dialogue: 3,0:01:26.98,0:01:35.98,AcplayDefault,,0000,0000,0000,,{\move(2016, 512, -96, 512)}液♂射
+Dialogue: 3,0:01:31.27,0:01:35.27,AcplayDefault,,0000,0000,0000,,{\a6\pos(960, 900)\c&H02F1FE\3c&HFFFFFF}来♂
+Dialogue: 3,0:01:32.50,0:01:40.83,AcplayDefault,,0000,0000,0000,,{\move(1984, 640, -64, 640)\c&H02F1FE\3c&HFFFFFF}嗯♂
+Dialogue: 3,0:01:47.92,0:01:59.92,AcplayDefault,,0000,0000,0000,,{\move(2240, 704, -320, 704)}哦♂哦♂哦♂哦♂哦♂
+Dialogue: 3,0:01:49.67,0:01:59.17,AcplayDefault,,0000,0000,0000,,{\move(2080, 768, -160, 768)}酸萝卜别吃
+Dialogue: 3,0:01:51.15,0:01:58.82,AcplayDefault,,0000,0000,0000,,{\move(1952, 832, -32, 832)}来
+Dialogue: 3,0:01:56.75,0:02:05.08,AcplayDefault,,0000,0000,0000,,{\move(1984, 896, -64, 896)}夜色

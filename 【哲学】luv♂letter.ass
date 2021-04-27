@@ -1,0 +1,59 @@
+﻿[Script Info]
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 1920
+PlayResY: 1080
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: AcplayDefault, Microsoft YaHei, 64, &H00FFFFFF, &H00FFFFFF, &H00000000, &H00000000, 0, 0, 0, 0, 100, 100, 0.00, 0.00, 1, 1, 0, 2, 20, 20, 20, 0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 3,0:00:00.76,0:00:04.76,AcplayDefault,,0000,0000,0000,,{\a6\pos(960, 1)\c&H1200E7\3c&HFFFFFF}燃烧开头
+Dialogue: 3,0:00:03.79,0:00:13.46,AcplayDefault,,0000,0000,0000,,{\move(2048, 128, -128, 128)}火焰开头
+Dialogue: 3,0:00:08.49,0:00:17.99,AcplayDefault,,0000,0000,0000,,{\move(2080, 192, -160, 192)}最喜欢的歌
+Dialogue: 3,0:00:10.67,0:00:19.00,AcplayDefault,,0000,0000,0000,,{\move(1984, 256, -64, 256)}离谱
+Dialogue: 3,0:00:14.59,0:00:22.93,AcplayDefault,,0000,0000,0000,,{\move(1984, 320, -64, 320)}泪目
+Dialogue: 3,0:00:14.63,0:00:22.96,AcplayDefault,,0000,0000,0000,,{\move(1984, 384, -64, 384)}泪目
+Dialogue: 3,0:00:14.88,0:00:23.88,AcplayDefault,,0000,0000,0000,,{\move(2016, 448, -96, 448)}开口跪
+Dialogue: 3,0:00:15.42,0:00:23.09,AcplayDefault,,0000,0000,0000,,{\move(1952, 512, -32, 512)\c&H02F1FE\3c&HFFFFFF}♂
+Dialogue: 3,0:00:17.44,0:00:27.10,AcplayDefault,,0000,0000,0000,,{\move(2048, 576, -128, 576)}梦幻联动
+Dialogue: 3,0:00:18.62,0:00:26.95,AcplayDefault,,0000,0000,0000,,{\move(1984, 640, -64, 640)}蕾姆
+Dialogue: 3,0:00:19.28,0:00:23.28,AcplayDefault,,0000,0000,0000,,{\a6\pos(960, 1)}液♂
+Dialogue: 3,0:00:19.87,0:00:29.54,AcplayDefault,,0000,0000,0000,,{\move(2048, 768, -128, 768)}火钳刘明
+Dialogue: 3,0:00:21.06,0:00:30.56,AcplayDefault,,0000,0000,0000,,{\move(2080, 832, -160, 832)}door♂
+Dialogue: 3,0:00:21.15,0:00:25.15,AcplayDefault,,0000,0000,0000,,{\a6\pos(960, 65)}♂♂♂♂♂
+Dialogue: 3,0:00:21.24,0:00:28.91,AcplayDefault,,0000,0000,0000,,{\move(1952, 64, -32, 64)\c&H02F1FE\3c&HFFFFFF}♂
+Dialogue: 3,0:00:21.41,0:00:29.08,AcplayDefault,,0000,0000,0000,,{\move(1952, 128, -32, 128)}♂
+Dialogue: 3,0:00:23.52,0:00:32.52,AcplayDefault,,0000,0000,0000,,{\move(2016, 192, -96, 192)}自由♂
+Dialogue: 3,0:00:25.27,0:00:34.27,AcplayDefault,,0000,0000,0000,,{\move(2016, 256, -96, 256)}情♂书
+Dialogue: 3,0:00:25.73,0:00:34.07,AcplayDefault,,0000,0000,0000,,{\move(1984, 320, -64, 320)\c&HEAA000\3c&HFFFFFF}泪目
+Dialogue: 3,0:00:27.82,0:00:36.15,AcplayDefault,,0000,0000,0000,,{\move(1984, 384, -64, 384)}好听
+Dialogue: 3,0:00:28.27,0:00:35.93,AcplayDefault,,0000,0000,0000,,{\move(1952, 448, -32, 448)}♂
+Dialogue: 3,0:00:28.60,0:00:32.60,AcplayDefault,,0000,0000,0000,,{\a6\pos(960, 1)}啊♂泄
+Dialogue: 3,0:00:29.93,0:00:39.60,AcplayDefault,,0000,0000,0000,,{\move(2048, 576, -128, 576)}双厨狂喜
+Dialogue: 3,0:00:30.15,0:00:34.15,AcplayDefault,,0000,0000,0000,,{\a6\pos(960, 65)\c&H7B3A68\3c&HFFFFFF}♂
+Dialogue: 3,0:00:30.82,0:00:38.49,AcplayDefault,,0000,0000,0000,,{\move(1952, 704, -32, 704)}♂
+Dialogue: 3,0:00:31.59,0:00:44.59,AcplayDefault,,0000,0000,0000,,{\move(5088, 768, -3168, 768)\c&H7F02E2\3c&HFFFFFF}▄▅▆▇█▇▆▅▄▄▅▆▇█▇▆▅▄▄▅▆▇█▇▆▅▄▄▅▆▇█▇▆▅▄▄▅▆▇█▇▆▅▄▄▅▆▇█▇▆▅▄▄▅▆▇█▇▆▅▄▄▅▆▇█▇▆▅▄▄▅▆▇█▇▆▅▄▄▅▆▇█▇▆▅▄▄▅▆▇█▇▆▅▄
+Dialogue: 3,0:00:31.71,0:00:40.05,AcplayDefault,,0000,0000,0000,,{\move(1984, 832, -64, 832)}泪目
+Dialogue: 3,0:00:32.60,0:00:40.27,AcplayDefault,,0000,0000,0000,,{\move(1952, 896, -32, 896)}♂
+Dialogue: 3,0:00:33.10,0:00:37.10,AcplayDefault,,0000,0000,0000,,{\a6\pos(960, 65)}thank  you♂sir
+Dialogue: 3,0:00:33.63,0:00:41.96,AcplayDefault,,0000,0000,0000,,{\move(1984, 128, -64, 128)}泪目
+Dialogue: 3,0:00:36.11,0:00:44.44,AcplayDefault,,0000,0000,0000,,{\move(1984, 192, -64, 192)}泪目
+Dialogue: 3,0:00:36.71,0:00:45.04,AcplayDefault,,0000,0000,0000,,{\move(1984, 256, -64, 256)}泪目
+Dialogue: 3,0:00:37.58,0:00:45.24,AcplayDefault,,0000,0000,0000,,{\move(1952, 320, -32, 320)}♂
+Dialogue: 3,0:00:38.59,0:00:46.26,AcplayDefault,,0000,0000,0000,,{\move(1952, 384, -32, 384)\c&H02F1FE\3c&HFFFFFF}♂
+Dialogue: 3,0:00:43.64,0:00:51.97,AcplayDefault,,0000,0000,0000,,{\move(1984, 448, -64, 448)}嗯～
+Dialogue: 3,0:00:45.79,0:00:54.12,AcplayDefault,,0000,0000,0000,,{\move(1984, 512, -64, 512)}泪目
+Dialogue: 3,0:00:46.51,0:00:56.01,AcplayDefault,,0000,0000,0000,,{\move(2080, 576, -160, 576)}d♂d♂f
+Dialogue: 3,0:00:53.88,0:01:03.55,AcplayDefault,,0000,0000,0000,,{\move(2048, 640, -128, 640)}燃起来了
+Dialogue: 3,0:00:54.22,0:00:58.22,AcplayDefault,,0000,0000,0000,,{\a6\pos(960, 1)}泪目
+Dialogue: 3,0:01:01.87,0:01:05.87,AcplayDefault,,0000,0000,0000,,{\a6\pos(960, 1)}Fa♂q  leather man
+Dialogue: 3,0:01:04.66,0:01:16.16,AcplayDefault,,0000,0000,0000,,{\move(2208, 832, -288, 832)}听着听着泪落了下来
+Dialogue: 3,0:01:05.32,0:01:14.98,AcplayDefault,,0000,0000,0000,,{\move(2048, 896, -128, 896)}好活无人
+Dialogue: 3,0:01:06.71,0:01:10.71,AcplayDefault,,0000,0000,0000,,{\a6\pos(960, 1)}去年勃♂起至今
+Dialogue: 3,0:01:14.02,0:01:23.68,AcplayDefault,,0000,0000,0000,,{\move(2048, 128, -128, 128)\c&H02F1FE\3c&HFFFFFF}好看不火
+Dialogue: 3,0:01:16.56,0:01:20.56,AcplayDefault,,0000,0000,0000,,{\a6\pos(960, 1)}Take♂boy
+Dialogue: 3,0:01:27.96,0:01:36.30,AcplayDefault,,0000,0000,0000,,{\move(1984, 256, -64, 256)\c&H7F02E2\3c&HFFFFFF}泪目
+Dialogue: 3,0:01:40.00,0:01:51.00,AcplayDefault,,0000,0000,0000,,{\move(2176, 320, -256, 320)}这就完了，不过瘾
