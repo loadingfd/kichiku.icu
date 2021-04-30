@@ -1,0 +1,22 @@
+﻿[Script Info]
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 1920
+PlayResY: 1080
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: AcplayDefault, Microsoft YaHei, 64, &H00FFFFFF, &H00FFFFFF, &H00000000, &H00000000, 0, 0, 0, 0, 100, 100, 0.00, 0.00, 1, 1, 0, 2, 20, 20, 20, 0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 3,0:00:02.06,0:00:11.73,AcplayDefault,,0000,0000,0000,,{\move(2048, 64, -128, 64)}？？？？
+Dialogue: 3,0:00:02.06,0:00:11.73,AcplayDefault,,0000,0000,0000,,{\move(2048, 128, -128, 128)}。。。。
+Dialogue: 3,0:00:06.32,0:00:15.82,AcplayDefault,,0000,0000,0000,,{\move(2080, 192, -160, 192)}文艺♂复兴
+Dialogue: 3,0:00:10.91,0:00:20.58,AcplayDefault,,0000,0000,0000,,{\move(2048, 256, -128, 256)}啊啊啊啊
+Dialogue: 3,0:00:12.69,0:00:21.69,AcplayDefault,,0000,0000,0000,,{\move(2016, 320, -96, 320)}草草草
+Dialogue: 3,0:00:17.27,0:00:30.27,AcplayDefault,,0000,0000,0000,,{\move(2304, 384, -384, 384)}ohhhhhhhhhhh
+Dialogue: 3,0:00:17.35,0:00:27.01,AcplayDefault,,0000,0000,0000,,{\move(2048, 448, -128, 448)}来了来了
+Dialogue: 3,0:00:21.22,0:00:30.72,AcplayDefault,,0000,0000,0000,,{\move(2080, 512, -160, 512)}这么暴力吗
+Dialogue: 3,0:00:22.19,0:00:26.19,AcplayDefault,,0000,0000,0000,,{\a6\pos(960, 1)\c&H02F1FE\3c&HFFFFFF}一 睹 真 容
+Dialogue: 3,0:00:25.79,0:00:34.12,AcplayDefault,,0000,0000,0000,,{\move(1984, 640, -64, 640)}自由
