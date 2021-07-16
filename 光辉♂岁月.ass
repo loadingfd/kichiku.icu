@@ -1,0 +1,56 @@
+﻿[Script Info]
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 1920
+PlayResY: 1080
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: AcplayDefault, Microsoft YaHei, 64, &H00FFFFFF, &H00FFFFFF, &H00000000, &H00000000, 0, 0, 0, 0, 100, 100, 0.00, 0.00, 1, 1, 0, 2, 20, 20, 20, 0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 3,0:00:01.91,0:00:12.41,AcplayDefault,,0000,0000,0000,,{\move(2144, 64, -224, 64)}标♂准♂开♂头
+Dialogue: 3,0:00:03.11,0:00:07.11,AcplayDefault,,0000,0000,0000,,{\a6\pos(960, 1)\c&H1200E7\3c&HFFFFFF}精♂典
+Dialogue: 3,0:00:05.35,0:00:15.35,AcplayDefault,,0000,0000,0000,,{\move(2112, 192, -192, 192)}两分钟！！！
+Dialogue: 3,0:00:05.95,0:00:14.94,AcplayDefault,,0000,0000,0000,,{\move(2016, 256, -96, 256)}妙啊～
+Dialogue: 3,0:00:07.23,0:00:16.89,AcplayDefault,,0000,0000,0000,,{\move(2048, 320, -128, 320)}开幕雷击
+Dialogue: 3,0:00:08.04,0:00:16.38,AcplayDefault,,0000,0000,0000,,{\move(1984, 384, -64, 384)}好听
+Dialogue: 3,0:00:08.72,0:00:21.72,AcplayDefault,,0000,0000,0000,,{\move(2336, 448, -416, 448)}南fa♂总统曼door♂拉
+Dialogue: 3,0:00:10.42,0:00:21.42,AcplayDefault,,0000,0000,0000,,{\move(2176, 512, -256, 512)}听到前奏就投币了
+Dialogue: 3,0:00:10.70,0:00:19.03,AcplayDefault,,0000,0000,0000,,{\move(1984, 576, -64, 576)}泪目
+Dialogue: 3,0:00:10.83,0:00:20.83,AcplayDefault,,0000,0000,0000,,{\move(2112, 640, -192, 640)}24分，烫嘴
+Dialogue: 3,0:00:11.87,0:00:21.54,AcplayDefault,,0000,0000,0000,,{\move(2048, 704, -128, 704)}十九分钟
+Dialogue: 3,0:00:16.23,0:00:26.73,AcplayDefault,,0000,0000,0000,,{\move(2144, 768, -224, 768)}Boy♂ond
+Dialogue: 3,0:00:16.62,0:00:24.96,AcplayDefault,,0000,0000,0000,,{\move(1984, 832, -64, 832)}泪目
+Dialogue: 3,0:00:17.33,0:00:25.67,AcplayDefault,,0000,0000,0000,,{\move(1984, 896, -64, 896)}泪目
+Dialogue: 3,0:00:17.70,0:00:26.04,AcplayDefault,,0000,0000,0000,,{\move(1984, 64, -64, 64)}泪目
+Dialogue: 3,0:00:35.59,0:00:46.09,AcplayDefault,,0000,0000,0000,,{\move(2144, 128, -224, 128)}曼door♂拉
+Dialogue: 3,0:00:39.15,0:00:48.82,AcplayDefault,,0000,0000,0000,,{\move(2048, 192, -128, 192)}黄蕉驹♂
+Dialogue: 3,0:00:41.47,0:00:49.80,AcplayDefault,,0000,0000,0000,,{\move(1984, 256, -64, 256)}泪目
+Dialogue: 3,0:00:43.32,0:00:54.32,AcplayDefault,,0000,0000,0000,,{\move(2176, 320, -256, 320)}有点强行男♂魂了
+Dialogue: 3,0:00:48.01,0:00:57.01,AcplayDefault,,0000,0000,0000,,{\move(2016, 384, -96, 384)}曼德蕉
+Dialogue: 3,0:00:49.84,0:00:58.18,AcplayDefault,,0000,0000,0000,,{\move(1984, 448, -64, 448)}泪目
+Dialogue: 3,0:00:52.88,0:01:02.38,AcplayDefault,,0000,0000,0000,,{\move(2080, 512, -160, 512)}肤♂色笑尿
+Dialogue: 3,0:00:55.37,0:01:04.87,AcplayDefault,,0000,0000,0000,,{\move(2080, 576, -160, 576)}哈哈哈哈哈
+Dialogue: 3,0:01:00.49,0:01:09.99,AcplayDefault,,0000,0000,0000,,{\move(2080, 640, -160, 640)}佛sh1t
+Dialogue: 3,0:01:13.99,0:01:22.32,AcplayDefault,,0000,0000,0000,,{\move(1984, 704, -64, 704)}泪目
+Dialogue: 3,0:01:15.43,0:01:26.93,AcplayDefault,,0000,0000,0000,,{\move(2208, 768, -288, 768)\c&H1200E7\3c&HFFFFFF}风雨中爆♂干基♂友
+Dialogue: 3,0:01:15.43,0:01:26.93,AcplayDefault,,0000,0000,0000,,{\move(2208, 832, -288, 832)}风雨中爆♂干基♂友
+Dialogue: 3,0:01:16.00,0:01:24.34,AcplayDefault,,0000,0000,0000,,{\move(1984, 896, -64, 896)}泪目
+Dialogue: 3,0:01:21.18,0:01:29.51,AcplayDefault,,0000,0000,0000,,{\move(1984, 64, -64, 64)}哈哈
+Dialogue: 3,0:01:34.01,0:01:43.68,AcplayDefault,,0000,0000,0000,,{\move(2048, 128, -128, 128)}赞许の心
+Dialogue: 3,0:01:34.09,0:01:43.59,AcplayDefault,,0000,0000,0000,,{\move(2080, 192, -160, 192)}黄♂贯♂中
+Dialogue: 3,0:01:37.17,0:01:46.83,AcplayDefault,,0000,0000,0000,,{\move(2048, 256, -128, 256)}太好听了
+Dialogue: 3,0:01:39.99,0:01:49.49,AcplayDefault,,0000,0000,0000,,{\move(2080, 320, -160, 320)}赞美♂之心
+Dialogue: 3,0:02:10.28,0:02:18.61,AcplayDefault,,0000,0000,0000,,{\move(1984, 384, -64, 384)}王！
+Dialogue: 3,0:02:10.57,0:02:20.24,AcplayDefault,,0000,0000,0000,,{\move(2048, 448, -128, 448)}王之演讲
+Dialogue: 3,0:02:10.61,0:02:18.28,AcplayDefault,,0000,0000,0000,,{\move(1952, 512, -32, 512)}王
+Dialogue: 3,0:02:10.81,0:02:21.31,AcplayDefault,,0000,0000,0000,,{\move(2144, 576, -224, 576)}王♂你还好么？
+Dialogue: 3,0:02:11.66,0:02:20.00,AcplayDefault,,0000,0000,0000,,{\move(1984, 640, -64, 640)}泪目
+Dialogue: 3,0:02:12.22,0:02:20.55,AcplayDefault,,0000,0000,0000,,{\move(1984, 704, -64, 704)}泪目
+Dialogue: 3,0:02:14.89,0:02:24.89,AcplayDefault,,0000,0000,0000,,{\move(2112, 768, -192, 768)}痛苦van分
+Dialogue: 3,0:02:14.95,0:02:23.28,AcplayDefault,,0000,0000,0000,,{\move(1984, 832, -64, 832)}泪目
+Dialogue: 3,0:02:15.93,0:02:24.27,AcplayDefault,,0000,0000,0000,,{\move(1984, 896, -64, 896)}泪目
+Dialogue: 3,0:02:16.56,0:02:24.89,AcplayDefault,,0000,0000,0000,,{\move(1984, 64, -64, 64)}泪目
+Dialogue: 3,0:02:19.50,0:02:27.84,AcplayDefault,,0000,0000,0000,,{\move(1984, 128, -64, 128)}泪目
